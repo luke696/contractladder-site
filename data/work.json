@@ -1,0 +1,388 @@
+{
+ "updated": "2026-10-06",
+ "areas": [
+  "Derbyshire",
+  "Nottinghamshire",
+  "Leicestershire",
+  "Lincolnshire",
+  "Northamptonshire",
+  "Rutland"
+ ],
+ "trades": [
+  "Building & refurbishment",
+  "Maintenance & repairs",
+  "Heating & plumbing",
+  "Electrical & renewables",
+  "Roofing & cladding",
+  "Surfacing & groundworks",
+  "Grounds & landscaping",
+  "Lifts",
+  "Demolition",
+  "Plant hire"
+ ],
+ "tenders": [
+  {
+   "id": "087042-2026",
+   "title": "Repair and maintenance of heating equipment, heating controls and CO monitors",
+   "buyer": "Derbyshire County Council",
+   "area": "Derbyshire",
+   "place": "Countywide",
+   "value": "2 lots × £510,000",
+   "term": "Dec 2026 – Mar 2028, +3 yrs",
+   "closes": "2026-10-12T11:00",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "call": "skip",
+   "why": "Two lots, so a smaller firm can bid for one. Closes very soon: only for firms with documents ready.",
+   "route": "Full tender",
+   "portal": "ProContract"
+  },
+  {
+   "id": "088570-2026",
+   "title": "Footpath improvements at Sutton Lawn Park",
+   "buyer": "Ashfield District Council",
+   "area": "Nottinghamshire",
+   "place": "Sutton-in-Ashfield",
+   "value": "£42,000",
+   "term": "Nov 2026 – Feb 2027",
+   "closes": "2026-10-16T12:00",
+   "trades": [
+    "Surfacing & groundworks",
+    "Grounds & landscaping"
+   ],
+   "call": "bid",
+   "why": "Small, clearly specified and priced from a schedule of works. An ideal first council job.",
+   "route": "Quotation",
+   "portal": "ProContract"
+  },
+  {
+   "id": "091625-2026",
+   "title": "Replacement passenger lift, Antenna Building",
+   "buyer": "Nottingham Trent University",
+   "area": "Nottinghamshire",
+   "place": "Nottingham city centre",
+   "value": "£150,000",
+   "term": "2027",
+   "closes": "2026-10-19T12:00",
+   "trades": [
+    "Lifts"
+   ],
+   "call": "bid",
+   "why": "A single lift replacement at a size a regional lift firm can win.",
+   "route": "Full tender",
+   "portal": "Find a Tender notice"
+  },
+  {
+   "id": "089311-2026",
+   "title": "Maintenance operative service, Pleasley Vale Business Park and corporate properties",
+   "buyer": "Bolsover District Council",
+   "area": "Derbyshire",
+   "place": "Pleasley Vale",
+   "value": "£200,000",
+   "term": "Dec 2026 – Nov 2028, +2 yrs",
+   "closes": "2026-10-22T12:00",
+   "trades": [
+    "Maintenance & repairs",
+    "Grounds & landscaping"
+   ],
+   "call": "bid",
+   "why": "37 hours a week of handyman-style work. Steady income for a small multi-trade firm.",
+   "route": "Full tender",
+   "portal": "In-Tend (Bolsover)"
+  },
+  {
+   "id": "094043-2026",
+   "title": "Car parks resurfacing and footpaths repair scheme",
+   "buyer": "Erewash Borough Council",
+   "area": "Derbyshire",
+   "place": "Ilkeston & Long Eaton",
+   "value": "£204,000",
+   "term": "Nov – Dec 2026",
+   "closes": "2026-10-23T12:00",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "call": "bid",
+   "why": "A short winter programme for a surfacing contractor.",
+   "route": "Full tender",
+   "portal": "EastMidsTenders"
+  },
+  {
+   "id": "093280-2026",
+   "title": "Passenger lift refurbishment, DH Lawrence Building",
+   "buyer": "Nottingham Trent University",
+   "area": "Nottinghamshire",
+   "place": "Clifton campus",
+   "value": "£80,000",
+   "term": "2027",
+   "closes": "2026-10-23T12:00",
+   "trades": [
+    "Lifts"
+   ],
+   "call": "bid",
+   "why": "A refurbishment rather than a replacement. A good entry job for a lift firm.",
+   "route": "Full tender",
+   "portal": "Find a Tender notice"
+  },
+  {
+   "id": "089979-2026",
+   "title": "Refurbishment of Autumn Day Centre",
+   "buyer": "North Northamptonshire Council",
+   "area": "Northamptonshire",
+   "place": "Corby",
+   "value": "£228,000",
+   "term": "Jan – Nov 2027",
+   "closes": "2026-10-26T12:00",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "call": "bid",
+   "why": "A design-complete refurbishment of a dementia day centre at a size a local builder can run.",
+   "route": "Full tender",
+   "portal": "ProContract"
+  },
+  {
+   "id": "092527-2026",
+   "title": "Resurfacing of Blatherwick's Yard car park",
+   "buyer": "Gedling Borough Council",
+   "area": "Nottinghamshire",
+   "place": "Arnold",
+   "value": "£144,000",
+   "term": "Dec 2026 – Mar 2027",
+   "closes": "2026-10-29T12:00",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "call": "bid",
+   "why": "Reserved for small firms and charities, so big contractors can't bid against you.",
+   "route": "Quotation",
+   "portal": "In-Tend (Gedling)"
+  },
+  {
+   "id": "092659-2026",
+   "title": "Equine classroom redevelopment, Brooksby College",
+   "buyer": "Loughborough College",
+   "area": "Leicestershire",
+   "place": "Brooksby, Melton",
+   "value": "£360,000",
+   "term": "Jun – Aug 2027",
+   "closes": "2026-10-29T12:00",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "call": "check",
+   "why": "Fits builders with education or occupied-site experience of a few hundred thousand pounds.",
+   "route": "Full tender",
+   "portal": "Delta eSourcing"
+  },
+  {
+   "id": "091861-2026",
+   "title": "Servicing and repairs of renewable installations in council homes",
+   "buyer": "Hinckley & Bosworth Borough Council",
+   "area": "Leicestershire",
+   "place": "Hinckley & Bosworth",
+   "value": "£264,000",
+   "term": "Jan 2027 – Mar 2030",
+   "closes": "2026-10-30T12:00",
+   "trades": [
+    "Electrical & renewables",
+    "Heating & plumbing"
+   ],
+   "call": "check",
+   "why": "Heat pumps, MVHR, air conditioning and solar PV. Fits MCS or F-Gas firms with social housing experience.",
+   "route": "Full tender",
+   "portal": "EastMidsTenders"
+  },
+  {
+   "id": "093903-2026",
+   "title": "Demolition of former Beales store (Mansfield Connect)",
+   "buyer": "Mansfield District Council",
+   "area": "Nottinghamshire",
+   "place": "Mansfield",
+   "value": "£900,000",
+   "term": "Jan – Jun 2027",
+   "closes": "2026-10-30T12:00",
+   "trades": [
+    "Demolition"
+   ],
+   "call": "skip",
+   "why": "Licensed demolition contractors only. Watch for the new-build contract that follows.",
+   "route": "Full tender",
+   "portal": "Source East Midlands"
+  },
+  {
+   "id": "088505-2026",
+   "title": "Grounds maintenance operated plant framework",
+   "buyer": "Nottingham City Council",
+   "area": "Nottinghamshire",
+   "place": "Nottingham",
+   "value": "£480,000",
+   "term": "Dec 2026 – Dec 2030",
+   "closes": "2026-10-30T12:00",
+   "trades": [
+    "Plant hire",
+    "Grounds & landscaping"
+   ],
+   "call": "check",
+   "why": "For land contractors with their own tractors and flail kit. A framework, so work isn't guaranteed.",
+   "route": "Framework",
+   "portal": "EastMidsTenders"
+  },
+  {
+   "id": "089081-2026",
+   "title": "Grounds maintenance contract",
+   "buyer": "Stanwick Parish Council",
+   "area": "Northamptonshire",
+   "place": "Stanwick",
+   "value": "£120,000",
+   "term": "Mar 2027 – Feb 2030, +1 yr",
+   "closes": "2026-10-30T23:59",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "call": "bid",
+   "why": "Three years of regular work, submitted by email with no portal to register on.",
+   "route": "Quotation",
+   "portal": "Email to the parish clerk"
+  },
+  {
+   "id": "089143-2026",
+   "title": "Installing and maintaining the Matlock Bath Illuminations",
+   "buyer": "Derbyshire Dales District Council",
+   "area": "Derbyshire",
+   "place": "Matlock Bath",
+   "value": "£244,000",
+   "term": "2027–2029 seasons, +2",
+   "closes": "2026-11-06T12:00",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "call": "bid",
+   "why": "Three seasons of repeat work for a local electrical contractor.",
+   "route": "Full tender",
+   "portal": "ProContract"
+  }
+ ],
+ "projects": [
+  {
+   "ref": "24/01329/PFUL3",
+   "title": "Former Central Library converted to student halls and 2 shops",
+   "area": "Nottinghamshire",
+   "place": "Nottingham city centre",
+   "trades": [
+    "Building & refurbishment",
+    "Electrical & renewables",
+    "Heating & plumbing"
+   ],
+   "approved": "2026-09-16",
+   "contact": "WA Architecture, West Bridgford",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=SHSH87LYIKY00&activeTab=summary"
+  },
+  {
+   "ref": "26/00394/PFUL3",
+   "title": "Extension to the Boots D105 building",
+   "area": "Nottinghamshire",
+   "place": "Boots Campus, Thane Road",
+   "trades": [
+    "Building & refurbishment",
+    "Surfacing & groundworks",
+    "Roofing & cladding"
+   ],
+   "approved": "2026-09-30",
+   "contact": "Planning and Design Group (UK) Ltd, Sherwood Park",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TBQQ3YLYGKV00&activeTab=summary"
+  },
+  {
+   "ref": "26/01266/PFUL3",
+   "title": "Cladding replacement on penthouse apartments",
+   "area": "Nottinghamshire",
+   "place": "Nottingham city centre",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "approved": "2026-09-30",
+   "contact": "Maber Associates, Lace Market",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIJ0CWLYL4S00&activeTab=summary"
+  },
+  {
+   "ref": "26/01065/PFUL3",
+   "title": "Church: 8 heat pumps, 51 solar panels and new windows",
+   "area": "Nottinghamshire",
+   "place": "Clifton",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables",
+    "Building & refurbishment"
+   ],
+   "approved": "2026-10-05",
+   "contact": "Mark Goodwill-Hodgson Ltd, West Bridgford",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TH1AWRLYGIP00&activeTab=summary"
+  },
+  {
+   "ref": "26/01119/PFUL3",
+   "title": "External wall insulation on several terraced homes",
+   "area": "Nottinghamshire",
+   "place": "Lenton & Radford",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "approved": "2026-10-05",
+   "contact": "Insight Surveyors Ltd, Coventry",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=THFZQVLYHU300&activeTab=summary"
+  },
+  {
+   "ref": "26/01252/PFUL3",
+   "title": "Battery energy storage system at a school",
+   "area": "Nottinghamshire",
+   "place": "Firbeck Road, NG8",
+   "trades": [
+    "Electrical & renewables",
+    "Surfacing & groundworks"
+   ],
+   "approved": "2026-10-05",
+   "contact": "Luke Strange Architecture Ltd",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIGJFELYKQ700&activeTab=summary"
+  },
+  {
+   "ref": "26/01221/PFUL3",
+   "title": "Car dealership refurbishment and car park layout",
+   "area": "Nottinghamshire",
+   "place": "Mansfield Road, NG5",
+   "trades": [
+    "Building & refurbishment",
+    "Surfacing & groundworks",
+    "Roofing & cladding"
+   ],
+   "approved": "2026-09-22",
+   "contact": "Scaramanga Design Ltd",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TI7TJCLYK9G00&activeTab=summary"
+  },
+  {
+   "ref": "26/01001/PFUL3",
+   "title": "Care home conversion: 5 extra bedrooms",
+   "area": "Nottinghamshire",
+   "place": "Waverley Street, NG7",
+   "trades": [
+    "Building & refurbishment",
+    "Electrical & renewables"
+   ],
+   "approved": "2026-09-16",
+   "contact": "Swish Architecture Ltd, West Bridgford",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TGI5ZMLYMPG00&activeTab=summary"
+  },
+  {
+   "ref": "26/01352/PFUL3",
+   "title": "Temporary X-ray unit at City Hospital",
+   "area": "Nottinghamshire",
+   "place": "Hucknall Road, NG5",
+   "trades": [
+    "Surfacing & groundworks",
+    "Electrical & renewables"
+   ],
+   "approved": "2026-10-05",
+   "contact": "Gaskell Building Surveyor, Nottingham",
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TJ0WV2LYMOS00&activeTab=summary"
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Live public tenders and new private projects for trades firms in the East Midlands, filtered by area and trade.">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>This Week's Work · Contract Ladder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky filter bar, then two lists (public tenders, private projects) built from data/work.json. Same brand tokens as the homepage. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#151a18; --muted:#5b655f; --line:#d3d8d2;
+  --accent:#e8a600; --accent-ink:#151a18; --deep:#1b2421; --deep-ink:#eef1ec; --deep-muted:#a3aea8;
+  --good:#2f7d4f; --good-bg:#e1f0e6; --warn:#9a6700; --warn-bg:#fbefd0; --bad:#a3372b; --bad-bg:#f6e0dc;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121715; --surface:#1b221f; --ink:#e9eee9; --muted:#9ba69f; --line:#2e3733;
+  --accent:#f2b623; --accent-ink:#121715; --deep:#0b0f0d; --deep-ink:#e9eee9; --deep-muted:#8f9a94;
+  --good:#6fcf97; --good-bg:#1d3326; --warn:#f2b623; --warn-bg:#3a3018; --bad:#f08a7d; --bad-bg:#3d2320; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121715; --surface:#1b221f; --ink:#e9eee9; --muted:#9ba69f; --line:#2e3733;
+  --accent:#f2b623; --accent-ink:#121715; --deep:#0b0f0d; --deep-ink:#e9eee9; --deep-muted:#8f9a94;
+  --good:#6fcf97; --good-bg:#1d3326; --warn:#f2b623; --warn-bg:#3a3018; --bad:#f08a7d; --bad-bg:#3d2320; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;margin:0}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:20px}
+h1,h2,h3{font-family:var(--display);line-height:1;margin:0;text-wrap:balance}
+p{margin:0}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.eyebrow{font-family:var(--mono);font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+
+header.top{border-bottom:1px solid var(--line);background:var(--bg)}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px}
+.brand{display:flex;align-items:center;gap:10px;font-family:var(--display);font-weight:800;font-size:1.35rem;text-transform:uppercase;letter-spacing:.03em;text-decoration:none}
+.nav{display:flex;align-items:center;gap:20px;font-size:.92rem}
+.nav a{text-decoration:none;color:var(--muted)} .nav a[aria-current]{color:var(--ink);font-weight:600}
+.btn{display:inline-flex;align-items:center;font-weight:700;font-size:.95rem;border:0;border-radius:999px;padding:10px 18px;cursor:pointer;text-decoration:none;background:var(--accent);color:var(--accent-ink);white-space:nowrap}
+.btn.ghost{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 2px var(--line)}
+.btn.small{padding:7px 14px;font-size:.88rem}
+
+.hero{background:var(--deep);color:var(--deep-ink);padding-block:44px 40px}
+.hero .eyebrow{color:var(--accent)}
+.hero h1{font-size:clamp(2.6rem,7vw,4.6rem);font-weight:800;text-transform:uppercase;margin-top:10px}
+.hero p{color:var(--deep-muted);margin-top:14px;max-width:60ch}
+.stats{display:flex;flex-wrap:wrap;gap:10px 28px;margin-top:22px;font-family:var(--mono);font-size:.85rem;color:var(--deep-ink)}
+.stats b{font-family:var(--display);font-size:1.8rem;color:var(--accent);margin-right:6px;font-weight:800}
+
+.filters{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.frow{display:flex;flex-wrap:wrap;align-items:end;gap:12px 16px;padding-block:14px}
+.field{display:grid;gap:4px;min-width:0}
+.field label{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+select{font:inherit;font-size:.95rem;padding:9px 34px 9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);min-width:200px;max-width:100%}
+.count{margin-left:auto;font-size:.9rem;color:var(--muted)}
+
+section.list{padding-block:36px 8px}
+.sec{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:3px solid var(--ink);padding-bottom:8px}
+.sec h2{font-size:1.9rem;font-weight:800;text-transform:uppercase}
+.sub{color:var(--muted);margin-top:10px;max-width:70ch;font-size:.95rem}
+
+.t{display:grid;grid-template-columns:108px 1fr;gap:18px;padding-block:20px;border-bottom:1px solid var(--line)}
+.due{display:grid;align-content:start;gap:2px}
+.due .lbl{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.due .d{font-family:var(--display);font-weight:800;font-size:1.5rem;line-height:1.05;white-space:nowrap}
+.due .m{font-family:var(--mono);font-size:.74rem;color:var(--muted)}
+.due .left{margin-top:6px;font-family:var(--mono);font-size:.72rem;padding:2px 6px;border-radius:3px;background:var(--line);justify-self:start}
+.due .left.hot{background:var(--accent);color:var(--accent-ink)}
+.body{display:grid;gap:8px;min-width:0}
+.head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 14px;align-items:flex-start}
+.head h3{font-family:var(--body);font-size:1.06rem;font-weight:700;line-height:1.3;max-width:62ch}
+.chip{font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;text-transform:uppercase;padding:3px 8px;border-radius:3px;white-space:nowrap}
+.bid{background:var(--good-bg);color:var(--good)} .check{background:var(--warn-bg);color:var(--warn)} .skip{background:var(--bad-bg);color:var(--bad)}
+.meta{display:flex;flex-wrap:wrap;gap:4px 16px;font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.meta strong{color:var(--ink);font-weight:500}
+.why{font-size:.94rem;color:var(--muted);max-width:68ch}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tag{font-size:.76rem;border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--muted)}
+.act{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;margin-top:2px}
+.act a.lnk{font-size:.88rem;color:var(--muted)}
+
+.p{display:grid;grid-template-columns:1fr auto;gap:8px 18px;padding-block:18px;border-bottom:1px solid var(--line)}
+.p h3{font-family:var(--body);font-size:1.02rem;font-weight:700;line-height:1.3}
+.p .when{font-family:var(--mono);font-size:.78rem;color:var(--muted);white-space:nowrap}
+.locked{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.88rem}
+.blur{filter:blur(5px);user-select:none;color:var(--muted)}
+.lock{font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;text-transform:uppercase;background:var(--deep);color:var(--accent);padding:3px 8px;border-radius:3px}
+
+.empty{padding:28px 0;color:var(--muted)}
+.cta{margin-block:44px 24px;background:var(--surface);border:2px solid var(--accent);border-radius:12px;padding:26px;display:grid;gap:10px}
+.cta h2{font-size:1.9rem;font-weight:800;text-transform:uppercase}
+.cta p{color:var(--muted);max-width:62ch}
+footer{padding-block:28px 44px;font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);margin-top:28px}
+footer .wrap{display:grid;gap:6px}
+
+@media (max-width:760px){
+  .nav a:not(.btn){display:none}
+  .t{grid-template-columns:1fr;gap:10px}
+  .due{grid-template-columns:auto auto auto auto;align-items:baseline;gap:8px}
+  .due .left{margin-top:0}
+  .p{grid-template-columns:1fr}
+  select{min-width:0;width:100%}
+  .field{flex:1 1 100%}
+  .count{margin-left:0}
+}
+</style>
+
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="index.html">
+      <svg width="18" height="24" viewBox="0 0 20 26" aria-hidden="true"><rect x="1" y="0" width="3" height="26" fill="currentColor"/><rect x="16" y="0" width="3" height="26" fill="currentColor"/><rect x="1" y="3" width="18" height="3" fill="var(--accent)"/><rect x="1" y="11" width="18" height="3" fill="currentColor"/><rect x="1" y="19" width="18" height="3" fill="currentColor"/></svg>
+      Contract Ladder
+    </a>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="work.html" aria-current="page">This week's work</a>
+      <a href="about.html">About</a>
+      <a class="btn small" href="index.html#start">Free Radar</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Updated <span id="upd">weekly</span></p>
+      <h1>This week's work in the East Midlands</h1>
+      <p>Live public tenders and newly approved private projects for trades firms. Pick your area and trade to see what's out there for you.</p>
+      <div class="stats" aria-live="polite"><span><b id="sT">–</b>open tenders</span><span><b id="sP">–</b>new private projects</span></div>
+    </div>
+  </div>
+
+  <div class="filters">
+    <div class="wrap frow">
+      <div class="field"><label for="area">Your area</label><select id="area"><option value="">All East Midlands</option></select></div>
+      <div class="field"><label for="trade">Your trade</label><select id="trade"><option value="">All trades</option></select></div>
+      <span class="count" id="count"></span>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section class="list" aria-labelledby="h-t">
+      <div class="sec"><h2 id="h-t">Public tenders</h2><span class="eyebrow">Open now</span></div>
+      <p class="sub">Council, NHS, college and housing contracts you can bid for. Each one has our straight call: bid, check, or skip.</p>
+      <div id="tenders"><p class="empty">Loading this week's tenders…</p></div>
+    </section>
+
+    <section class="list" aria-labelledby="h-p">
+      <div class="sec"><h2 id="h-p">New private projects</h2><span class="eyebrow">Radar Plus</span></div>
+      <p class="sub">Commercial projects that have just been granted planning permission. They aren't tenders yet: the architect or agent picks the contractors, so get on their list early. Radar Plus members get the contact for each one.</p>
+      <div id="projects"><p class="empty">Loading new projects…</p></div>
+    </section>
+
+    <div class="cta">
+      <p class="eyebrow">Free for 4 weeks</p>
+      <h2 id="ctaH">Get this list for your patch every week</h2>
+      <p>We'll email you the tenders and projects that match your area and trades, with a call on each one. No card, and you can stop any time.</p>
+      <div class="act"><a class="btn" id="ctaBtn" href="mailto:luke@contractladder.co.uk?subject=Free%20Tender%20Radar">Start my free Radar</a><span class="why">Or email luke@contractladder.co.uk</span></div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Sources: Find a Tender (find-tender.service.gov.uk) and council planning registers. Values are the buyer's estimates. Our calls are a first view from the published notice; read the full documents before you decide.</span>
+    <span>Contract Ladder is a trading name of Tactics Automation Limited. Registered in England &amp; Wales, company no. 16356318. Registered office: First Floor Willow House, Kingswood Business Park, Holyhead Road, South Staffordshire, WV7 3AU. <a href="privacy.html">Privacy notice</a></span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var MAIL='luke@contractladder.co.uk', DATA=null, NOW=new Date();
+  var $=function(id){return document.getElementById(id)};
+  var esc=function(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+  var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function fmt(d){return d.getDate()+' '+MON[d.getMonth()]}
+  function mailto(subj,body){return 'mailto:'+MAIL+'?subject='+encodeURIComponent(subj)+'&body='+encodeURIComponent(body)}
+  var CALL={bid:'Bid',check:'Check',skip:'Tight / specialist'};
+
+  function render(){
+    var a=$('area').value, tr=$('trade').value;
+    var match=function(x){return (!a||x.area===a)&&(!tr||x.trades.indexOf(tr)>-1)};
+    var tenders=DATA.tenders.filter(function(t){return new Date(t.closes)>NOW}).filter(match).sort(function(x,y){return x.closes<y.closes?-1:1});
+    var projects=DATA.projects.filter(match).sort(function(x,y){return x.approved<y.approved?1:-1});
+    $('count').textContent=tenders.length+' tenders · '+projects.length+' projects';
+
+    $('tenders').innerHTML=tenders.length?tenders.map(function(t){
+      var c=new Date(t.closes), days=Math.ceil((c-NOW)/864e5);
+      var body='Hi Luke,\n\nPlease send me the free summary for:\n'+t.title+'\n'+t.buyer+'\nNotice '+t.id+'\n\nOur company name: \nOur main trades: \n\nThanks';
+      return '<article class="t"><div class="due"><span class="lbl">Closes</span><span class="d">'+fmt(c)+'</span><span class="m">'+c.toTimeString().slice(0,5)+'</span><span class="left'+(days<=10?' hot':'')+'">'+days+' day'+(days===1?'':'s')+'</span></div>'+
+        '<div class="body"><div class="head"><h3>'+esc(t.title)+'</h3><span class="chip '+t.call+'">'+CALL[t.call]+'</span></div>'+
+        '<div class="meta"><span>'+esc(t.buyer)+'</span><span>'+esc(t.place)+'</span><span><strong>'+esc(t.value)+'</strong></span><span>'+esc(t.term)+'</span><span>'+esc(t.route)+'</span></div>'+
+        '<p class="why">'+esc(t.why)+'</p>'+
+        '<div class="tags">'+t.trades.map(function(x){return '<span class="tag">'+esc(x)+'</span>'}).join('')+'</div>'+
+        '<div class="act"><a class="btn small" href="'+mailto('Free summary: '+t.title+' ('+t.id+')',body)+'">Get the free summary</a><a class="lnk" href="https://www.find-tender.service.gov.uk/Notice/'+esc(t.id)+'" target="_blank" rel="noopener">View the official notice</a></div></div></article>';
+    }).join(''):'<p class="empty">No open tenders match right now. Try "All trades" or a neighbouring area. New tenders are added every week.</p>';
+
+    $('projects').innerHTML=projects.length?projects.map(function(p){
+      return '<article class="p"><div class="body"><h3>'+esc(p.title)+'</h3><div class="meta"><span>'+esc(p.place)+'</span><span>'+esc(p.area)+'</span></div>'+
+        '<div class="tags">'+p.trades.map(function(x){return '<span class="tag">'+esc(x)+'</span>'}).join('')+'</div>'+
+        '<div class="locked"><span>Who to contact:</span><span class="blur" aria-hidden="true">Architect name, town</span><span class="lock">Radar Plus</span></div></div>'+
+        '<span class="when">Approved '+fmt(new Date(p.approved))+'</span></article>';
+    }).join(''):'<p class="empty">No new projects logged for this area yet. We\'re adding councils every week, starting with Nottingham.</p>';
+
+    var areaTxt=a||'the East Midlands', tradeTxt=tr||'my trades';
+    $('ctaH').textContent='Get this list for '+(a||'your patch')+' every week';
+    $('ctaBtn').href=mailto('Free Tender Radar: '+areaTxt,'Hi Luke,\n\nPlease start my free 4-week Tender Radar.\n\nCompany name: \nArea: '+areaTxt+'\nTrades: '+tradeTxt+'\nBiggest job in the last 3 years (roughly): \n\nThanks');
+    try{localStorage.setItem('cl-filter',JSON.stringify({a:a,t:tr}))}catch(e){}
+  }
+
+  fetch('data/work.json').then(function(r){return r.json()}).then(function(d){
+    DATA=d;
+    var u=new Date(d.updated); $('upd').textContent=u.getDate()+' '+MON[u.getMonth()]+' '+u.getFullYear();
+    d.areas.forEach(function(x){$('area').insertAdjacentHTML('beforeend','<option>'+esc(x)+'</option>')});
+    d.trades.forEach(function(x){$('trade').insertAdjacentHTML('beforeend','<option>'+esc(x)+'</option>')});
+    $('sT').textContent=d.tenders.filter(function(t){return new Date(t.closes)>NOW}).length;
+    $('sP').textContent=d.projects.length;
+    try{var s=JSON.parse(localStorage.getItem('cl-filter')||'{}'); if(s.a)$('area').value=s.a; if(s.t)$('trade').value=s.t;}catch(e){}
+    $('area').onchange=render; $('trade').onchange=render; render();
+  }).catch(function(){
+    $('tenders').innerHTML='<p class="empty">This week\'s list couldn\'t load. Refresh the page, or email '+MAIL+' and we\'ll send it to you.</p>';
+    $('projects').innerHTML='';
+  });
+})();
+</script>
+
+</body>
+</html>

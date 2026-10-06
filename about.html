@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Contract Ladder is run by Luke Martinson, a Nottingham contractor who helps small trades firms win public work.">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>About · Contract Ladder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a short, personal page. Big statement, the story in three short blocks, then how we work and contact. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#151a18; --muted:#5b655f; --line:#d3d8d2;
+  --accent:#e8a600; --accent-ink:#151a18; --deep:#1b2421; --deep-ink:#eef1ec; --deep-muted:#a3aea8;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121715; --surface:#1b221f; --ink:#e9eee9; --muted:#9ba69f; --line:#2e3733;
+  --accent:#f2b623; --accent-ink:#121715; --deep:#0b0f0d; --deep-ink:#e9eee9; --deep-muted:#8f9a94; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121715; --surface:#1b221f; --ink:#e9eee9; --muted:#9ba69f; --line:#2e3733;
+  --accent:#f2b623; --accent-ink:#121715; --deep:#0b0f0d; --deep-ink:#e9eee9; --deep-muted:#8f9a94; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.65;margin:0}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:20px}
+.narrow{max-width:720px}
+h1,h2,h3{font-family:var(--display);line-height:1;margin:0;text-wrap:balance;text-transform:uppercase}
+p{margin:0}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.eyebrow{font-family:var(--mono);font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+header.top{border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:12px}
+.brand{display:flex;align-items:center;gap:10px;font-family:var(--display);font-weight:800;font-size:1.35rem;text-transform:uppercase;letter-spacing:.03em;text-decoration:none}
+.nav{display:flex;align-items:center;gap:20px;font-size:.92rem}
+.nav a{text-decoration:none;color:var(--muted)} .nav a[aria-current]{color:var(--ink);font-weight:600}
+.btn{display:inline-flex;align-items:center;font-weight:700;font-size:.95rem;border:0;border-radius:999px;padding:10px 18px;text-decoration:none;background:var(--accent);color:var(--accent-ink);white-space:nowrap}
+.btn.small{padding:7px 14px;font-size:.88rem}
+.hero{padding-block:clamp(56px,9vw,110px) 40px}
+.hero h1{font-size:clamp(2.8rem,8vw,5.8rem);font-weight:800;max-width:14ch}
+.hero h1 span{color:var(--muted)}
+.story{display:grid;gap:22px;padding-block:24px 64px}
+.story p{font-size:1.12rem}
+.story p.big{font-family:var(--display);font-size:clamp(1.6rem,3.5vw,2.2rem);font-weight:700;text-transform:none;line-height:1.15}
+.band{background:var(--deep);color:var(--deep-ink);padding-block:64px}
+.band .eyebrow{color:var(--accent)}
+.band h2{font-size:clamp(2.2rem,5vw,3.4rem);font-weight:800;margin-top:12px}
+.rules{display:grid;grid-template-columns:repeat(2,1fr);gap:28px 40px;margin-top:40px}
+.rules div{border-top:3px solid var(--accent);padding-top:14px;display:grid;gap:6px;min-width:0}
+.rules h3{font-size:1.5rem;font-weight:700}
+.rules p{color:var(--deep-muted)}
+.contact{padding-block:64px;display:grid;gap:16px}
+.contact h2{font-size:clamp(2.2rem,5vw,3.4rem);font-weight:800}
+.mail{font-family:var(--mono);font-size:1.15rem;user-select:all}
+footer{padding-block:28px 44px;font-size:.82rem;color:var(--muted);border-top:1px solid var(--line)}
+footer .wrap{display:grid;gap:6px}
+@media (max-width:760px){ .nav a:not(.btn){display:none} .rules{grid-template-columns:1fr} }
+</style>
+
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="index.html">
+      <svg width="18" height="24" viewBox="0 0 20 26" aria-hidden="true"><rect x="1" y="0" width="3" height="26" fill="currentColor"/><rect x="16" y="0" width="3" height="26" fill="currentColor"/><rect x="1" y="3" width="18" height="3" fill="var(--accent)"/><rect x="1" y="11" width="18" height="3" fill="currentColor"/><rect x="1" y="19" width="18" height="3" fill="currentColor"/></svg>
+      Contract Ladder
+    </a>
+    <nav class="nav">
+      <a href="index.html">Home</a>
+      <a href="work.html">This week's work</a>
+      <a href="about.html" aria-current="page">About</a>
+      <a class="btn small" href="index.html#start">Free Radar</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="wrap hero">
+    <p class="eyebrow">About Contract Ladder</p>
+    <h1 style="margin-top:16px">Built by a contractor. <span>For contractors.</span></h1>
+  </section>
+
+  <section class="wrap narrow story">
+    <p class="big">I'm Luke Martinson. I run a small contracting business in Nottingham, so I know this side of the fence.</p>
+    <p>My own firm, TA Thermal, installs and maintains industrial trace heating. To get on the approved lists of utilities and big industrial clients, I went through the supplier vetting myself: the questionnaires, the policies, the evidence, the portals. It's slow, it's confusing, and none of it has anything to do with how good you are at the job.</p>
+    <p>That's what stops good local firms winning public work. Not the work itself. The paperwork around it. So most small firms either give up on council contracts or end up subcontracting to the big names at the big names' rates.</p>
+    <p>Contract Ladder fixes the paperwork. We watch every public notice in the East Midlands, tell you straight which ones are worth your time, and write the bid from your own evidence. You check it, you submit it, you win the work.</p>
+  </section>
+
+  <section class="band">
+    <div class="wrap">
+      <p class="eyebrow">How we work</p>
+      <h2>Four promises</h2>
+      <div class="rules">
+        <div><h3>Only the truth</h3><p>We write only what's true about your firm, from your own documents. No invented jobs, certificates or figures.</p></div>
+        <div><h3>A straight answer</h3><p>If a tender isn't worth your time, we'll say so, even when it means we don't get paid.</p></div>
+        <div><h3>You stay in control</h3><p>You read every word and press submit. The bid is yours and so is the contract.</p></div>
+        <div><h3>Open about how</h3><p>We use AI tools to research and draft, and we check everything before it reaches you. If a buyer asks, you can say so with confidence.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap narrow contact">
+    <p class="eyebrow">Talk to Luke</p>
+    <h2>Got a tender in front of you?</h2>
+    <p>Send it over and I'll tell you honestly whether it's worth going for. That first look is free.</p>
+    <p class="mail">luke@contractladder.co.uk</p>
+    <p><a class="btn" href="work.html">See this week's work</a></p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Contract Ladder is a trading name of Tactics Automation Limited. Registered in England &amp; Wales, company no. 16356318. VAT no. GB 498 7692 03.</span>
+    <span>Registered office: First Floor Willow House, Kingswood Business Park, Holyhead Road, South Staffordshire, WV7 3AU. <a href="privacy.html">Privacy notice</a></span>
+  </div>
+</footer>
+
+</body>
+</html>
