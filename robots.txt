@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /t/
+Disallow: /tools/
+
+Sitemap: https://contractladder.co.uk/sitemap.xml
