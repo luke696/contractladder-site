@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Your Bid Profile · Contract Ladder</title>
+<meta name="description" content="Tell us about your firm once. We use it to write every bid for you.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#1c2421">
+<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Public+Sans:wght@400;600;700&display=swap">
+<style>
+/* Layout: one column form in numbered sections, sticky progress bar, a summary panel at the end. Same brand tokens as the site. */
+:root{--bg:#f3f4f1;--surface:#ffffff;--ink:#151a18;--muted:#5b655f;--line:#d3d8d2;--accent:#e8a600;--accent-ink:#151a18;--good:#2f7d4f;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#121715;--surface:#1b221f;--ink:#e9eee9;--muted:#9ba69f;--line:#2e3733;--accent:#f2b623;--accent-ink:#121715;--good:#6fcf97;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121715;--surface:#1b221f;--ink:#e9eee9;--muted:#9ba69f;--line:#2e3733;--accent:#f2b623;--accent-ink:#121715;--good:#6fcf97;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;margin:0}
+.wrap{max-width:760px;margin:0 auto;padding-inline:20px;padding-block:32px 80px}
+a{color:inherit}
+.back{display:inline-block;margin-bottom:24px;font-weight:600;text-decoration:none;border-bottom:2px solid var(--accent)}
+h1{font-family:var(--display);font-size:clamp(2.4rem,7vw,3.6rem);text-transform:uppercase;line-height:.95;margin:0 0 12px}
+h2{font-family:var(--display);font-size:1.6rem;text-transform:uppercase;line-height:1;margin:0;display:flex;gap:12px;align-items:baseline}
+h2 .n{font-size:1rem;color:var(--muted);font-family:var(--body);font-weight:700}
+.lead{color:var(--muted);max-width:60ch;margin:0 0 8px}
+.facts{display:flex;flex-wrap:wrap;gap:8px 18px;color:var(--muted);font-size:.9rem;margin:14px 0 0;padding:0;list-style:none}
+.facts li::before{content:"✓ ";color:var(--good);font-weight:700}
+.progress{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;border-bottom:1px solid var(--line);margin-top:24px}
+.bar{height:6px;background:var(--line);border-radius:6px;overflow:hidden}
+.bar span{display:block;height:100%;width:0;background:var(--accent);transition:width .2s}
+.ptext{font-size:.82rem;color:var(--muted);margin-top:6px}
+fieldset{border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:20px;margin:22px 0 0;display:grid;gap:16px;min-width:0}
+legend{padding:0}
+.why{color:var(--muted);font-size:.9rem;margin:-6px 0 0}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.grid > *{min-width:0}
+label.f{display:grid;gap:5px;font-weight:600;font-size:.92rem}
+label.f small{font-weight:400;color:var(--muted)}
+input[type=text],input[type=email],input[type=tel],input[type=number],input[type=url],select,textarea{font:inherit;font-size:1rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px 12px;width:100%;min-width:0}
+textarea{min-height:84px;resize:vertical}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.checks{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px 14px}
+.checks label{display:flex;gap:8px;align-items:flex-start;font-size:.95rem}
+.checks input{margin-top:4px;accent-color:var(--accent)}
+.job{border-top:1px dashed var(--line);padding-top:16px;display:grid;gap:14px}
+.job:first-of-type{border-top:0;padding-top:0}
+.job h3{margin:0;font-size:1rem}
+.choice{display:grid;gap:10px}
+.choice label{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:10px;padding:12px;cursor:pointer;background:var(--bg)}
+.choice input{margin-top:5px;accent-color:var(--accent)}
+.choice b{display:block}
+.choice span{color:var(--muted);font-size:.9rem}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:inherit;font-weight:700;border:0;border-radius:999px;padding:13px 24px;cursor:pointer;text-decoration:none;background:var(--accent);color:var(--accent-ink)}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:24px}
+.note{font-size:.85rem;color:var(--muted)}
+#done{margin-top:28px;border:2px solid var(--accent);border-radius:12px;padding:20px;background:var(--surface);display:grid;gap:14px}
+#done ol{margin:0;padding-left:20px;display:grid;gap:6px}
+#out{width:100%;min-height:220px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.82rem}
+.mail{font-weight:700;user-select:all}
+@media (max-width:560px){.grid{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){.bar span{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← Contract Ladder</a>
+  <h1>Your bid profile</h1>
+  <p class="lead">Tell us about your firm once. We use it to write every bid for you, so you're not asked the same questions twice. It takes about 15 minutes. Leave out anything you don't have and we'll tell you if it matters.</p>
+  <ul class="facts"><li>Saved as you type on this device</li><li>Only used for your bids</li><li>Nothing is invented: we only write what's true</li></ul>
+
+  <div class="progress" aria-live="polite"><div class="bar"><span id="pbar"></span></div><div class="ptext" id="ptext">0 of 9 sections started</div></div>
+
+  <form id="f" novalidate></form>
+
+  <div id="done" hidden>
+    <h2>Nearly done</h2>
+    <ol>
+      <li>Click <b>Email my profile</b>. Your answers open in a new email to <span class="mail">luke@contractladder.co.uk</span>.</li>
+      <li>Attach your documents to that email (list below), then send.</li>
+      <li>If the email doesn't open, click <b>Copy my answers</b>, paste them into an email to that address, and attach your documents.</li>
+    </ol>
+    <p class="note" id="docsList"></p>
+    <div class="actions" style="margin-top:0">
+      <a class="btn" id="mailBtn" href="#">Email my profile</a>
+      <button class="btn ghost" type="button" id="copyBtn">Copy my answers</button>
+      <span class="note" id="copyMsg"></span>
+    </div>
+    <label class="f">Your answers<textarea id="out" readonly></textarea></label>
+  </div>
+
+  <p class="note" style="margin-top:28px">Contract Ladder is a trading name of Tactics Automation Limited (company no. 16356318). How we use your information: <a href="privacy.html">privacy notice</a>.</p>
+</div>
+
+<script>
+(function(){
+  var S=[
+    {id:'co',t:'Your company',why:'Goes on the cover of every bid and the buyer\'s supplier forms.',f:[
+      ['legal','Registered company name','text'],['number','Company number','text'],['vat','VAT number','text','If registered'],['address','Registered address','textarea'],
+      ['contact','Main contact for bids','text','Name and role'],['phone','Phone','tel'],['email','Email','email'],['web','Website','url'],
+      ['staff','Number of employees','number'],['turnover','Turnover last year (£)','text','Roughly is fine'],['years','Years trading','number'],['jobsize','Job size you like','text','e.g. £20k–£250k']]},
+    {id:'work',t:'What you do and where',why:'So we only bring you tenders you can win.',f:[
+      ['trades','Your trades','textarea','e.g. car park surfacing, footpaths, drainage'],['areas','Where you work','textarea','Towns, postcodes or "within 40 miles of …"'],['clients','Who you work for now','textarea','e.g. retail parks, schools, housing associations, main contractors']]},
+    {id:'ins',t:'Insurance',why:'Almost every tender sets minimum levels. Below them, the bid is thrown out.',f:[
+      ['el','Employer\'s liability (£)','text','Usually £5m or £10m'],['el_exp','Renewal date','text'],['pl','Public liability (£)','text','Often £5m or £10m asked for'],['pl_exp','Renewal date','text'],['pi','Professional indemnity (£)','text','Only if you design anything'],['car','Contract works / other cover','text']]},
+    {id:'acc',t:'Accreditations and memberships',why:'Saves pages of health and safety questions on many tenders.',checks:['CHAS','SafeContractor','Constructionline Silver','Constructionline Gold','SMAS Worksafe','Acclaim','ISO 9001 (quality)','ISO 14001 (environment)','ISO 45001 (safety)','Gas Safe','NICEIC / NAPIT','LOLER / SAFed (lifts)','NFDC (demolition)','Licensed asbestos','Considerate Constructors'],f:[['acc_other','Anything else, and expiry dates','textarea']]},
+    {id:'pol',t:'Policies and safety record',why:'Tick what you already have. Missing ones can be written as part of your Bid Library.',checks:['Health and safety policy','Risk assessments and method statements (RAMS)','Quality policy','Environmental policy','Equality and diversity policy','Modern slavery statement','Data protection (GDPR) policy','Safeguarding policy','Business continuity plan','Anti-bribery policy'],f:[
+      ['riddor','RIDDOR-reportable incidents in the last 3 years','text','A number, even if it\'s 0'],['hse','Any HSE notices or prosecutions in 3 years?','text','Yes / No, and details'],['cscs','Site cards your team hold','text','e.g. 6 CSCS, 2 SMSTS, 1 SSSTS, first aiders']]},
+    {id:'ppl',t:'Your key people',why:'Buyers score who will run the job. Real names and real experience score best.',f:[
+      ['p1','Person 1: name, role, years in the trade, qualifications','textarea'],['p2','Person 2 (optional)','textarea']]},
+    {id:'jobs',t:'Three past jobs',why:'The strongest evidence in any bid. Private clients count. Pick jobs closest in size and type to what you want to win.',jobs:3},
+    {id:'sv',t:'Social value and environment',why:'Usually 5–20% of the quality marks. We only claim what you really do.',f:[
+      ['local','How many of your staff live within 15 miles of your yard?','text'],['apprentices','Apprentices or trainees, now or planned','text'],['suppliers','Local suppliers you use','textarea'],['community','Community or charity work','textarea','e.g. local football sponsorship, school visits'],['green','Environmental steps','textarea','e.g. recycling, electric vans, low-carbon materials']]},
+    {id:'price',t:'Pricing',why:'On many quotations price is 60–80% of the marks. Choose how you want it handled.',price:true}
+  ];
+  var DOCS=['Insurance certificates (all policies)','Accreditation certificates','Health and safety policy','Any other policies you ticked','One example RAMS from a recent job','Photos of the three past jobs (optional, but they help)'];
+  var KEY='cl-intake-v1', data={};
+  try{ data=JSON.parse(localStorage.getItem(KEY)||'{}')||{}; }catch(e){ data={}; }
+  var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+  function field(sec,f){
+    var id=sec+'_'+f[0], type=f[2], hint=f[3]?'<small>'+esc(f[3])+'</small>':'';
+    var input= type==='textarea' ? '<textarea id="'+id+'" name="'+id+'"></textarea>' : '<input id="'+id+'" name="'+id+'" type="'+type+'"'+(type==='number'?' inputmode="numeric" min="0"':'')+'>';
+    return '<label class="f" for="'+id+'">'+esc(f[1])+hint+input+'</label>';
+  }
+  var html='';
+  S.forEach(function(s,i){
+    html+='<fieldset id="sec_'+s.id+'" data-sec="'+s.id+'"><legend><h2><span class="n">'+(i+1)+'</span>'+esc(s.t)+'</h2></legend><p class="why">'+esc(s.why)+'</p>';
+    if(s.checks){ html+='<div class="checks">'+s.checks.map(function(c,j){var id=s.id+'_c'+j; return '<label for="'+id+'"><input type="checkbox" id="'+id+'" name="'+id+'" data-label="'+esc(c)+'">'+esc(c)+'</label>'}).join('')+'</div>'; }
+    if(s.f){ var long=s.f.filter(function(f){return f[2]==='textarea'}), short=s.f.filter(function(f){return f[2]!=='textarea'});
+      if(short.length) html+='<div class="grid">'+short.map(function(f){return field(s.id,f)}).join('')+'</div>';
+      html+=long.map(function(f){return field(s.id,f)}).join(''); }
+    if(s.jobs){ for(var j=1;j<=s.jobs;j++){ html+='<div class="job"><h3>Job '+j+'</h3><div class="grid">'+
+      [['client','Client','text'],['where','Where','text'],['value','Value (£)','text'],['when','When finished','text','Month and year']].map(function(f){return field('job'+j,f)}).join('')+'</div>'+
+      field('job'+j,['what','What you did and how it went','textarea','Size, any tricky bits (occupied site, tight access, winter), finished on time and budget?'])+
+      '<div class="grid">'+[['ref','Referee name and role','text'],['refc','Referee phone or email','text']].map(function(f){return field('job'+j,f)}).join('')+'</div></div>'; } }
+    if(s.price){
+      html+='<div class="choice" role="radiogroup" aria-label="How to handle pricing">'+
+        '<label for="pr_rates"><input type="radio" name="price_mode" id="pr_rates" value="rates"><div><b>Use my rates, you build the price</b><span>Give us your rates below. We build and sense-check the full pricing schedule for each tender and you approve the total before anything is sent.</span></div></label>'+
+        '<label for="pr_self"><input type="radio" name="price_mode" id="pr_self" value="self"><div><b>I\'ll fill the pricing in myself</b><span>We send you the buyer\'s pricing form with notes on each line, then check yours adds up and matches the written answers.</span></div></label></div>'+
+        '<div id="rates" hidden><div class="grid">'+[['lab','Labourer day rate (£)','text'],['op','Skilled operative day rate (£)','text'],['sup','Supervisor / foreman day rate (£)','text'],['plant','Main plant hire rates','text','e.g. 6t excavator £x/day'],['mat','Markup on materials (%)','text'],['ohp','Overheads and profit (%)','text'],['min','Smallest job worth your while (£)','text'],['prelim','Typical set-up costs per job (£)','text','Welfare, fencing, signage']].map(function(f){return field('price',f)}).join('')+'</div>'+
+        field('price',['notes','Anything else about how you price','textarea'])+'</div>';
+    }
+    html+='</fieldset>';
+  });
+  html+='<fieldset><legend><h2><span class="n">✓</span>Check and send</h2></legend>'+
+    '<div class="checks"><label for="agree"><input type="checkbox" id="agree" name="agree">Everything above is true, and I\'m happy for Contract Ladder to use it to write bids for my company.</label></div>'+
+    '<div class="actions"><button class="btn" type="submit">Review my answers</button><span class="note" id="err"></span></div></fieldset>';
+  var form=document.getElementById('f'); form.innerHTML=html;
+
+  // restore
+  Object.keys(data).forEach(function(k){ var el=form.elements[k]; if(!el) return;
+    if(el.length && el[0] && el[0].type==='radio'){ Array.prototype.forEach.call(el,function(r){ r.checked=(r.value===data[k]) }); }
+    else if(el.type==='checkbox') el.checked=!!data[k]; else el.value=data[k]; });
+  function syncRates(){ var m=form.elements.price_mode.value; document.getElementById('rates').hidden=(m!=='rates'); }
+  syncRates();
+
+  function progress(){
+    var started=0;
+    S.forEach(function(s){ var fs=document.getElementById('sec_'+s.id); var any=Array.prototype.some.call(fs.querySelectorAll('input,textarea'),function(el){ return (el.type==='checkbox'||el.type==='radio')?el.checked:el.value.trim()!=='' }); if(any) started++; });
+    document.getElementById('pbar').style.width=Math.round(started/S.length*100)+'%';
+    document.getElementById('ptext').textContent=started+' of '+S.length+' sections started';
+  }
+  var saveT=null;
+  form.addEventListener('input',function(e){
+    var el=e.target; if(!el.name) return;
+    data[el.name]= el.type==='checkbox'?el.checked : el.type==='radio'?form.elements[el.name].value : el.value;
+    if(el.name==='price_mode') syncRates();
+    clearTimeout(saveT); saveT=setTimeout(function(){ try{ localStorage.setItem(KEY,JSON.stringify(data)); }catch(err){} },300);
+    progress();
+  });
+  progress();
+
+  function val(id){ var el=form.elements[id]; return el? (el.value||'').trim() : ''; }
+  function build(){
+    var L=['CONTRACT LADDER BID PROFILE','Sent '+new Date().toLocaleDateString('en-GB'),''];
+    S.forEach(function(s,i){
+      L.push('== '+(i+1)+'. '+s.t.toUpperCase()+' ==');
+      if(s.checks){ var got=s.checks.filter(function(c,j){ return form.elements[s.id+'_c'+j].checked }); L.push('Has: '+(got.length?got.join('; '):'none ticked')); }
+      (s.f||[]).forEach(function(f){ var v=val(s.id+'_'+f[0]); if(v) L.push(f[1]+': '+v); });
+      if(s.jobs){ for(var j=1;j<=s.jobs;j++){ var p='job'+j+'_'; var parts=[['client','Client'],['where','Where'],['value','Value'],['when','When'],['what','What'],['ref','Referee'],['refc','Referee contact']].map(function(x){var v=val(p+x[0]); return v?x[1]+': '+v:''}).filter(Boolean); if(parts.length){ L.push('Job '+j+':'); parts.forEach(function(x){L.push('  '+x)}); } } }
+      if(s.price){ var m=form.elements.price_mode.value; L.push('Pricing: '+(m==='rates'?'Use my rates, you build the price':m==='self'?'I will fill the pricing in myself':'not chosen'));
+        if(m==='rates') ['lab','op','sup','plant','mat','ohp','min','prelim','notes'].forEach(function(k){ var lab=form.querySelector('label[for="price_'+k+'"]'); var v=val('price_'+k); if(v) L.push((lab?lab.firstChild.textContent:k)+': '+v); }); }
+      L.push('');
+    });
+    L.push('Confirmed true: '+(form.elements.agree.checked?'yes':'no'));
+    return L.join('\n');
+  }
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    var err=document.getElementById('err');
+    if(!val('co_legal')||!val('co_email')){ err.textContent='Add at least your company name and email in section 1.'; document.getElementById('co_legal').focus(); return; }
+    if(!form.elements.agree.checked){ err.textContent='Tick the box to confirm everything is true.'; return; }
+    err.textContent='';
+    var text=build();
+    document.getElementById('out').value=text;
+    document.getElementById('docsList').innerHTML='<b>Attach:</b> '+DOCS.map(esc).join(' · ');
+    var subject='Bid profile: '+val('co_legal');
+    var body=text.length>1800? 'My bid profile answers are pasted below (or attached).\n\n'+text : text;
+    document.getElementById('mailBtn').href='mailto:luke@contractladder.co.uk?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body);
+    var d=document.getElementById('done'); d.hidden=false; d.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+  document.getElementById('copyBtn').addEventListener('click',function(){
+    var t=document.getElementById('out'), msg=document.getElementById('copyMsg');
+    var done=function(){ msg.textContent='Copied. Paste it into an email to luke@contractladder.co.uk.'; };
+    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(t.value).then(done,function(){ t.select(); msg.textContent='Selected. Press Ctrl+C (or Cmd+C) to copy.'; }); }
+    else { t.select(); msg.textContent='Selected. Press Ctrl+C (or Cmd+C) to copy.'; }
+  });
+})();
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8c65a01ca44945abacf77f7e16eb72c3"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
