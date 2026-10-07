@@ -25,7 +25,8 @@
 <meta name="twitter:description" content="Live public tenders and newly approved projects for trades and construction firms. Filter by area and trade, and get a free summary of any tender.">
 <meta name="twitter:image" content="https://contractladder.co.uk/img/og-image.png">
 <!-- /seo -->
-<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}.more{text-align:center;margin:8px 0 0}
+</style>
 </head>
 <body>
 <title>This Week's Public Tenders for Trades · Contract Ladder</title>
@@ -153,14 +154,14 @@ footer .wrap{display:grid;gap:6px}
     <div class="wrap">
       <p class="eyebrow">Updated <span id="upd">weekly</span></p>
       <h1>This week's work</h1>
-      <p>Live public tenders and newly approved private projects for trades and construction firms. Now covering the East Midlands, with more regions coming. Pick your area and trade to see what's out there for you.</p>
+      <p>Every open public construction tender in the UK, read and sorted for trades firms, plus newly approved private projects where we track them. Pick your region and trade to see what's out there for you.</p>
       <div class="stats" aria-live="polite"><span><b id="sT">–</b>open tenders</span><span><b id="sP">–</b>new private projects</span></div>
     </div>
   </div>
 
   <div class="filters">
     <div class="wrap frow">
-      <div class="field"><label for="area">Your area</label><select id="area"><option value="">All East Midlands</option></select></div>
+      <div class="field"><label for="area">Your region</label><select id="area"><option value="">All of the UK</option></select></div>
       <div class="field"><label for="trade">Your trade</label><select id="trade"><option value="">All trades</option></select></div>
       <span class="count" id="count"></span>
     </div>
@@ -203,7 +204,7 @@ footer .wrap{display:grid;gap:6px}
   var MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   function fmt(d){return d.getDate()+' '+MON[d.getMonth()]}
   function mailto(subj,body){return 'mailto:'+MAIL+'?subject='+encodeURIComponent(subj)+'&body='+encodeURIComponent(body)}
-  var CALL={bid:'Bid',check:'Check',skip:'Tight / specialist'};
+  var CALL={bid:'Bid',check:'Check',skip:'Tight / specialist'}; var LIMIT=40;
 
   function render(){
     var a=$('area').value, tr=$('trade').value;
@@ -212,25 +213,27 @@ footer .wrap{display:grid;gap:6px}
     var projects=DATA.projects.filter(match).sort(function(x,y){return x.approved<y.approved?1:-1});
     $('count').textContent=tenders.length+' tenders · '+projects.length+' projects';
 
-    $('tenders').innerHTML=tenders.length?tenders.map(function(t){
+    var shown=tenders.slice(0,LIMIT);
+    $('tenders').innerHTML=tenders.length?shown.map(function(t){
       var c=new Date(t.closes), days=Math.ceil((c-NOW)/864e5);
       var body='Hi Luke,\n\nPlease send me the free summary for:\n'+t.title+'\n'+t.buyer+'\nNotice '+t.id+'\n\nOur company name: \nOur main trades: \n\nThanks';
       return '<article class="t"><div class="due"><span class="lbl">Closes</span><span class="d">'+fmt(c)+'</span><span class="m">'+c.toTimeString().slice(0,5)+'</span><span class="left'+(days<=10?' hot':'')+'">'+days+' day'+(days===1?'':'s')+'</span></div>'+
         '<div class="body"><div class="head"><h3>'+esc(t.title)+'</h3><span class="chip '+t.call+'">'+CALL[t.call]+'</span></div>'+
-        '<div class="meta"><span>'+esc(t.buyer)+'</span><span>'+esc(t.place)+'</span><span><strong>'+esc(t.value)+'</strong></span><span>'+esc(t.term)+'</span><span>'+esc(t.route)+'</span></div>'+
+        '<div class="meta"><span>'+esc(t.buyer)+'</span><span>'+esc([t.place,t.area].filter(Boolean).join(', '))+'</span><span><strong>'+esc(t.value)+'</strong></span><span>'+esc(t.term)+'</span><span>'+esc(t.route)+'</span></div>'+
         '<p class="why">'+esc(t.why)+'</p>'+
         '<div class="tags">'+t.trades.map(function(x){return '<span class="tag">'+esc(x)+'</span>'}).join('')+'</div>'+
         '<div class="act"><a class="btn small" href="'+mailto('Free summary: '+t.title+' ('+t.id+')',body)+'">Get the free summary</a><a class="lnk" href="https://www.find-tender.service.gov.uk/Notice/'+esc(t.id)+'" target="_blank" rel="noopener">View the official notice</a></div></div></article>';
-    }).join(''):'<p class="empty">No open tenders match right now. Try "All trades" or a neighbouring area. New tenders are added every week.</p>';
+    }).join('')+(tenders.length>LIMIT?'<p class="more"><button class="btn small" type="button" id="moreBtn">Show '+Math.min(40,tenders.length-LIMIT)+' more of '+(tenders.length-LIMIT)+'</button></p>':''):'<p class="empty">No open tenders match right now. Try "All trades" or a neighbouring region. New tenders are added every week.</p>';
+    var mb=$('moreBtn'); if(mb) mb.onclick=function(){LIMIT+=40; render();};
 
     $('projects').innerHTML=projects.length?projects.map(function(p){
       return '<article class="p"><div class="body"><h3>'+esc(p.title)+'</h3><div class="meta"><span>'+esc(p.place)+'</span><span>'+esc(p.area)+'</span></div>'+
         '<div class="tags">'+p.trades.map(function(x){return '<span class="tag">'+esc(x)+'</span>'}).join('')+'</div>'+
         '<div class="locked"><span>Who to contact:</span><span class="blur" aria-hidden="true">Architect name, town</span><span class="lock">Radar Plus</span></div></div>'+
         '<span class="when">Approved '+fmt(new Date(p.approved))+'</span></article>';
-    }).join(''):'<p class="empty">No new projects logged for this area yet. We\'re adding councils every week, starting with Nottingham.</p>';
+    }).join(''):'<p class="empty">No new private projects logged for this region yet. We\'re adding councils every week.</p>';
 
-    var areaTxt=a||'the East Midlands', tradeTxt=tr||'my trades';
+    var areaTxt=a||'anywhere in the UK', tradeTxt=tr||'my trades';
     $('ctaH').textContent='Get this list for '+(a||'your patch')+' every week';
     $('ctaBtn').href=mailto('Free Tender Radar: '+areaTxt,'Hi Luke,\n\nPlease start my free 4-week Tender Radar.\n\nCompany name: \nArea: '+areaTxt+'\nTrades: '+tradeTxt+'\nBiggest job in the last 3 years (roughly): \n\nThanks');
     try{localStorage.setItem('cl-filter',JSON.stringify({a:a,t:tr}))}catch(e){}
@@ -245,7 +248,7 @@ footer .wrap{display:grid;gap:6px}
     $('sP').textContent=d.projects.length;
     try{var s=JSON.parse(localStorage.getItem('cl-filter')||'{}'); if(s.a)$('area').value=s.a; if(s.t)$('trade').value=s.t;}catch(e){}
     if(window.PRESET_TRADE){$('area').value='';$('trade').value=window.PRESET_TRADE;}
-    $('area').onchange=render; $('trade').onchange=render; render();
+    $('area').onchange=function(){LIMIT=40;render()}; $('trade').onchange=function(){LIMIT=40;render()}; render();
   }).catch(function(){
     $('tenders').innerHTML='<p class="empty">This week\'s list couldn\'t load. Refresh the page, or email '+MAIL+' and we\'ll send it to you.</p>';
     $('projects').innerHTML='';
