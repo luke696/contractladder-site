@@ -60,6 +60,11 @@ textarea{min-height:84px;resize:vertical}
 .note{font-size:.85rem;color:var(--muted)}
 #done{margin-top:28px;border:2px solid var(--accent);border-radius:12px;padding:20px;background:var(--surface);display:grid;gap:14px}
 #done ol{margin:0;padding-left:20px;display:grid;gap:6px}
+.pdf{margin-top:24px;border:2px solid var(--accent);border-radius:12px;padding:20px;background:var(--surface);display:grid;gap:10px}
+.pdf .tag{margin:0;font-size:.75rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.pdf ol{margin:0;padding-left:20px;display:grid;gap:6px}
+.online{margin-top:20px}
+.online summary{cursor:pointer;font-weight:700;padding:12px 0;border-bottom:1px solid var(--line)}
 #out{width:100%;min-height:220px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.82rem}
 .mail{font-weight:700;user-select:all}
 @media (max-width:560px){.grid{grid-template-columns:1fr}}
@@ -71,24 +76,41 @@ textarea{min-height:84px;resize:vertical}
   <a class="back" href="index.html">← Contract Ladder</a>
   <h1>Your bid profile</h1>
   <p class="lead">Tell us about your firm once. We use it to write every bid for you, so you're not asked the same questions twice. It takes about 15 minutes. Leave out anything you don't have and we'll tell you if it matters.</p>
-  <ul class="facts"><li>Saved as you type on this device</li><li>Only used for your bids</li><li>Nothing is invented: we only write what's true</li></ul>
+  <ul class="facts"><li>Only used for your bids</li><li>Nothing is invented: we only write what's true</li></ul>
+
+  <section class="pdf">
+    <p class="tag">Recommended</p>
+    <h2>Download the fillable PDF</h2>
+    <ol>
+      <li>Download it and save it to your computer.</li>
+      <li>Open it in Adobe Reader, Edge, Chrome or Preview and type straight into the boxes.</li>
+      <li>Press Save any time. Close it, come back tomorrow, carry on.</li>
+      <li>Email the saved PDF to <span class="mail">luke@contractladder.co.uk</span> with your certificates attached.</li>
+    </ol>
+    <div class="actions" style="margin-top:4px"><a class="btn" href="downloads/contract-ladder-bid-profile.pdf" download>Download the bid profile (PDF)</a><span class="note">5 pages · works on any computer</span></div>
+  </section>
+
+  <details class="online" id="online">
+    <summary>Or fill it in online instead</summary>
+    <p class="note" style="margin:10px 0 0">Your answers save on this device as you type. At the end you download them as a file and email it to us.</p>
+    <div class="progress" aria-live="polite"><div class="bar"><span id="pbar"></span></div><div class="ptext" id="ptext">0 of 9 sections started</div></div>
 
   <div class="progress" aria-live="polite"><div class="bar"><span id="pbar"></span></div><div class="ptext" id="ptext">0 of 9 sections started</div></div>
 
   <form id="f" novalidate></form>
+  </details>
 
   <div id="done" hidden>
     <h2>Nearly done</h2>
     <ol>
-      <li>Click <b>Email my profile</b>. Your answers open in a new email to <span class="mail">luke@contractladder.co.uk</span>.</li>
-      <li>Attach your documents to that email (list below), then send.</li>
-      <li>If the email doesn't open, click <b>Copy my answers</b>, paste them into an email to that address, and attach your documents.</li>
+      <li>Click <b>Download my answers</b>. A file called <i>bid-profile.txt</i> saves to your Downloads folder.</li>
+      <li>Email that file to <span class="mail">luke@contractladder.co.uk</span>, with your documents attached (list below).</li>
     </ol>
     <p class="note" id="docsList"></p>
     <div class="actions" style="margin-top:0">
-      <a class="btn" id="mailBtn" href="#">Email my profile</a>
+      <button class="btn" type="button" id="dlBtn">Download my answers</button>
       <button class="btn ghost" type="button" id="copyBtn">Copy my answers</button>
-      <span class="note" id="copyMsg"></span>
+      <span class="note" id="copyMsg" role="status"></span>
     </div>
     <label class="f">Your answers<textarea id="out" readonly></textarea></label>
   </div>
@@ -198,17 +220,26 @@ textarea{min-height:84px;resize:vertical}
     var text=build();
     document.getElementById('out').value=text;
     document.getElementById('docsList').innerHTML='<b>Attach:</b> '+DOCS.map(esc).join(' · ');
-    var subject='Bid profile: '+val('co_legal');
-    var body=text.length>1800? 'My bid profile answers are pasted below (or attached).\n\n'+text : text;
-    document.getElementById('mailBtn').href='mailto:luke@contractladder.co.uk?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body);
     var d=document.getElementById('done'); d.hidden=false; d.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+  document.getElementById('dlBtn').addEventListener('click',function(){
+    var msg=document.getElementById('copyMsg');
+    try{
+      var blob=new Blob([document.getElementById('out').value],{type:'text/plain;charset=utf-8'});
+      var url=URL.createObjectURL(blob), a=document.createElement('a');
+      a.href=url; a.download='bid-profile-'+(val('co_legal')||'answers').replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'.txt';
+      document.body.appendChild(a); a.click(); a.remove(); setTimeout(function(){URL.revokeObjectURL(url)},2000);
+      msg.textContent='Saved to your Downloads folder. Now email it to luke@contractladder.co.uk.';
+    }catch(e){ msg.textContent='Download didn\u2019t work here. Use Copy my answers instead.'; }
   });
   document.getElementById('copyBtn').addEventListener('click',function(){
     var t=document.getElementById('out'), msg=document.getElementById('copyMsg');
-    var done=function(){ msg.textContent='Copied. Paste it into an email to luke@contractladder.co.uk.'; };
-    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(t.value).then(done,function(){ t.select(); msg.textContent='Selected. Press Ctrl+C (or Cmd+C) to copy.'; }); }
-    else { t.select(); msg.textContent='Selected. Press Ctrl+C (or Cmd+C) to copy.'; }
+    var ok=function(){ msg.textContent='Copied. Paste it into an email to luke@contractladder.co.uk.'; };
+    var fallback=function(){ t.focus(); t.select(); var done=false; try{ done=document.execCommand('copy'); }catch(e){}
+      msg.textContent= done ? 'Copied. Paste it into an email to luke@contractladder.co.uk.' : 'Your answers are selected below. Press Ctrl+C (Cmd+C on a Mac) to copy them.'; };
+    if(navigator.clipboard && window.isSecureContext){ navigator.clipboard.writeText(t.value).then(ok,fallback); } else { fallback(); }
   });
+
 })();
 </script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8c65a01ca44945abacf77f7e16eb72c3"}'></script><!-- End Cloudflare Web Analytics -->
