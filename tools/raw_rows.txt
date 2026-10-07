@@ -1,0 +1,307 @@
+094864-2026|Kingsway Tunnel - Asbestos Insulating Board (AIB) 'Dado' Panels Removal|Merseytravel|NW|Liverpool|0|2026-11-11T11:00|C|8|0
+094857-2026|Boiler & Mechanical Specialist Remedials, Minor Works and New Installations|KENT COMMUNITY HEALTH NHS FOUNDATION TRUST|SE|ASHFORD|250000|2026-11-10T12:00|S|2|1
+094784-2026|Apollo Mission Simulator Fit Out Main Contractor|Science Museum Group|LO|London|700000|2026-11-02T12:00|C|0|0
+094776-2026|3068 Bonington Gallery Vertical Lifting Platform|Nottingham Trent University|EM|Nottingham|0|2026-10-28T12:00|S|7|1
+094775-2026|Refurbishment of The Cedars, North Walsham and Reconstruction of the associated Boundary Wall|North Norfolk District Council|EE|Cromer|150000|2026-10-30T12:00|S|0|1
+094763-2026|0661 Boars Head Footbridge Superstructure Renewal Works Contract 2026|Wigan Council|NW|Wigan|975000|2026-11-20T12:00|C|0|0
+094756-2026|Interim Capital Programme|Sandwell Metropolitan Borough Council|WM|Oldbury|16000000|2026-11-13T15:00|L|0|0
+094746-2026|Carriageway Micro Asphalt and Pre-Patching 2027|Wigan Council|NW|Wigan|1000000|2026-11-04T12:00|S|5|1
+094735-2026|New Grounds Maintenance Contract - Old Basing & Lychpit Parish Council|Old Basing & Lychpit Parish Council|SE|Old Basing|531000|2026-10-26T23:59|S|61|1
+094734-2026|Roof Renewal Works at Bolsover Assembly Hall|Old Bolsover Town Council|EM|BOLSOVER|100000|2026-10-16T17:00|S|4|1
+094721-2026|ScM East Hall Boiler Replacement|Science Museum Group|LO|London|200000|2026-10-28T16:00|B|2|0
+094716-2026|Contract for the Execution of Ynystawe Skatepark, Swansea|City & County of Swansea|WA|Swansea|315000|2026-11-03T12:00|B|0|0
+094711-2026|ONGO Homes - Grounds Maintenance Services (Grass Cutting and Associated Grounds Maintenance Works)|Ongo Homes|YH|Scunthorpe|2175749|2026-11-01T07:00|S|61|1
+094702-2026|Electrical Works 26/27 - Harare, Zimbabwe|FCDO Services|EE|Milton Keynes|950000|2026-11-06T23:59|C|3|0
+094695-2026|PRO0663 - Grounds Maintenance Services Yorkshire|Your Housing Group|YH|Warrington|666667|2026-11-11T12:00|S|61|1
+094689-2026|The Core Refurbishment|Newcastle City Council|NE|Newcastle Upon Tyne|7000000|2026-11-06T12:00|L|03|0
+094669-2026|Care and Support Investment Programme(CSIP) Refurbishment Works at 2 Arlington Road|The Riverside Group Limited|LO|Speke, Liverpool|0|2026-11-13T12:00|C|0|0
+094657-2026|Footway Slurry Seal 2027|Wigan Council|NW|Wigan|1000000|2026-11-04T12:00|S|5|1
+094648-2026|NAB - Gas & Heating System Installs|NUNEATON AND BEDWORTH COMMUNITY ENTERPRISES LIMITED|WM|Nuneaton|600000|2026-11-03T12:00|C|2|0
+094602-2026|ITT for Flitcham Chimney Removal and Associated Electrical Works|Diocese of Norwich Education and Academies Trust|EE|Norwich|25000|2026-11-12T17:00|S|34|1
+094598-2026|West Area Footway Improvements|Hull City Council|YH|Hull|180000|2026-10-21T11:00|B|5|0
+094555-2026|Luton Centre for Mental Health – Expansion of Section 136 Unit at Jade Ward|East London NHS Foundation Trust|EE|London|525000|2026-10-19T12:00|C|0|0
+094529-2026|New Mental Health Emergency Department Unit at Luton Centre for Mental Health|East London NHS Foundation Trust|EE|London|1700000|2026-10-12T12:00|C|0|0
+094516-2026|NCC1867 Framework for the Hire of Operated Plant|Northumberland County Council|NE|Morpeth|12000000|2026-11-04T12:00|L|10|1
+094470-2026|CPU 7328 Development for Social Housing of former United Reform Church, Clifton|Nottingham City Council|EM|Nottingham|4635250|2026-12-02T12:00|S|0|1
+094464-2026|Stone Walling at Milton Road Cemetery in Weston-super-Mare|Weston-super-Mare Town Council|SW|Weston-super-Mare|75000|2026-12-18T12:00|S|0|1
+094461-2026|Contract for Tudno and Heol Emrys Re-Roofing and Associated Works|City & County of Swansea|WA|Swansea|550000|2026-10-14T12:00|S|4|1
+094435-2026|Design and installation of Public Toilet Block at Rendlesham|Forestry Commission|EE|Bristol|130000|2026-11-02T12:00|S|0|1
+094427-2026|Canton Depot Flooring Works|Transport for Wales Rail Limited (Utility Buyer)|WA|Pontypridd|333333|2026-11-03T12:00|S|0|1
+094380-2026|Framework for Electrical Installation and Maintenance, Including PAT and Fixed Wire Testing|Mid and West Wales Fire and Rescue Authority|WA|Carmarthen|600000|2026-11-06T12:00|F|31|1
+094348-2026|Supply and instal doors to Hexton Barn, SG5 3HX|Natural England|EE|London|18000|2026-11-13T23:59|B|0|0
+094333-2026|Multi Use Games Areas and Outdoor Gyms|Westminster City Council|LO|London|0|2026-10-29T12:00|S|0|1
+094317-2026|Grass Cutting Contract|Kemble & Ewen Parish Council|SW|Kemble|30000|2026-11-03T15:00|S|6|1
+094316-2026|MW2515 Harrowden Court Fire Works Phase 1|Hastoe Housing Association|EE|Dorchester|50000|2026-11-06T12:00|S|0|1
+094313-2026|Design Supply and install Junior Play Area - Kynaston Rd|Shrewsbury Town Council|WM|Shrewsbury|85000|2026-11-20T13:00|S|65|1
+094300-2026|Statutory Servicing, Reactive and Remedial Works Framework|Gloucestershire County Council-|SW|Gloucester|9000000|2026-10-28T12:00|L|13|1
+094251-2026|Contract for the Execution of Fire Safety Works|City & County of Swansea|WA|Swansea|1400000|2026-11-17T12:00|S|0|1
+094161-2026|Framework Agreement for the Supply, Installation, Repairs and Maintenance of Tarmacadam and other Su|Staffordshire County Council|WM|Stafford|7000000|2026-11-04T12:00|L|15|1
+094155-2026|ITT - Planned Preventative Maintenance and Reactive Repairs Services at Shrewsbury Flaxmill Maltings|Historic England|SW|Swindon|349000|2026-10-30T09:30|B|1|0
+094145-2026|Festive Gardens 2026|Borough of Telford & Wrekin|WM|Telford, Shropshire|0|2026-10-13T12:00|C|3|0
+094117-2026|Culvert Crossing and Groundworks|Natural England||London|35000|2026-10-23T12:00|S|5|1
+094051-2026|MW2520 - Bathroom Replacement Programme (East)|Hastoe HA|EE|Kingston upon Thames|650000|2026-11-06T15:00|C|0|0
+094047-2026|MW2519 - Kitchen Replacement Programme (East)|Hastoe HA|EE|Kingston upon Thames|805000|2026-11-06T15:00|S|0|1
+094045-2026|Servicing & Response Maintenance of Boilers & Miscellaneous Gas Equipment|Borough of Telford & Wrekin|WM|Telford, Shropshire|2000000|2026-11-06T12:00|C|21|0
+094043-2026|EBC 471 - Erewash Car Parks Resurfacing and Footpaths Repair Scheme|Erewash Borough Council|EM|Ilkeston|170000|2026-10-23T12:00|S|51|1
+094012-2026|MRI – PET Scanner Chiller Replacement|Manchester University NHS Foundation Trust|NW|Trafford|20000|2026-11-13T12:00|B|0|0
+094011-2026|Provision of School-Based Nursery Works, Berry Hill Preschool, Broadlea Primary School, Isle of Wigh|Isle of Wight Council|SE|Newport|147550|2026-11-02T14:00|S|0|1
+093972-2026|SA242 Penallta Road Bridge Strengthening|Caerphilly County Borough Council|WA|Hengoed|600000|2026-10-30T14:00|S|04|1
+093937-2026|Kirklees College - Minor Works|Kirklees College|YH|Huddersfield|2000000|2026-11-09T12:00|S|8|1
+093935-2026|Resurfacing of Church Car Park - Church Street, Audley|Audley Rural Parish Council|WM|Audley|90000|2026-11-09T17:00|S|5|1
+093917-2026|Sheen Lane Centre & Teddington Pool PSDS Refurbishments|London Borough of Richmond upon Thames|LO|Richmond|5600000|2026-11-02T12:00|L|0|1
+093909-2026|Responsive Repairs & Maintenance and Void Property Works for Graphite Living|Karbon Homes|NE|Newcastle upon Tyne|5000000|2026-11-06T12:00|S|1|1
+093903-2026|Demolition of Former Beales Store (Mansfield Connect)|Mansfield District Council|EM|Mansfield|750000|2026-10-30T12:00|S|8|1
+093901-2026|RONB 166 - Provision of Architectural Services for Repairs to Shrewsbury Castle Walls|Shropshire Council|WM|Shrewsbury|0|2026-10-29T12:00|S|1|1
+093842-2026|Domestic Build Works (Disability Adaptations)|Cheshire East Council|NW|Crewe|4000000|2026-11-02T12:00|F|0|0
+093830-2026|715862501-Provision of a Maritime Interdiction Operations (MIOps) Training Facility|Ministry of Defence|SE|Portsmouth|1233300|2026-10-27T15:00|S|0|1
+093770-2026|Communal Entrance Doors Qualifying Long-Term Agreement|VIVID Housing Ltd|SE|Portsmouth|5000000|2026-11-09T12:00|C|0|0
+093724-2026|Repairs and Maintenance Service (RMS) - Energy Efficiency and Bungalow Improvements Project 2027 (CR|Stoke-on-Trent City Council|WM|Stoke-on-Trent|780300|2026-10-15T15:00|C|1|0
+093660-2026|Contract for Groundworks at Felindre Phase 1|City & County of Swansea|WA|Swansea|90000|2026-10-27T12:00|S|58|1
+093645-2026|Lift Maintenance Richmond and Wandsworth Councils (Housing and Operational Buildings)|London Borough of Richmond upon Thames|LO|Richmond|18859000|2026-11-04T12:00|L|71|1
+093581-2026|Play Ground Refurbishment x 2|Ingoldmells Parish Council|EE|Ingoldmells|120000|2026-12-31T23:59|S|0|1
+093533-2026|Hendre Ladus, Ystradgynlais, Powys, SA9 1SE, Design, Supply and Installation of ASHP Heating System|Powys County Council|WA|Llandrindod Wells|220000|2026-10-30T12:00|S|23|1
+093513-2026|Supply, Delivery and Installation of Office Furniture|Scottish Police Authority|SC|Glasgow|6000000|2026-11-02T12:00|L|0|0
+093505-2026|T164 – Hydro Turbine Maintenance|Northern Ireland Water Limited|NI|Belfast|0|2026-10-30T12:00|C|1|0
+093483-2026|SU172(26) Energy Centre and Union House District Heat Network Connection Works|Swansea University|WA|Swansea|5000000|2026-10-23T00:00|S|0|1
+093479-2026|North Street Toilet Refurbishment|Wellington Town Council|SW|Wellington|42000|2026-10-29T12:00|S|0|1
+093466-2026|DC1 Solar Wall Principal Contractor|Natural History Museum|LO|London|950000|2026-11-04T12:00|S|34|1
+093452-2026|Changing Places Facilities|Castle Point Borough Council|EE|Benfleet|0|2026-10-30T15:30|S|0|1
+093434-2026|QEHKL240 Fire Compartmentation Works|The Queen Elizabeth Hospital King's Lynn NHS Foundation|EE|Kings Lynn|60000|2026-11-03T12:00|S|0|1
+093397-2026|Haslemere Playgrounds - Lion Green|Haslemere Town Council|SE|Haslemere|250000|2026-10-23T23:59|B|6|0
+093395-2026|Grounds Maintenance at WMFRA Sites 2026 - 2030|West Midlands Fire and Rescue Authority|WM|Birmingham|0|2026-11-02T18:00|C|61|0
+093377-2026|DCWW 2113 - Low Value Small Works|Dwr Cymru Cyfyngedig|WA|Cardiff|0|2026-10-27T17:00|F|02|1
+093372-2026|Bolton Urban Cricket Centre|Bolton Metropolitan Borough Council|NW|Bolton|1500000|2026-11-02T12:00|C|0|0
+093338-2026|HAR6126 Rushmead Construction|Tower Hamlets|LO|London|6699997|2026-11-27T12:00|L|0|1
+093332-2026|Stotfold Cemetery - Toilet and Storage|Stotfold Town Council|EE|Stotfold|168000|2026-11-02T12:00|B|0|0
+093297-2026|Replacement UPVC windows and doors programme 2027-29|The District Council of Folkestone and Hythe|SE|Folkestone|4050000|2026-10-27T13:00|S|0|1
+093285-2026|Jigsaw Homes Group - Window and door replacement program 2027-2030|Jigsaw Homes Group|NW|Ashton-under-Lyne|10833334|2026-11-06T19:00|L|0|1
+093280-2026|3067 DH Lawrence Passenger Lift Refurbishment|Nottingham Trent University|EM|Nottingham|0|2026-10-23T12:00|S|70|1
+093278-2026|BHA26007 - The Beeches Garage Roof Replacements|Barcud Cyfyngedig|WA|Ceredigion|125000|2026-10-23T12:00|S|4|1
+093253-2026|BCU-ITT-64155 - Mold Dental Decontamination|Betsi Cadwaladr University Health Board|WA|Bangor|35587|2026-11-02T12:00|S|0|1
+093236-2026|ISO11 Fumigation Lobby and Dedicated Air Handling Unit (AHU) - Retender|THE PIRBRIGHT INSTITUTE|SE|Woking|151666|2026-11-13T12:00|B|02|0
+093232-2026|Provision of General Maintenance Services for The Sheffield College|The Sheffield College|YH|Sheffield|250000|2026-11-13T11:59|B|1|0
+093210-2026|Capital Playground Scheme - Herne Bay|Canterbury City Council|SE|Canterbury|225000|2026-11-13T12:00|S|65|1
+093137-2026|Scarbrough Barracks Locker Cages|RFCA - Yorkshire and the Humber|YH|York|40000|2026-10-23T23:59|B|5|0
+093119-2026|Contract for Windows & Doors Renewal at Felindre|City & County of Swansea|WA|Swansea|29000|2026-10-23T12:00|S|0|1
+093084-2026|Contract for the Execution of WWP works at Waunarlwydd Phase 2|City & County of Swansea|WA|Swansea|2900000|2026-11-12T12:00|S|34|1
+093081-2026|LPC1: Peatland Restoration and Grazing Infrastructure|Neath Port Talbot County Borough Council|WA|Port Talbot|174078|2026-10-30T12:00|S|85|1
+093055-2026|Moorfield Road Open Space Improvement Project|Carn Brea Parish Council|SW|Pool, Redruth|0|2026-10-12T17:00|S|0|1
+093053-2026|Poringland Community Land - small highways and ground works|Poringland Parish Council|EE|Poringland|120000|2026-10-16T17:00|S|5|1
+093052-2026|Canvey Lake Dredging|Castle Point Borough Council|EE|Benfleet|1000000|2026-11-02T12:00|S|08|1
+093039-2026|Contractors Services|Karbon Homes|YH|Newcastle upon Tyne|14132000|2026-11-06T12:00|L|34|1
+093018-2026|Cyngor Sir Ddinbych Fframwaith Cynnal a chadw adweithiol / Denbighshire County Council Reactive main|Denbighshire County Council|WA|Ruthin|6000000|2026-10-16T12:00|L|12|1
+092964-2026|BHA26006 – Void Works Tan Y Castell|Barcud Cyfyngedig|WA|Ceredigion|80000|2026-10-14T12:00|S|0|1
+092901-2026|External Planned Works for Social Housing 2027-29|The District Council of Folkestone and Hythe|SE|Folkestone|1325000|2026-10-26T13:00|S|14|1
+092850-2026|HBC 0926 Aberford Skatepark|Hertsmere Borough Council|EE|Borehamwood|300000|2026-11-16T12:00|B|0|0
+092797-2026|Parkstone House Fire Compartmentation|University Hospitals Dorset NHS Foundation Trust|SW|POOLE|1000000|2026-10-29T14:00|S|0|1
+092777-2026|Corporate Power Purchase Agreements|Kent County Council t/a LASER|SE|West Malling|0|2026-11-09T15:00|F|04|1
+092750-2026|Haslemere Playground - High Lane|Haslemere Town Council|SE|Haslemere|140000|2026-10-23T23:59|B|6|0
+092748-2026|Haslemere Playgrounds - Haslemere WMR Ground|Haslemere Town Council|SE|Haslemere|140000|2026-10-23T23:59|B|6|0
+092691-2026|Contract for Re-Roofing Works - Phase 1 at Felindre|City & County of Swansea|WA|Swansea|65000|2026-10-22T12:00|S|43|1
+092671-2026|Maidstone Road Car Park Resurfacing|Lenham Parish Council|SE|Maidstone|0|2026-11-06T23:59|S|5|1
+092669-2026|Lenham Cemetery Road Surfacing Project|Lenham Parish Council|SE|Maidstone|0|2026-11-06T23:59|S|5|1
+092666-2026|Bus Shelters, RTPI and Associated Services Y26014|Kent County Council (t/a Procurement Services)|SE|Maidstone|0|2026-11-06T17:00|F|0|1
+092659-2026|Equine Classroom Redevelopment Works at Brooksby College|Loughborough College|EM|Loughborough|0|2026-10-29T12:00|S|0|1
+092656-2026|Survey & Maintenance of Fire Dampers at The University of Huddersfield|University of Huddersfield|YH|Huddersfield|100000|2026-10-29T12:00|S|1|1
+092642-2026|SCC Spirit Store Container Replacement|THE HORNIMAN PUBLIC MUSEUM AND PUBLIC PARK TRUST|LO|London|110000|2026-10-23T12:00|B|0|0
+092605-2026|Construction of Community Hub South West England|Barwick and Stoford Parish Council|SW|Yeovil|800000|2026-10-09T17:00|C|0|0
+092558-2026|Inspection, Maintenance & Repair of Education PE (PESSPA), Outdoor Play & Fitness-Suite Equipment|North Lanarkshire Council|SC|Motherwell|0|2026-10-30T12:00|F|10|0
+092547-2026|Laundry Replacement of the PLC Controlling|NHS Wales Shared Services Partnership-Procurement Servi|WA|Cardiff|25000|2026-10-26T16:00|S|3|1
+092535-2026|Grounds Maintenance Services|North West Ambulance Service NHS Trust|NW|Bolton|500000|2026-11-11T15:00|B|61|0
+092532-2026|Passive Fire Protection Remedial Repairs at Abbey House, Abingdon|Vale of White Horse District Council|SE|Abingdon|220000|2026-11-13T17:00|S|1|1
+092527-2026|Resurfacing of Blatherwick's Yard Car Park, Arnold.|Gedling Borough Council|EM|Arnold Nottinghamshire|120000|2026-10-29T12:00|S|5|1
+092524-2026|RHA_294_Appointment of Main Contractor_4 Social Housing Units_Bushmills|Rural Housing Association|NI|Omagh|950000|2026-10-21T15:00|C|0|0
+092466-2026|Home Group Responsive, Voids and DAPA Works – Dumfries and Galloway Scotland|Home Group Scotland|SC|Glasgow|2000000|2026-11-16T12:00|C|1|0
+092439-2026|osod Cae 3g newydd yn Ysgol Uwchradd Penarlâg / 3g Pitch Replacement at Hawarden High School|Flintshire County Council|WA|Flintshire|1|2026-10-12T15:00|S|0|1
+092433-2026|Fire Risk Assessment Works Closed Framework 2026 – 2029 (Housing and Non-Housing)|Leeds City Council|YH|Leeds|1400000|2026-11-03T12:00|F|0|1
+092425-2026|PRO005124 – Works – Dynamic Market – Building, Operations, Labour & Trade Services|United Utilities Water Limited|NW|Warrington|0|2034-12-13T23:59|F|54|1
+092424-2026|Design and construct a pump BMX Track and new community sports equipment.|Drayton Bassett Parish Council|WM|Hopwas|84000|2027-01-18T23:00|B|0|0
+092375-2026|Raparee Cliff Protection Works Phase 1|North Devon District Council|SW|Barnstaple|174000|2026-10-30T12:00|S|5|1
+092370-2026|Supply & Installation of Windows & Doors (QLTA)|VIVID Housing Ltd|SE|Portsmouth|0|2026-10-29T12:00|C|0|0
+092203-2026|Ridgewood Village Hall Car Park|Uckfield Town Council|SE|Uckfield|60000|2026-10-30T23:00|S|5|1
+092160-2026|Arboricultural Services for Peterborough|Peterborough City Council|EE|Peterborough|7000000|2026-10-23T14:00|L|6|1
+092154-2026|Leadenhall Market - External Cyclical Works - Phase 2|The Mayor and Commonalty and Citizens of the City of Lo|LO|City of London|750000|2026-11-02T14:00|C|0|0
+092119-2026|TEC Partnership - Ventilation, Air Handling Unit (AHU) and LEV Refurbishment works|TEC Partnership|YH|Grimsby|0|2026-10-30T12:00|C|20|0
+092108-2026|TEC Partnership - Boiler & Hot Water Generation Replacement Scheme Bridlington|TEC Partnership|YH|Grimsby|0|2026-10-30T12:00|C|2|0
+092085-2026|DN Colleges Group - North Lindsey College - ITT for Global House Reclad and Refurbishment Project|DN Colleges Group|YH|Doncaster|3500000|2026-10-30T12:00|S|08|1
+092084-2026|SuDS2601 - St Ives Crescent SuDS|North East Lincolnshire Borough Council|YH|Grimsby|750000|2026-10-27T12:00|S|5|1
+092050-2026|Contract for Garden Clearances|City & County of Swansea|WA|Swansea|45000|2026-10-20T00:00|S|58|1
+092039-2026|St Edmunds College Mechanical and Electrical Services|ST EDMUND'S COLLEGE CAMBRIDGE|EE|Cambridge|0|2026-10-29T12:00|C|23|0
+092018-2026|Antenatal Ward Relocation to Block 14 (SFT-BT-C464875)|Somerset NHS Foundation Trust|SW|Taunton|1200000|2026-10-21T12:00|S|0|1
+091989-2026|Lift Replacement - Hazel Court|Bernicia Group|NE|Ashington|0|2026-10-16T12:00|C|7|0
+091952-2026|St Edmunds College Water Hygiene Services|ST EDMUND'S COLLEGE CAMBRIDGE|EE|Cambridge|0|2026-10-29T12:00|C|5|0
+091933-2026|Linstone Housing Landscape Maintenance Contract 2026-2029|Linstone Housing|SC|Linwood|1015000|2026-10-29T12:00|C|61|0
+091912-2026|Repairs & Maintenance Framework|Burnley Borough Council|NW|Burnley|3800000|2026-11-17T17:00|F|14|1
+091905-2026|Roofing Repairs and Replacements (741-AHL)|NSAH (ALLIANCE HOMES) LIMITED|SW|Portishead|0|2026-10-28T12:00|C|41|0
+091881-2026|Fire Alarms, Intruder Alarms & Access Control Testing, Maintenance and Monitoring Services|Trowbridge Town Council|SW|Trowbridge|0|2026-10-16T12:00|C|31|0
+091861-2026|HBBC-1713 Testing, Servicing, Repairs and Maintenance of Renewable installations for Hinckley and Bo|Hinckley and Bosworth Borough Council|EM|Hinckley|220000|2026-10-30T12:00|S|1|1
+091842-2026|Tender for Localised Building Improvements At Hillside Intermediate Care Centre Pentwyn Ave, Herefor|Herefordshire Council|WM|Hereford|100000|2026-10-27T12:00|S|0|1
+091694-2026|BSS26015 - Vertical Transportation Maintenance|Barcud Shared Services|WA|Cardiff|1235000|2026-10-12T12:00|S|17|1
+091658-2026|Istanbul Perimeter Wall 25/26 – Istanbul, Türkiye|FCDO Services|EE|Milton Keynes|2640399|2026-11-17T12:00|S|0|1
+091655-2026|Hopestead Flooring - Supply and install|Flagship Housing Limited|EE|Norwich|1074000|2026-10-29T17:00|S|0|1
+091636-2026|Construction of a concrete wheeled sports facility at The Carrs Park, Wilmslow, SK9 4AA|Cheshire East Council|NW|Crewe|180000|2026-11-20T12:00|S|0|1
+091625-2026|3069 Antenna Building Replacement Passenger Lift|Nottingham Trent University|EM|Nottingham|0|2026-10-19T12:00|S|7|1
+091619-2026|Construction of carpark at Conningbrook Country Park|Ashford Borough Council|SE|Ashford|400000|2026-10-23T10:00|S|0|1
+091616-2026|CTC Little Rissington|Reserve Forces' and Cadets' Associations of the SouthEa|SE|Aldershot|0|2026-10-23T12:00|S|0|1
+091586-2026|Grounds Maintenance|Broadacres Housing Association|NE|Northallerton|1500000|2026-10-26T12:00|S|61|1
+091452-2026|Contract for Roofing and Solar Panels at Heol Emrys and Tudno, Lavender Court|City & County of Swansea|WA|Swansea|88000|2026-10-12T12:00|S|43|1
+091399-2026|D2 Dehumidification (L&A and Radiation Stores)|Science Museum Group|LO|London|500000|2026-10-14T16:00|B|42|0
+091393-2026|Statutory Servicing, Reactive and Remedial Works|Gloucestershire County Council|SW|Gloucester|0|2026-10-21T12:00|S|73|1
+091385-2026|BCU-ITT-64247 - SBCU Boiler Replacement -YG|Betsi Cadwaladr University Health Board|WA|Bangor|200000|2026-10-28T12:00|S|2|1
+091348-2026|Laganside Courts Property Management Contract 2026|Department of Justice|NI|Belfast|3200000|2026-10-15T15:00|S|03|1
+091292-2026|L26041-T-MS - Civils Flexible Framework|London Luton Airport Operations Limited|EE|Luton|0|2031-09-27|F|5|0
+091260-2026|Large Infill Modernisation Phase 2|Science Museum Group|LO|London|270000|2026-10-12T09:00|B|7|0
+091235-2026|Framework for the Supply, Installation and Decommissioning of Bus Shelters|Angus Council|SC|Forfar|5900000|2026-10-28T17:00|L|05|0
+091167-2026|Windows and Door Works at Hedgerows Family Centre|Milton Keynes City Council|SE|Milton Keynes|40000|2026-10-23T12:00|B|60|0
+091135-2026|Flooring Supply & Fit|Leeds City Council|YH|Leeds|300000|2026-10-23T12:00|S|0|1
+091134-2026|Huyton MSCP Lift Control Upgrade|Knowsley Council|NW|Huyton|27500|2026-10-12T12:00|S|7|1
+091115-2026|COV - Holbrooks Primary School Extension - Main Works Contractor|Coventry City Council|WM|Coventry|2400000|2026-10-23T23:59|C|0|0
+091098-2026|TWBC Property Term Contract 2027 - Lots 3A, 3B, 3C & 4 (Mechanical, HVAC, Water Hygiene & Lift Maint|Tunbridge Wells Borough Council|SE|Tunbridge Wells|0|2026-10-19T12:00|S|72|1
+091075-2026|Scaffolding Hire and Inspections|Falkirk Council|SC|Larbert|4220000|2026-10-30T11:00|F|4|0
+091055-2026|Faith Centre Solar PV and Fall Arrest System Installation|University of Salford|NW|Salford|0|2026-10-14T12:00|S|3|1
+091024-2026|BCU-ITT-64112 - Bryn Beryl and Dolgellau Hospitals X-Ray Room Replacements|Betsi Cadwaladr University Health Board|WA|Bangor|269510|2026-10-23T12:00|S|0|1
+090951-2026|Minor Archaeological Services Call-Off Contract|Historic Environment Scotland|SC|Edinburgh|480000|2026-10-27T12:00|B|5|0
+090887-2026|Cyclical Decoration; 2027 - 2034|Gentoo Group|NE|Sunderland|8487500|2026-10-28T12:00|L|0|0
+090868-2026|Contract for the Design, Supply, Erection and Dismantling of Scaffolding at Transforming Homes|City & County of Swansea|WA|Swansea|40000|2026-10-14T12:00|S|4|1
+090847-2026|Refurbishment of Ground Floor Toilets & Cloakroom at Cornerstone Arts Centre, Didcot|South Oxfordshire District Council|SE|Abingdon|74000|2026-11-04T17:00|S|0|1
+090830-2026|Electrical Maintenance and Repair across The Sheffield College estate.|The Sheffield College|YH|Sheffield|166000|2026-10-26T12:00|B|31|0
+090818-2026|Abertay Housing Association - Landscape Maintenance 2027 - 2030|Abertay Housing Association|SC|Dundee|0|2026-11-04T12:00|C|61|0
+090811-2026|YSJU Accessible Personnel Lift Installation|York St John University|YH|York|0|2026-10-23T12:00|S|7|1
+090767-2026|BCU-ITT-63452 - ABERGELE CLINIC ROOF UPGRADE|Betsi Cadwaladr University Health Board|WA|Bangor|125000|2026-10-22T12:00|B|4|0
+090753-2026|Supply and Maintenance of Irrigation Systems, Ponds, Lakes, Water Features, and Drinking Fountains|London Borough of Hillingdon|LO|Uxbridge|0|2026-10-23T17:00|S|15|1
+090730-2026|Water Management - Legionella|Northern Lighthouse Board|SC|Edinburgh|124000|2026-10-19T14:00|S|5|1
+090702-2026|British Museum Round Reading Room Roof Oculus Works|British Museum|LO|London|9000000|2026-10-19T13:00|L|4|1
+090641-2026|ITT for Works to Install Dignity Rooms at Five Fire Stations|West Midlands Fire and Rescue Authority|WM|Birmingham|0|2026-11-03T12:00|S|0|1
+090620-2026|Framework Agreement for the Execution of General Building Works (Housing) - Lots 1 & 2|City & County of Swansea|WA|Swansea|11400000|2026-10-21T12:00|L|0|0
+090541-2026|St Thomas Community Sports Hub|Stockport Metropolitan Borough Council|NW|Stockport|50000|2026-10-22T12:00|S|0|1
+090521-2026|Grounds Maintenance Contract|Totnes Town Council|SW|Totnes|0|2026-10-28T17:00|S|61|1
+090486-2026|BCU-ITT-63595 - WREXHAM MAELOR HOSPITAL PHARMACY BOILER REPLACEMENT|Betsi Cadwaladr University Health Board|WA|Bangor|80000|2026-10-15T12:00|B|2|0
+090444-2026|The design, repair and reinstatement of Pennylands Footbridge, Winchcombe.|Tewkesbury Borough Council|SW|Tewkesbury|200000|2026-11-02T09:00|B|1|0
+090425-2026|Provision for Lee Valley VeloPark Rooflights Refurbishment|Lee Valley Regional Park Authority|LO|Enfield|130000|2026-10-27T12:00|B|40|0
+090325-2026|Low Voltage Distribution Networks System Works at Nyati and Kifaru Barracks|Defence Infrastructure Organisation|SC|Glasgow|200000|2026-10-23T10:00|B|3|0
+090249-2026|Cowleaze Block Roof Replacement|GREENSQUAREACCORD LIMITED|SE|Birmingham|300000|2026-11-03T12:00|S|4|1
+090207-2026|NSDC-1722 Property Safety and Compliance Check Service and Maintenance Contract for Newark and Sherw|Newark And Sherwood District Council|EM|Newark|7400000|2026-10-30T12:00|L|1|1
+090095-2026|Replacement Kitchens and Bathrooms|NSAH (ALLIANCE HOMES) LIMITED|SW|Portishead|0|2026-10-23T12:00|S|0|1
+090084-2026|Mains replacement & Associated works|CADENT GAS LIMITED|WM|Coventry|0|2032-08-31T23:59|C|52|0
+090072-2026|BCU-ITT-64207 - Bryn Y Neuadd Hospital Extension and Reconfiguration Works|Betsi Cadwaladr University Health Board|WA|Bangor|731936|2026-10-26T12:00|S|0|1
+090052-2026|4-6 Short Street Repair Works|Cambridge City Council|EE|Cambridge|0|2026-10-14T17:00|C|1|0
+090039-2026|Carriageway Resurfacing Works 2026/27 - Bulk Tender 4|Wigan Council|NW|Wigan|572100|2026-10-21T12:00|S|5|1
+090013-2026|New Allotment Site - Tuttles Lane West, Wymondham - Site Infrastructure Works|Wymondham Town Council|EE|Wymondham|95000|2026-10-16T17:00|S|59|1
+090000-2026|Prospere Learning Trust Grounds Maintenance|Prospere Learning Trust|NW|Manchester|350000|2026-10-20T12:00|S|61|1
+089993-2026|Fire Alarm and Portable Extinguisher Maintenance|South Yorkshire Fire and Rescue Authority|YH|Sheffield|100000|2026-10-21T12:00|S|31|1
+089979-2026|North Northamptonshire Council Refurbishment of Autumn Day Centre, Corby|North Northamptonshire Council|EM|Corby|190000|2026-10-26T12:00|S|0|1
+089956-2026|Completion Works at Parkhead Crescent Newry|Alpha Housing (NI) Ltd|NI|Belfast|350000|2026-10-27T23:59|B|0|0
+089883-2026|GL RFCA Barnet ARC Boiler Replacement|Reserve Forces' and Cadets' Association for Greater Lon|LO|London|170000|2026-10-12T14:00|S|2|1
+089837-2026|Longforth Farm Allotments|Wellington Town Council|SW|Wellington|63000|2026-10-20T12:00|S|0|1
+089834-2026|BCU-ITT-63899 - Mold Community Hospital X-Ray Room Replacement|Betsi Cadwaladr University Health Board|WA|Bangor|185335|2026-10-20T12:00|S|0|1
+089825-2026|HAR6096 Bradwell Street Garages Development - New Housing Development Scheme|Tower Hamlets|LO|London|4194210|2026-11-06T12:00|S|0|1
+089821-2026|Distribution Board Replacement, heating works (environmental controls) and Replacement of Gymnasium|COLLEGE OF POLICING LIMITED|WM|Coventry|0|2026-10-08T15:00|S|23|1
+089780-2026|Professional Estate Management Services Framework|National Records of Scotland|SC|Edinburgh|4000000|2026-10-22T12:00|F|0|0
+089729-2026|Active Fire Prevention Services 2027-2032|Beyond Housing Limited|YH|Scarborough|735415|2026-10-22T12:00|C|31|0
+089709-2026|2026TCCH-16 - Water Mains|Tai Calon Community Housing Ltd|WA|Blaina|1000000|2026-10-22T16:00|S|5|1
+089660-2026|St Martins fire station replacement roof|Council of the Isles of Scilly|SW|Hugh Town|45000|2026-10-16T23:59|S|4|1
+089647-2026|T0222 - Provision of Replacement Heating System at Evesham Hospital|Herefordshire and Worcestershire Health & Care NHS Trus|WM|Worcester|450000|2026-10-16T12:00|B|2|0
+089646-2026|Supply and Erection of Access Equipment (Scaffold & Mobile Towers) (H817)|Dudley Metropolitan Borough Council|WM|Dudley|1600000|2026-10-21T12:00|C|4|0
+089633-2026|Cynnal Tiroedd / Grounds Maintenance|Adra (Tai) Cyf|WA|Bangor|2500000|2026-10-12T12:00|S|61|1
+089611-2026|Removal of Existing Pedestrian Bridge at Clare Glen Including all Necessary Enabling Works|Armagh City, Banbridge and Craigavon Borough Council|NI|Craigavon|0|2026-10-13T12:00|C|0|0
+089533-2026|THE PROVISION OF RIVER PARK PERIMETER PATH|Winchester City Council|SE|Winchester|153000|2026-10-20T12:00|S|5|1
+089476-2026|BCU-ITT-64113 - WMH ED X-Ray Rooms 1 and 2|Betsi Cadwaladr University Health Board|WA|Bangor|426620|2026-10-19T12:00|S|0|1
+089453-2026|Asbestos Framework – Reactive & Planned Surveying Services and Removal Works|Adra (Tai) Cyf|WA|Bangor|500000|2026-10-09T10:00|F|8|1
+089395-2026|Pitched & Flat Roof Recovering at 26-28 Old Market Street, Bristol, BS2 0HB|LIVEWEST HOMES LIMITED|SW|Exeter|200000|2026-10-27T17:00|S|4|1
+089375-2026|Air Conditioning Installation at Lemontree Family Hub|Hull City Council|YH|Hull|12000|2026-10-09T11:00|B|2|0
+089372-2026|T0224 Lift works at Kings Court 2, Kidderminster HC and Robertson Centre|Herefordshire and Worcestershire Health and Care NHS Tr|WM|Worcester|395000|2026-10-19T12:00|B|7|0
+089371-2026|Teddington Allotments Reclamation Works at Shacklegate Lane Cemetery|London Borough of Richmond upon Thames|LO|Richmond|228000|2026-10-19T12:00|S|5|1
+089365-2026|Provision of Servicing and Maintenance of Chiller (HVAC) and AC units to Kingston University|Kingston University Higher Education Corporation|LO|Kingston upon Thames|500000|2026-10-21T12:00|B|21|0
+089363-2026|POW-ITT-63983 STAFF CHANGING ROOMS AT LLANDILOES HOSPITAL|Powys Teaching Health Board|WA|Bronllys|50000|2026-10-12T12:00|B|0|0
+089341-2026|Cherry Tree Allotments Expansion|Watford Borough Council|EE|Watford|400000|2026-10-16T13:00|S|6|1
+089328-2026|Delivery, Management and Maintenance of Public & Private EV Infrastructure|PLACES FOR PEOPLE GROUP LIMITED||London|0|2026-10-19T12:00|S|13|1
+089311-2026|Invitation to Tender for the Provision Maintenance Operative Service at Bolsover District Council Co|Bolsover District Council|EM|Clowne|0|2026-10-22T12:00|S|1|1
+089310-2026|Chestnut Walk, Hungerford, Refurbishment Project|West Berkshire Council|SE|Newbury|1500000|2026-10-19T15:00|C|08|0
+089289-2026|DESIGN, SUPPLY, INSTALLATION AND INTEGRATION OF SOLAR PHOTOVOLTAIC SYSTEMS TO 150 PROPERTIES ACROSS|Arbour Housing Ltd|NI|Portadown|750000|2026-10-08T12:00|C|34|0
+089234-2026|Fire Stopping and Compartment Remedial Works (PRH site)|The Shrewsbury and Telford Hospital NHS Trust|WM|Shrewsbury|300000|2026-10-16T17:00|B|0|0
+089231-2026|Lift Refurbishment and Replacements – Keel Court, Green Dragon Court, Fairlead House and Bordeaux Ho|The Riverside Group Limited|LO|Speke, Liverpool|1000000|2026-10-23T12:00|S|70|1
+089163-2026|Access Lift Installation, Servicing and Maintenance|City of York Council|YH|York|3600000|2026-10-23T12:00|S|71|1
+089158-2026|Wimbledon Train care Depot Upgrade (MCE) - ES4 Design Stage|SOUTH WESTERN RAILWAY LIMITED|LO|London|1094000|2026-10-23T14:00|S|5|1
+089143-2026|Installation, Maintenance and Dismantling of the Matlock Bath Illuminations' Lighting|Derbyshire Dales District Council|EM|Matlock|203280|2026-11-06T12:00|S|31|1
+089068-2026|External Planned Maintenance|Town and Country Housing|SE|Tunbridge Wells|6000000|2026-10-23T15:00|L|1|1
+089023-2026|Grounds Maintenance Community|The County Hospital|WM|Hereford|100000|2026-10-23T17:00|B|61|0
+088821-2026|CCTV East - 7 Stations|Northern Trains Limited|YH|York|1089000|2026-10-30T16:00|C|0|0
+088820-2026|NHM150 Western Galleries - AV Hardware Integrator|Natural History Museum|LO|London|300000|2026-10-23T12:00|S|0|1
+088783-2026|LIVESTOCK HANDLING FACILITY|Natural England|SW|London|40000|2026-10-16T12:00|S|0|1
+088755-2026|Sprinkler and Remedial Works|South London and Maudsley NHS Foundation Trust|LO|Beckenham|400000|2026-10-16T12:00|B|08|0
+088737-2026|Refurbishment of Newport Central Library and Museum|Cyson Cymru|WA|Newport|600000|2026-10-16T00:00|C|04|0
+088731-2026|POW-ITT-64263 - WELLBEING ROOM YYP|Powys Teaching Health Board|WA|Bronllys|50000|2026-10-16T12:00|S|0|1
+088694-2026|Air Conditioning Service and Maintenance|VICO HOMES LIMITED|YH|Castleford|267000|2026-10-19T17:00|S|21|1
+088689-2026|Escalator and Lift Maintenance and Repair|Strathclyde Partnership for Transport|SC|Glasgow|0|2026-10-23T12:00|C|71|0
+088661-2026|Contract for Labour Only Plastering at Sketty Park Phase 3|City & County of Swansea|WA|Swansea|100000|2026-10-09T12:00|S|0|1
+088570-2026|Footpath Improvements At Sutton Lawn Park|Ashfield District Council|EM|Kirkby in Ashfield|35000|2026-10-16T12:00|S|5|1
+088505-2026|CPU 8586 Grounds Maintenance Operated Plant Framework|Nottingham City Council|EM|Nottingham|400000|2026-10-30T12:00|F|61|1
+088431-2026|Resurfacing of Pathways at Lightwater Country Park|Surrey Heath Borough Council|SE|Camberley|55000|2026-10-15T12:00|S|5|1
+088360-2026|BCU-ITT-64089 - North Wales Medical School - West (YG)|Betsi Cadwaladr University Health Board|WA|Bangor|2000000|2026-10-19T12:00|S|0|1
+088349-2026|BCU-ITT-64088 - NORTH WALES MEDICAL SCHOOL - CENTRAL (YGC)|Betsi Cadwaladr University Health Board|WA|Bangor|2000000|2026-10-15T12:00|S|0|1
+088248-2026|Relocation of Thorne Moors Viewing Tower|Natural England|YH|London|35000|2026-10-15T11:00|S|04|1
+088197-2026|Structural works at Samuda estate underground carpark (Phase 2)|The Riverside Group Limited|LO|Speke, Liverpool|0|2026-10-16T12:00|C|0|0
+088120-2026|Contract for Execution of the Grand Theatre Chiller Replacement|City & County of Swansea|WA|Swansea|300000|2026-10-15T12:00|S|32|1
+088039-2026|Highway Surface Treatments Term Contract - Sprays/Surface Dressing/Slurry/Micro Asphalt|Halton Borough Council|NW|Widnes|4400000|2026-10-22T15:00|S|5|1
+088018-2026|Thanet Bus Shelter Replacement Project|Thanet Bus Shelter Replacement Project|SE|Margate|1495000|2026-10-28T14:00|S|05|1
+087958-2026|PRN26119 Omagh Area Land, Design and Build|Choice Housing Ireland Limited|NI|Belfast|7100000|2026-10-16T12:00|L|0|0
+087917-2026|NSDC-1705 Property Safety and Compliance Check Service and Maintenance Contract for Newark and Sherw|Newark And Sherwood District Council|EM|Newark|7400000|2026-10-30T12:00|L|1|1
+087913-2026|Provision of War Memorial Inspection Cleaning and Maintenance|London Borough of Hillingdon|LO|Uxbridge|0|2026-10-29T17:00|S|1|1
+087849-2026|Void Works - Major Projects|Dover District Council|SE|Dover|160000|2026-10-14T23:59|S|0|1
+087837-2026|Sunny Corner Window and Door Replacement|Dover District Council|SE|Dover|120000|2026-10-14T23:59|S|0|1
+087724-2026|Refurbishment of Leigh Market Hall|Wigan Council|NW|Wigan|4000000|2026-11-02T12:00|S|0|1
+087723-2026|Grass Cutting Contract|Dalston Parish Council|NW|Dalston, Carlisle|30000|2026-11-05T12:00|S|6|1
+087713-2026|Kitchens and Bathrooms Installation Scheme|Watmos Community Homes|WM|Walsall|0|2026-10-15T13:00|S|02|1
+087626-2026|Lurgan Area Land Design and Build|Choice Housing Ireland Limited|NI|Belfast|0|2026-10-16T23:59|C|0|0
+087577-2026|Supply, Delivery, Installation, Removal and Re-siting of Bus Shelters|Falkirk Council|SC|Larbert|1250000|2026-10-16T11:00|F|05|0
+087427-2026|NDC0114-26 - Tarka Leisure Centre Footpath|North Devon District Council|SW|Barnstaple|16000|2026-10-13T12:00|S|5|1
+087387-2026|NRW/21219 St Andrews MSCP - Structural Repairs|Norwich City Council|EE|Norwich|600000|2026-10-14T12:00|S|14|1
+087385-2026|Open Space Maintenance Contract 2026 - 2029|East Kilbride Housing Association Ltd|SC|East Kilbride|300000|2026-10-15T12:00|B|15|0
+087383-2026|Repairs and resurfacing of car park and road|Broughton Parish Council|SW|Thruxton|100000|2026-10-20T23:59|B|51|0
+087306-2026|Replacement Flooring at Eastry Court, Aylesham|Dover District Council|SE|Dover|35000|2026-10-13T12:00|S|0|1
+087265-2026|Auditorium Seating Replacement and Installation Works at Chelmsford Theatre|Chelmsford City Council|EE|Chelmsford|250000|2026-10-20T12:00|S|0|1
+087210-2026|Contract for the Execution of Environmental Facilities West Cross Phase 3|City & County of Swansea|WA|Swansea|965388|2026-10-13T12:00|S|5|1
+087085-2026|Repairs and Voids Contractor Framework|Livv Housing Group|NW|Prescot|0|2026-10-27T12:00|F|12|1
+087042-2026|PRP290 Repair and Maintenance of Heating Equipment and Heating Controls and CO₂ Monitors|Derbyshire County Council|EM|Matlock|0|2026-10-12T11:00|S|21|1
+087027-2026|Internal Alterations to Manor Office, 6 North Street, Crediton, EX17 2BT|Crediton Town Council|SW|Crediton|60000|2026-10-09T17:00|S|0|1
+087019-2026|Dartford Football Club Roof Cladding Works|Dartford Borough Council|SE|Dartford|1300000|2026-10-12T12:00|S|4|1
+086972-2026|Passenger & Domestic Lifting Equipment Servicing and Maintenance|Salix Homes Limited|NW|Manchester|1125000|2026-10-12T12:00|S|71|1
+086929-2026|Maintenance of Life Critical Fire Alarm Systems and AFD Equipment|Cwm Taf Morgannwg University Health Board|WA|Abercynon|390584|2026-10-12T13:00|S|31|1
+086880-2026|Decorating Supplies and Works|Yorkshire Purchasing Organisation|YH|Wakefield|0|2026-10-12T14:00|F|0|0
+086850-2026|Commercial Boilers Installations Framework Agreement 2026 - 2030|The Riverside Group Limited|NW|Speke, Liverpool|0|2026-10-19T13:00|F|2|1
+086835-2026|Procurement for an Out of Hours (OOH) Contact Centre Service (Brunelcare)|Brunelcare|SW|Bristol|0|2026-10-20T12:00|S|1|1
+086696-2026|QEHKL239 Roof Re-covering Works|The Queen Elizabeth Hospital King's Lynn NHS Foundation|EE|Kings Lynn|6500000|2026-10-20T12:00|L|41|0
+086684-2026|Play Equipment at Ladygrove Park, Didcot|Didcot Town Council|SE|Didcot|100000|2026-10-23T16:00|S|0|1
+086671-2026|FHQ Archive Upgrade, Extension & Relocation of Waste Storage.|The Police & Crime Commissioner of North Wales|WA|Colwyn Bay|2000000|2026-10-30T12:00|S|0|1
+086602-2026|Columbine Community Centre - Roof Renewal Works, Walton On The Naze|Frinton & Walton Town Council|EE|Frinton On Sea|200000|2026-11-06T12:00|S|4|1
+086589-2026|Peatland ACTION FW02 Field Ecologists Framework|Scottish Natural Heritage|SC|Inverness|450000|2026-11-06T12:00|F|08|0
+086578-2026|Joinery Contractors Framework|NHS Lanarkshire|SC|Bothwell|4300000|2026-10-19T17:00|F|0|0
+086506-2026|Hard FM - Building Fabric Repairs, Maintenance and Minor works Contract - Corporate Estate|London Borough of Lewisham|LO|Catford|2916667|2026-10-09T12:00|S|14|1
+086494-2026|Supply and Installation of two (2) Fire Behaviour Training Containers for Suffolk Fire and Rescue Se|Suffolk County Council|EE|Ipswich|120000|2026-10-13T11:00|S|0|1
+086431-2026|Drummond Community Centre Refurbishment|Hedge End Town Council|SE|Southampton|120000|2026-10-19T12:00|B|01|0
+086310-2026|Festive Lighting for Stirling City Centre|Stirling Council|SC|Stirling|306000|2026-10-12T12:00|B|3|0
+086259-2026|Servicing and Response Maintenance of Air Conditioning, Air Handling and Air Source Heat Pumps|Borough of Telford & Wrekin|WM|Telford, Shropshire|600000|2026-10-16T12:00|C|21|0
+086221-2026|HSHA – Responsive Maintenance, Void Property Works, Roofing and Drainage|Hanover (Scotland) Housing Association Ltd|SC|Edinburgh|15000000|2026-10-12T12:00|L|45|0
+086213-2026|Mechanical & Electrical Works Partnering Framework|Lancashire County Council|NW|Preston|12000000|2026-10-13T12:00|L|23|1
+086198-2026|Live Fire Training Unit|East Sussex Fire Authority|SE|Lewes|2000000|2026-10-23T12:00|C|0|0
+086157-2026|ML2026/023 - EWI Cladding Reinstatement|MAGENTA LIVING|NW|Birkenhead|6000000|2026-10-08T13:00|L|48|1
+086146-2026|Security Fencing - Thorne Moors|Natural England|YH|London|20000|2026-10-08T11:00|S|9|1
+086108-2026|Maryhill Housing Association - Heating Maintenance 2026 - 2031|Maryhill Housing Association|SC|Glasgow|710000|2026-10-12T17:00|C|21|0
+085981-2026|MW2522 - Birch House - Roof Replacement|Hastoe HA|LO|Kingston upon Thames|80000|2026-10-15T12:00|S|4|1
+085883-2026|TD2414 - Asbestos Removal and Remediation Services and Asbestos Analyst Services|Derby City Council|EM|Derby|3788000|2026-10-15T12:00|S|8|1
+085876-2026|Provision of Marine Electrical and Mechanical Services|Shetland Islands Council (Utilities)|SC|Lerwick|0|2026-10-22T12:00|C|23|0
+085475-2026|Highway Grass Verge and Hedge Cutting, Rights of Way - Seasonal Vegetation cuts, Suds and Watercours|Bedford Borough Council|EE|Bedford|1835886|2026-10-28T12:00|C|56|0
+085472-2026|Trinity Arts & Leisure Centre; Heating & Hot Water Upgrade Project|Bedford College|EE|Bedford|250000|2026-10-12T12:00|S|23|1
+085469-2026|S2007 - Floating Wetland Habitats|Salford City Council|NW|Manchester|180000|2026-10-21T14:00|S|5|1
+085453-2026|WORKS TO EXISTING MEDICAL RECORDS- CONVERSION TO TRAINING ROOM|2Gether Support Solutions Limited|SE|Kent|0|2026-10-09T12:00|S|0|1
+085356-2026|SWLSTG NHS Tolworth Hospital Window Manifestations|South West London and St George's Mental Health NHS Tru|LO|London|80000|2026-10-18T15:00|B|0|0
+085333-2026|Weed control services|City of Bradford Metropolitan District Council|YH|Bradford|660000|2026-10-09T11:00|C|6|0
+084953-2026|Request for Quotation: Street Skate Park Tarmac Path Replacement|Street Parish Council|SW|Street|0|2026-10-30T23:59|S|5|1
+084883-2026|Public Footpath Surface Works - Harris Park Extension|Cockermouth Town Council|NW|Cockermouth|0|2026-10-16T12:00|S|50|1
+084876-2026|Yate Washdown Canopy|Avon Fire Authority|SW|Portishead|0|2026-10-19T12:00|C|0|0
+084788-2026|UK DTE Projects (various upcoming)|Ministry of Defence||Various|0|2027-03-08T12:00|C|0|0
+084720-2026|MBC Archbishops Palace Works|Maidstone Borough Council|SE|Maidstone|1650000|2026-10-16T12:00|S|8|1
+084568-2026|Lift Replacement - Gerddi'r Ffynnon, Aberystwyth|Wales and West Housing Association Ltd|WA|CARDIFF|160000|2026-10-09T17:00|S|71|1
+084550-2026|BBC 0926 - The Refurbishment of John Warner Sports Centre, Hoddesdon, Hertfordshire.|Broxbourne Borough Council|EE|Cheshunt|3500000|2026-10-28T12:00|C|0|0
+084390-2026|Sutton Seeds Roundabout Bus Priority|Wokingham Borough Council|SE|Wokingham|0|2026-10-18T22:59|C|5|0
+084310-2026|Mawnan Park Recreational Play Project|Mawnan Parish Council|SW|Mawnan Smith|100000|2026-10-23T16:00|S|0|1

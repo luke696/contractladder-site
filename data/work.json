@@ -1,12 +1,19 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "areas": [
-  "Derbyshire",
-  "Nottinghamshire",
-  "Leicestershire",
-  "Lincolnshire",
-  "Northamptonshire",
-  "Rutland"
+  "North East",
+  "North West",
+  "Yorkshire and the Humber",
+  "East Midlands",
+  "West Midlands",
+  "East of England",
+  "London",
+  "South East",
+  "South West",
+  "Wales",
+  "Scotland",
+  "Northern Ireland",
+  "UK-wide"
  ],
  "trades": [
   "Building & refurbishment",
@@ -18,14 +25,272 @@
   "Grounds & landscaping",
   "Lifts",
   "Demolition",
+  "Fencing",
   "Plant hire"
  ],
  "tenders": [
   {
+   "id": "086146-2026",
+   "title": "Security Fencing - Thorne Moors",
+   "buyer": "Natural England",
+   "area": "Yorkshire and the Humber",
+   "place": "London",
+   "value": "£20,000",
+   "term": "",
+   "closes": "2026-10-08T11:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Fencing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089289-2026",
+   "title": "DESIGN, SUPPLY, INSTALLATION AND INTEGRATION OF SOLAR PHOTOVOLTAIC SYSTEMS TO 150 PROPERTIES ACROSS",
+   "buyer": "Arbour Housing Ltd",
+   "area": "Northern Ireland",
+   "place": "Portadown",
+   "value": "£750,000",
+   "term": "",
+   "closes": "2026-10-08T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Roofing & cladding"
+   ],
+   "sme": false
+  },
+  {
+   "id": "086157-2026",
+   "title": "ML2026/023 - EWI Cladding Reinstatement",
+   "buyer": "MAGENTA LIVING",
+   "area": "North West",
+   "place": "Birkenhead",
+   "value": "£6m",
+   "term": "",
+   "closes": "2026-10-08T13:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089821-2026",
+   "title": "Distribution Board Replacement, heating works (environmental controls) and Replacement of Gymnasium",
+   "buyer": "COLLEGE OF POLICING LIMITED",
+   "area": "West Midlands",
+   "place": "Coventry",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-08T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089453-2026",
+   "title": "Asbestos Framework – Reactive & Planned Surveying Services and Removal Works",
+   "buyer": "Adra (Tai) Cyf",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£500,000",
+   "term": "",
+   "closes": "2026-10-09T10:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089375-2026",
+   "title": "Air Conditioning Installation at Lemontree Family Hub",
+   "buyer": "Hull City Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Hull",
+   "value": "£12,000",
+   "term": "",
+   "closes": "2026-10-09T11:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085333-2026",
+   "title": "Weed control services",
+   "buyer": "City of Bradford Metropolitan District Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Bradford",
+   "value": "£660,000",
+   "term": "",
+   "closes": "2026-10-09T11:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088661-2026",
+   "title": "Contract for Labour Only Plastering at Sketty Park Phase 3",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-09T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086506-2026",
+   "title": "Hard FM - Building Fabric Repairs, Maintenance and Minor works Contract - Corporate Estate",
+   "buyer": "London Borough of Lewisham",
+   "area": "London",
+   "place": "Catford",
+   "value": "£2.9m",
+   "term": "",
+   "closes": "2026-10-09T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "085453-2026",
+   "title": "WORKS TO EXISTING MEDICAL RECORDS- CONVERSION TO TRAINING ROOM",
+   "buyer": "2Gether Support Solutions Limited",
+   "area": "South East",
+   "place": "Kent",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-09T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092605-2026",
+   "title": "Construction of Community Hub South West England",
+   "buyer": "Barwick and Stoford Parish Council",
+   "area": "South West",
+   "place": "Yeovil",
+   "value": "£800,000",
+   "term": "",
+   "closes": "2026-10-09T17:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087027-2026",
+   "title": "Internal Alterations to Manor Office, 6 North Street, Crediton, EX17 2BT",
+   "buyer": "Crediton Town Council",
+   "area": "South West",
+   "place": "Crediton",
+   "value": "£60,000",
+   "term": "",
+   "closes": "2026-10-09T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "084568-2026",
+   "title": "Lift Replacement - Gerddi'r Ffynnon, Aberystwyth",
+   "buyer": "Wales and West Housing Association Ltd",
+   "area": "Wales",
+   "place": "Cardiff",
+   "value": "£160,000",
+   "term": "",
+   "closes": "2026-10-09T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091260-2026",
+   "title": "Large Infill Modernisation Phase 2",
+   "buyer": "Science Museum Group",
+   "area": "London",
+   "place": "London",
+   "value": "£270,000",
+   "term": "",
+   "closes": "2026-10-12T09:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": false
+  },
+  {
    "id": "087042-2026",
    "title": "Repair and maintenance of heating equipment, heating controls and CO monitors",
    "buyer": "Derbyshire County Council",
-   "area": "Derbyshire",
+   "area": "East Midlands",
    "place": "Countywide",
    "value": "2 lots × £510,000",
    "term": "Dec 2026 – Mar 2028, +3 yrs",
@@ -36,13 +301,953 @@
    "call": "skip",
    "why": "Two lots, so a smaller firm can bid for one. Closes very soon: only for firms with documents ready.",
    "route": "Full tender",
-   "portal": "ProContract"
+   "portal": "ProContract",
+   "county": "Derbyshire"
+  },
+  {
+   "id": "094529-2026",
+   "title": "New Mental Health Emergency Department Unit at Luton Centre for Mental Health",
+   "buyer": "East London NHS Foundation Trust",
+   "area": "East of England",
+   "place": "London",
+   "value": "£1.7m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091694-2026",
+   "title": "BSS26015 - Vertical Transportation Maintenance",
+   "buyer": "Barcud Shared Services",
+   "area": "Wales",
+   "place": "Cardiff",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Lifts"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091452-2026",
+   "title": "Contract for Roofing and Solar Panels at Heol Emrys and Tudno, Lavender Court",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£88,000",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091134-2026",
+   "title": "Huyton MSCP Lift Control Upgrade",
+   "buyer": "Knowsley Council",
+   "area": "North West",
+   "place": "Huyton",
+   "value": "£28,000",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089633-2026",
+   "title": "Cynnal Tiroedd / Grounds Maintenance",
+   "buyer": "Adra (Tai) Cyf",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£2.5m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089363-2026",
+   "title": "POW-ITT-63983 STAFF CHANGING ROOMS AT LLANDILOES HOSPITAL",
+   "buyer": "Powys Teaching Health Board",
+   "area": "Wales",
+   "place": "Bronllys",
+   "value": "£50,000",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087019-2026",
+   "title": "Dartford Football Club Roof Cladding Works",
+   "buyer": "Dartford Borough Council",
+   "area": "South East",
+   "place": "Dartford",
+   "value": "£1.3m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086972-2026",
+   "title": "Passenger & Domestic Lifting Equipment Servicing and Maintenance",
+   "buyer": "Salix Homes Limited",
+   "area": "North West",
+   "place": "Manchester",
+   "value": "£1.1m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086310-2026",
+   "title": "Festive Lighting for Stirling City Centre",
+   "buyer": "Stirling Council",
+   "area": "Scotland",
+   "place": "Stirling",
+   "value": "£306,000",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "sme": false
+  },
+  {
+   "id": "086221-2026",
+   "title": "HSHA – Responsive Maintenance, Void Property Works, Roofing and Drainage",
+   "buyer": "Hanover (Scotland) Housing Association Ltd",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "£15m",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085472-2026",
+   "title": "Trinity Arts & Leisure Centre; Heating & Hot Water Upgrade Project",
+   "buyer": "Bedford College",
+   "area": "East of England",
+   "place": "Bedford",
+   "value": "£250,000",
+   "term": "",
+   "closes": "2026-10-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086929-2026",
+   "title": "Maintenance of Life Critical Fire Alarm Systems and AFD Equipment",
+   "buyer": "Cwm Taf Morgannwg University Health Board",
+   "area": "Wales",
+   "place": "Abercynon",
+   "value": "£391,000",
+   "term": "",
+   "closes": "2026-10-12T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089883-2026",
+   "title": "GL RFCA Barnet ARC Boiler Replacement",
+   "buyer": "Reserve Forces' and Cadets' Association for Greater Lon",
+   "area": "London",
+   "place": "London",
+   "value": "£170,000",
+   "term": "",
+   "closes": "2026-10-12T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086880-2026",
+   "title": "Decorating Supplies and Works",
+   "buyer": "Yorkshire Purchasing Organisation",
+   "area": "Yorkshire and the Humber",
+   "place": "Wakefield",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-12T14:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092439-2026",
+   "title": "osod Cae 3g newydd yn Ysgol Uwchradd Penarlâg / 3g Pitch Replacement at Hawarden High School",
+   "buyer": "Flintshire County Council",
+   "area": "Wales",
+   "place": "Flintshire",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-12T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093055-2026",
+   "title": "Moorfield Road Open Space Improvement Project",
+   "buyer": "Carn Brea Parish Council",
+   "area": "South West",
+   "place": "Pool, Redruth",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-12T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086108-2026",
+   "title": "Maryhill Housing Association - Heating Maintenance 2026 - 2031",
+   "buyer": "Maryhill Housing Association",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£710,000",
+   "term": "",
+   "closes": "2026-10-12T17:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "089611-2026",
+   "title": "Removal of Existing Pedestrian Bridge at Clare Glen Including all Necessary Enabling Works",
+   "buyer": "Armagh City, Banbridge and Craigavon Borough Council",
+   "area": "Northern Ireland",
+   "place": "Craigavon",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-13T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087427-2026",
+   "title": "NDC0114-26 - Tarka Leisure Centre Footpath",
+   "buyer": "North Devon District Council",
+   "area": "South West",
+   "place": "Barnstaple",
+   "value": "£16,000",
+   "term": "",
+   "closes": "2026-10-13T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087306-2026",
+   "title": "Replacement Flooring at Eastry Court, Aylesham",
+   "buyer": "Dover District Council",
+   "area": "South East",
+   "place": "Dover",
+   "value": "£35,000",
+   "term": "",
+   "closes": "2026-10-13T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087210-2026",
+   "title": "Contract for the Execution of Environmental Facilities West Cross Phase 3",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£965,000",
+   "term": "",
+   "closes": "2026-10-13T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086213-2026",
+   "title": "Mechanical & Electrical Works Partnering Framework",
+   "buyer": "Lancashire County Council",
+   "area": "North West",
+   "place": "Preston",
+   "value": "£12m",
+   "term": "",
+   "closes": "2026-10-13T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094461-2026",
+   "title": "Contract for Tudno and Heol Emrys Re-Roofing and Associated Works",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£550,000",
+   "term": "",
+   "closes": "2026-10-14T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092964-2026",
+   "title": "BHA26006 – Void Works Tan Y Castell",
+   "buyer": "Barcud Cyfyngedig",
+   "area": "Wales",
+   "place": "Ceredigion",
+   "value": "£80,000",
+   "term": "",
+   "closes": "2026-10-14T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091055-2026",
+   "title": "Faith Centre Solar PV and Fall Arrest System Installation",
+   "buyer": "University of Salford",
+   "area": "North West",
+   "place": "Salford",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-14T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090868-2026",
+   "title": "Contract for the Design, Supply, Erection and Dismantling of Scaffolding at Transforming Homes",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£40,000",
+   "term": "",
+   "closes": "2026-10-14T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087387-2026",
+   "title": "NRW/21219 St Andrews MSCP - Structural Repairs",
+   "buyer": "Norwich City Council",
+   "area": "East of England",
+   "place": "Norwich",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-10-14T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091399-2026",
+   "title": "D2 Dehumidification (L&A and Radiation Stores)",
+   "buyer": "Science Museum Group",
+   "area": "London",
+   "place": "London",
+   "value": "£500,000",
+   "term": "",
+   "closes": "2026-10-14T16:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090052-2026",
+   "title": "4-6 Short Street Repair Works",
+   "buyer": "Cambridge City Council",
+   "area": "East of England",
+   "place": "Cambridge",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-14T17:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087849-2026",
+   "title": "Void Works - Major Projects",
+   "buyer": "Dover District Council",
+   "area": "South East",
+   "place": "Dover",
+   "value": "£160,000",
+   "term": "",
+   "closes": "2026-10-14T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087837-2026",
+   "title": "Sunny Corner Window and Door Replacement",
+   "buyer": "Dover District Council",
+   "area": "South East",
+   "place": "Dover",
+   "value": "£120,000",
+   "term": "",
+   "closes": "2026-10-14T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088248-2026",
+   "title": "Relocation of Thorne Moors Viewing Tower",
+   "buyer": "Natural England",
+   "area": "Yorkshire and the Humber",
+   "place": "London",
+   "value": "£35,000",
+   "term": "",
+   "closes": "2026-10-15T11:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090486-2026",
+   "title": "BCU-ITT-63595 - WREXHAM MAELOR HOSPITAL PHARMACY BOILER REPLACEMENT",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£80,000",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088431-2026",
+   "title": "Resurfacing of Pathways at Lightwater Country Park",
+   "buyer": "Surrey Heath Borough Council",
+   "area": "South East",
+   "place": "Camberley",
+   "value": "£55,000",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088349-2026",
+   "title": "BCU-ITT-64088 - NORTH WALES MEDICAL SCHOOL - CENTRAL (YGC)",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088120-2026",
+   "title": "Contract for Execution of the Grand Theatre Chiller Replacement",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087385-2026",
+   "title": "Open Space Maintenance Contract 2026 - 2029",
+   "buyer": "East Kilbride Housing Association Ltd",
+   "area": "Scotland",
+   "place": "East Kilbride",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085981-2026",
+   "title": "MW2522 - Birch House - Roof Replacement",
+   "buyer": "Hastoe HA",
+   "area": "London",
+   "place": "Kingston upon Thames",
+   "value": "£80,000",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "085883-2026",
+   "title": "TD2414 - Asbestos Removal and Remediation Services and Asbestos Analyst Services",
+   "buyer": "Derby City Council",
+   "area": "East Midlands",
+   "place": "Derby",
+   "value": "£3.8m",
+   "term": "",
+   "closes": "2026-10-15T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087713-2026",
+   "title": "Kitchens and Bathrooms Installation Scheme",
+   "buyer": "Watmos Community Homes",
+   "area": "West Midlands",
+   "place": "Walsall",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-15T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093724-2026",
+   "title": "Repairs and Maintenance Service (RMS) - Energy Efficiency and Bungalow Improvements Project 2027 (CR",
+   "buyer": "Stoke-on-Trent City Council",
+   "area": "West Midlands",
+   "place": "Stoke-on-Trent",
+   "value": "£780,000",
+   "term": "",
+   "closes": "2026-10-15T15:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091348-2026",
+   "title": "Laganside Courts Property Management Contract 2026",
+   "buyer": "Department of Justice",
+   "area": "Northern Ireland",
+   "place": "Belfast",
+   "value": "£3.2m",
+   "term": "",
+   "closes": "2026-10-15T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088737-2026",
+   "title": "Refurbishment of Newport Central Library and Museum",
+   "buyer": "Cyson Cymru",
+   "area": "Wales",
+   "place": "Newport",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-10-16T00:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Roofing & cladding"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087577-2026",
+   "title": "Supply, Delivery, Installation, Removal and Re-siting of Bus Shelters",
+   "buyer": "Falkirk Council",
+   "area": "Scotland",
+   "place": "Larbert",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-10-16T11:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093018-2026",
+   "title": "Cyngor Sir Ddinbych Fframwaith Cynnal a chadw adweithiol / Denbighshire County Council Reactive main",
+   "buyer": "Denbighshire County Council",
+   "area": "Wales",
+   "place": "Ruthin",
+   "value": "£6m",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091989-2026",
+   "title": "Lift Replacement - Hazel Court",
+   "buyer": "Bernicia Group",
+   "area": "North East",
+   "place": "Ashington",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091881-2026",
+   "title": "Fire Alarms, Intruder Alarms & Access Control Testing, Maintenance and Monitoring Services",
+   "buyer": "Trowbridge Town Council",
+   "area": "South West",
+   "place": "Trowbridge",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "089647-2026",
+   "title": "T0222 - Provision of Replacement Heating System at Evesham Hospital",
+   "buyer": "Herefordshire and Worcestershire Health & Care NHS Trus",
+   "area": "West Midlands",
+   "place": "Worcester",
+   "value": "£450,000",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088783-2026",
+   "title": "LIVESTOCK HANDLING FACILITY",
+   "buyer": "Natural England",
+   "area": "South West",
+   "place": "London",
+   "value": "£40,000",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088755-2026",
+   "title": "Sprinkler and Remedial Works",
+   "buyer": "South London and Maudsley NHS Foundation Trust",
+   "area": "London",
+   "place": "Beckenham",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Demolition"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088731-2026",
+   "title": "POW-ITT-64263 - WELLBEING ROOM YYP",
+   "buyer": "Powys Teaching Health Board",
+   "area": "Wales",
+   "place": "Bronllys",
+   "value": "£50,000",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
   },
   {
    "id": "088570-2026",
    "title": "Footpath improvements at Sutton Lawn Park",
    "buyer": "Ashfield District Council",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Sutton-in-Ashfield",
    "value": "£42,000",
    "term": "Nov 2026 – Feb 2027",
@@ -54,13 +1259,287 @@
    "call": "bid",
    "why": "Small, clearly specified and priced from a schedule of works. An ideal first council job.",
    "route": "Quotation",
-   "portal": "ProContract"
+   "portal": "ProContract",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "088197-2026",
+   "title": "Structural works at Samuda estate underground carpark (Phase 2)",
+   "buyer": "The Riverside Group Limited",
+   "area": "London",
+   "place": "Speke, Liverpool",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087958-2026",
+   "title": "PRN26119 Omagh Area Land, Design and Build",
+   "buyer": "Choice Housing Ireland Limited",
+   "area": "Northern Ireland",
+   "place": "Belfast",
+   "value": "£7.1m",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "086259-2026",
+   "title": "Servicing and Response Maintenance of Air Conditioning, Air Handling and Air Source Heat Pumps",
+   "buyer": "Borough of Telford & Wrekin",
+   "area": "West Midlands",
+   "place": "Telford, Shropshire",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "084883-2026",
+   "title": "Public Footpath Surface Works - Harris Park Extension",
+   "buyer": "Cockermouth Town Council",
+   "area": "North West",
+   "place": "Cockermouth",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "084720-2026",
+   "title": "MBC Archbishops Palace Works",
+   "buyer": "Maidstone Borough Council",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "£1.6m",
+   "term": "",
+   "closes": "2026-10-16T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089341-2026",
+   "title": "Cherry Tree Allotments Expansion",
+   "buyer": "Watford Borough Council",
+   "area": "East of England",
+   "place": "Watford",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-10-16T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094734-2026",
+   "title": "Roof Renewal Works at Bolsover Assembly Hall",
+   "buyer": "Old Bolsover Town Council",
+   "area": "East Midlands",
+   "place": "Bolsover",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-16T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093053-2026",
+   "title": "Poringland Community Land - small highways and ground works",
+   "buyer": "Poringland Parish Council",
+   "area": "East of England",
+   "place": "Poringland",
+   "value": "£120,000",
+   "term": "",
+   "closes": "2026-10-16T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090013-2026",
+   "title": "New Allotment Site - Tuttles Lane West, Wymondham - Site Infrastructure Works",
+   "buyer": "Wymondham Town Council",
+   "area": "East of England",
+   "place": "Wymondham",
+   "value": "£95,000",
+   "term": "",
+   "closes": "2026-10-16T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Fencing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089234-2026",
+   "title": "Fire Stopping and Compartment Remedial Works (PRH site)",
+   "buyer": "The Shrewsbury and Telford Hospital NHS Trust",
+   "area": "West Midlands",
+   "place": "Shrewsbury",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-10-16T17:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "089660-2026",
+   "title": "St Martins fire station replacement roof",
+   "buyer": "Council of the Isles of Scilly",
+   "area": "South West",
+   "place": "Hugh Town",
+   "value": "£45,000",
+   "term": "",
+   "closes": "2026-10-16T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087626-2026",
+   "title": "Lurgan Area Land Design and Build",
+   "buyer": "Choice Housing Ireland Limited",
+   "area": "Northern Ireland",
+   "place": "Belfast",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-16T23:59",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085356-2026",
+   "title": "SWLSTG NHS Tolworth Hospital Window Manifestations",
+   "buyer": "South West London and St George's Mental Health NHS Tru",
+   "area": "London",
+   "place": "London",
+   "value": "£80,000",
+   "term": "",
+   "closes": "2026-10-18T15:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "084390-2026",
+   "title": "Sutton Seeds Roundabout Bus Priority",
+   "buyer": "Wokingham Borough Council",
+   "area": "South East",
+   "place": "Wokingham",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-18T22:59",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094555-2026",
+   "title": "Luton Centre for Mental Health – Expansion of Section 136 Unit at Jade Ward",
+   "buyer": "East London NHS Foundation Trust",
+   "area": "East of England",
+   "place": "London",
+   "value": "£525,000",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
   },
   {
    "id": "091625-2026",
    "title": "Replacement passenger lift, Antenna Building",
    "buyer": "Nottingham Trent University",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Nottingham city centre",
    "value": "£150,000",
    "term": "2027",
@@ -71,13 +1550,622 @@
    "call": "bid",
    "why": "A single lift replacement at a size a regional lift firm can win.",
    "route": "Full tender",
-   "portal": "Find a Tender notice"
+   "portal": "Find a Tender notice",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "091098-2026",
+   "title": "TWBC Property Term Contract 2027 - Lots 3A, 3B, 3C & 4 (Mechanical, HVAC, Water Hygiene & Lift Maint",
+   "buyer": "Tunbridge Wells Borough Council",
+   "area": "South East",
+   "place": "Tunbridge Wells",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089372-2026",
+   "title": "T0224 Lift works at Kings Court 2, Kidderminster HC and Robertson Centre",
+   "buyer": "Herefordshire and Worcestershire Health and Care NHS Tr",
+   "area": "West Midlands",
+   "place": "Worcester",
+   "value": "£395,000",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": false
+  },
+  {
+   "id": "089371-2026",
+   "title": "Teddington Allotments Reclamation Works at Shacklegate Lane Cemetery",
+   "buyer": "London Borough of Richmond upon Thames",
+   "area": "London",
+   "place": "Richmond",
+   "value": "£228,000",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089328-2026",
+   "title": "Delivery, Management and Maintenance of Public & Private EV Infrastructure",
+   "buyer": "PLACES FOR PEOPLE GROUP LIMITED",
+   "area": "UK-wide",
+   "place": "London",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088360-2026",
+   "title": "BCU-ITT-64089 - North Wales Medical School - West (YG)",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086431-2026",
+   "title": "Drummond Community Centre Refurbishment",
+   "buyer": "Hedge End Town Council",
+   "area": "South East",
+   "place": "Southampton",
+   "value": "£120,000",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "084876-2026",
+   "title": "Yate Washdown Canopy",
+   "buyer": "Avon Fire Authority",
+   "area": "South West",
+   "place": "Portishead",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-19T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090702-2026",
+   "title": "British Museum Round Reading Room Roof Oculus Works",
+   "buyer": "British Museum",
+   "area": "London",
+   "place": "London",
+   "value": "£9m",
+   "term": "",
+   "closes": "2026-10-19T13:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086850-2026",
+   "title": "Commercial Boilers Installations Framework Agreement 2026 - 2030",
+   "buyer": "The Riverside Group Limited",
+   "area": "North West",
+   "place": "Speke, Liverpool",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-19T13:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090730-2026",
+   "title": "Water Management - Legionella",
+   "buyer": "Northern Lighthouse Board",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "£124,000",
+   "term": "",
+   "closes": "2026-10-19T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089310-2026",
+   "title": "Chestnut Walk, Hungerford, Refurbishment Project",
+   "buyer": "West Berkshire Council",
+   "area": "South East",
+   "place": "Newbury",
+   "value": "£1.5m",
+   "term": "",
+   "closes": "2026-10-19T15:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Demolition"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088694-2026",
+   "title": "Air Conditioning Service and Maintenance",
+   "buyer": "VICO HOMES LIMITED",
+   "area": "Yorkshire and the Humber",
+   "place": "Castleford",
+   "value": "£267,000",
+   "term": "",
+   "closes": "2026-10-19T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086578-2026",
+   "title": "Joinery Contractors Framework",
+   "buyer": "NHS Lanarkshire",
+   "area": "Scotland",
+   "place": "Bothwell",
+   "value": "£4.3m",
+   "term": "",
+   "closes": "2026-10-19T17:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092050-2026",
+   "title": "Contract for Garden Clearances",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£45,000",
+   "term": "",
+   "closes": "2026-10-20T00:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090000-2026",
+   "title": "Prospere Learning Trust Grounds Maintenance",
+   "buyer": "Prospere Learning Trust",
+   "area": "North West",
+   "place": "Manchester",
+   "value": "£350,000",
+   "term": "",
+   "closes": "2026-10-20T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089837-2026",
+   "title": "Longforth Farm Allotments",
+   "buyer": "Wellington Town Council",
+   "area": "South West",
+   "place": "Wellington",
+   "value": "£63,000",
+   "term": "",
+   "closes": "2026-10-20T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089533-2026",
+   "title": "THE PROVISION OF RIVER PARK PERIMETER PATH",
+   "buyer": "Winchester City Council",
+   "area": "South East",
+   "place": "Winchester",
+   "value": "£153,000",
+   "term": "",
+   "closes": "2026-10-20T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086696-2026",
+   "title": "QEHKL239 Roof Re-covering Works",
+   "buyer": "The Queen Elizabeth Hospital King's Lynn NHS Foundation",
+   "area": "East of England",
+   "place": "Kings Lynn",
+   "value": "£6.5m",
+   "term": "",
+   "closes": "2026-10-20T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087383-2026",
+   "title": "Repairs and resurfacing of car park and road",
+   "buyer": "Broughton Parish Council",
+   "area": "South West",
+   "place": "Thruxton",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-20T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094598-2026",
+   "title": "West Area Footway Improvements",
+   "buyer": "Hull City Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Hull",
+   "value": "£180,000",
+   "term": "",
+   "closes": "2026-10-21T11:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092018-2026",
+   "title": "Antenatal Ward Relocation to Block 14 (SFT-BT-C464875)",
+   "buyer": "Somerset NHS Foundation Trust",
+   "area": "South West",
+   "place": "Taunton",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091393-2026",
+   "title": "Statutory Servicing, Reactive and Remedial Works",
+   "buyer": "Gloucestershire County Council",
+   "area": "South West",
+   "place": "Gloucester",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090620-2026",
+   "title": "Framework Agreement for the Execution of General Building Works (Housing) - Lots 1 & 2",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£11.4m",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090039-2026",
+   "title": "Carriageway Resurfacing Works 2026/27 - Bulk Tender 4",
+   "buyer": "Wigan Council",
+   "area": "North West",
+   "place": "Wigan",
+   "value": "£572,000",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089993-2026",
+   "title": "Fire Alarm and Portable Extinguisher Maintenance",
+   "buyer": "South Yorkshire Fire and Rescue Authority",
+   "area": "Yorkshire and the Humber",
+   "place": "Sheffield",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089646-2026",
+   "title": "Supply and Erection of Access Equipment (Scaffold & Mobile Towers) (H817)",
+   "buyer": "Dudley Metropolitan Borough Council",
+   "area": "West Midlands",
+   "place": "Dudley",
+   "value": "£1.6m",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": false
+  },
+  {
+   "id": "089365-2026",
+   "title": "Provision of Servicing and Maintenance of Chiller (HVAC) and AC units to Kingston University",
+   "buyer": "Kingston University Higher Education Corporation",
+   "area": "London",
+   "place": "Kingston upon Thames",
+   "value": "£500,000",
+   "term": "",
+   "closes": "2026-10-21T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085469-2026",
+   "title": "S2007 - Floating Wetland Habitats",
+   "buyer": "Salford City Council",
+   "area": "North West",
+   "place": "Manchester",
+   "value": "£180,000",
+   "term": "",
+   "closes": "2026-10-21T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092524-2026",
+   "title": "RHA_294_Appointment of Main Contractor_4 Social Housing Units_Bushmills",
+   "buyer": "Rural Housing Association",
+   "area": "Northern Ireland",
+   "place": "Omagh",
+   "value": "£950,000",
+   "term": "",
+   "closes": "2026-10-21T15:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092691-2026",
+   "title": "Contract for Re-Roofing Works - Phase 1 at Felindre",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£65,000",
+   "term": "",
+   "closes": "2026-10-22T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090767-2026",
+   "title": "BCU-ITT-63452 - ABERGELE CLINIC ROOF UPGRADE",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£125,000",
+   "term": "",
+   "closes": "2026-10-22T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090541-2026",
+   "title": "St Thomas Community Sports Hub",
+   "buyer": "Stockport Metropolitan Borough Council",
+   "area": "North West",
+   "place": "Stockport",
+   "value": "£50,000",
+   "term": "",
+   "closes": "2026-10-22T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089729-2026",
+   "title": "Active Fire Prevention Services 2027-2032",
+   "buyer": "Beyond Housing Limited",
+   "area": "Yorkshire and the Humber",
+   "place": "Scarborough",
+   "value": "£735,000",
+   "term": "",
+   "closes": "2026-10-22T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": false
   },
   {
    "id": "089311-2026",
    "title": "Maintenance operative service, Pleasley Vale Business Park and corporate properties",
    "buyer": "Bolsover District Council",
-   "area": "Derbyshire",
+   "area": "East Midlands",
    "place": "Pleasley Vale",
    "value": "£200,000",
    "term": "Dec 2026 – Nov 2028, +2 yrs",
@@ -89,13 +2177,141 @@
    "call": "bid",
    "why": "37 hours a week of handyman-style work. Steady income for a small multi-trade firm.",
    "route": "Full tender",
-   "portal": "In-Tend (Bolsover)"
+   "portal": "In-Tend (Bolsover)",
+   "county": "Derbyshire"
+  },
+  {
+   "id": "085876-2026",
+   "title": "Provision of Marine Electrical and Mechanical Services",
+   "buyer": "Shetland Islands Council (Utilities)",
+   "area": "Scotland",
+   "place": "Lerwick",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-22T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088039-2026",
+   "title": "Highway Surface Treatments Term Contract - Sprays/Surface Dressing/Slurry/Micro Asphalt",
+   "buyer": "Halton Borough Council",
+   "area": "North West",
+   "place": "Widnes",
+   "value": "£4.4m",
+   "term": "",
+   "closes": "2026-10-22T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089709-2026",
+   "title": "2026TCCH-16 - Water Mains",
+   "buyer": "Tai Calon Community Housing Ltd",
+   "area": "Wales",
+   "place": "Blaina",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-10-22T16:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093483-2026",
+   "title": "SU172(26) Energy Centre and Union House District Heat Network Connection Works",
+   "buyer": "Swansea University",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£5m",
+   "term": "",
+   "closes": "2026-10-23T00:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091619-2026",
+   "title": "Construction of carpark at Conningbrook Country Park",
+   "buyer": "Ashford Borough Council",
+   "area": "South East",
+   "place": "Ashford",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-10-23T10:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090325-2026",
+   "title": "Low Voltage Distribution Networks System Works at Nyati and Kifaru Barracks",
+   "buyer": "Defence Infrastructure Organisation",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-10-23T10:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094117-2026",
+   "title": "Culvert Crossing and Groundworks",
+   "buyer": "Natural England",
+   "area": "UK-wide",
+   "place": "London",
+   "value": "£35,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
   },
   {
    "id": "094043-2026",
    "title": "Car parks resurfacing and footpaths repair scheme",
    "buyer": "Erewash Borough Council",
-   "area": "Derbyshire",
+   "area": "East Midlands",
    "place": "Ilkeston & Long Eaton",
    "value": "£204,000",
    "term": "Nov – Dec 2026",
@@ -106,13 +2322,14 @@
    "call": "bid",
    "why": "A short winter programme for a surfacing contractor.",
    "route": "Full tender",
-   "portal": "EastMidsTenders"
+   "portal": "EastMidsTenders",
+   "county": "Derbyshire"
   },
   {
    "id": "093280-2026",
    "title": "Passenger lift refurbishment, DH Lawrence Building",
    "buyer": "Nottingham Trent University",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Clifton campus",
    "value": "£80,000",
    "term": "2027",
@@ -123,13 +2340,508 @@
    "call": "bid",
    "why": "A refurbishment rather than a replacement. A good entry job for a lift firm.",
    "route": "Full tender",
-   "portal": "Find a Tender notice"
+   "portal": "Find a Tender notice",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "093278-2026",
+   "title": "BHA26007 - The Beeches Garage Roof Replacements",
+   "buyer": "Barcud Cyfyngedig",
+   "area": "Wales",
+   "place": "Ceredigion",
+   "value": "£125,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093119-2026",
+   "title": "Contract for Windows & Doors Renewal at Felindre",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£29,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092642-2026",
+   "title": "SCC Spirit Store Container Replacement",
+   "buyer": "THE HORNIMAN PUBLIC MUSEUM AND PUBLIC PARK TRUST",
+   "area": "London",
+   "place": "London",
+   "value": "£110,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091616-2026",
+   "title": "CTC Little Rissington",
+   "buyer": "Reserve Forces' and Cadets' Associations of the SouthEa",
+   "area": "South East",
+   "place": "Aldershot",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091167-2026",
+   "title": "Windows and Door Works at Hedgerows Family Centre",
+   "buyer": "Milton Keynes City Council",
+   "area": "South East",
+   "place": "Milton Keynes",
+   "value": "£40,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091135-2026",
+   "title": "Flooring Supply & Fit",
+   "buyer": "Leeds City Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Leeds",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090811-2026",
+   "title": "YSJU Accessible Personnel Lift Installation",
+   "buyer": "York St John University",
+   "area": "Yorkshire and the Humber",
+   "place": "York",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090095-2026",
+   "title": "Replacement Kitchens and Bathrooms",
+   "buyer": "NSAH (ALLIANCE HOMES) LIMITED",
+   "area": "South West",
+   "place": "Portishead",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089231-2026",
+   "title": "Lift Refurbishment and Replacements – Keel Court, Green Dragon Court, Fairlead House and Bordeaux Ho",
+   "buyer": "The Riverside Group Limited",
+   "area": "London",
+   "place": "Speke, Liverpool",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089163-2026",
+   "title": "Access Lift Installation, Servicing and Maintenance",
+   "buyer": "City of York Council",
+   "area": "Yorkshire and the Humber",
+   "place": "York",
+   "value": "£3.6m",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "088689-2026",
+   "title": "Escalator and Lift Maintenance and Repair",
+   "buyer": "Strathclyde Partnership for Transport",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "086198-2026",
+   "title": "Live Fire Training Unit",
+   "buyer": "East Sussex Fire Authority",
+   "area": "South East",
+   "place": "Lewes",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-10-23T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092160-2026",
+   "title": "Arboricultural Services for Peterborough",
+   "buyer": "Peterborough City Council",
+   "area": "East of England",
+   "place": "Peterborough",
+   "value": "£7m",
+   "term": "",
+   "closes": "2026-10-23T14:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089158-2026",
+   "title": "Wimbledon Train care Depot Upgrade (MCE) - ES4 Design Stage",
+   "buyer": "SOUTH WESTERN RAILWAY LIMITED",
+   "area": "London",
+   "place": "London",
+   "value": "£1.1m",
+   "term": "",
+   "closes": "2026-10-23T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089068-2026",
+   "title": "External Planned Maintenance",
+   "buyer": "Town and Country Housing",
+   "area": "South East",
+   "place": "Tunbridge Wells",
+   "value": "£6m",
+   "term": "",
+   "closes": "2026-10-23T15:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086684-2026",
+   "title": "Play Equipment at Ladygrove Park, Didcot",
+   "buyer": "Didcot Town Council",
+   "area": "South East",
+   "place": "Didcot",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-23T16:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "084310-2026",
+   "title": "Mawnan Park Recreational Play Project",
+   "buyer": "Mawnan Parish Council",
+   "area": "South West",
+   "place": "Mawnan Smith",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-23T16:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090753-2026",
+   "title": "Supply and Maintenance of Irrigation Systems, Ponds, Lakes, Water Features, and Drinking Fountains",
+   "buyer": "London Borough of Hillingdon",
+   "area": "London",
+   "place": "Uxbridge",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-23T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089023-2026",
+   "title": "Grounds Maintenance Community",
+   "buyer": "The County Hospital",
+   "area": "West Midlands",
+   "place": "Hereford",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-23T17:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093397-2026",
+   "title": "Haslemere Playgrounds - Lion Green",
+   "buyer": "Haslemere Town Council",
+   "area": "South East",
+   "place": "Haslemere",
+   "value": "£250,000",
+   "term": "",
+   "closes": "2026-10-23T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093137-2026",
+   "title": "Scarbrough Barracks Locker Cages",
+   "buyer": "RFCA - Yorkshire and the Humber",
+   "area": "Yorkshire and the Humber",
+   "place": "York",
+   "value": "£40,000",
+   "term": "",
+   "closes": "2026-10-23T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092750-2026",
+   "title": "Haslemere Playground - High Lane",
+   "buyer": "Haslemere Town Council",
+   "area": "South East",
+   "place": "Haslemere",
+   "value": "£140,000",
+   "term": "",
+   "closes": "2026-10-23T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092748-2026",
+   "title": "Haslemere Playgrounds - Haslemere WMR Ground",
+   "buyer": "Haslemere Town Council",
+   "area": "South East",
+   "place": "Haslemere",
+   "value": "£140,000",
+   "term": "",
+   "closes": "2026-10-23T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091115-2026",
+   "title": "COV - Holbrooks Primary School Extension - Main Works Contractor",
+   "buyer": "Coventry City Council",
+   "area": "West Midlands",
+   "place": "Coventry",
+   "value": "£2.4m",
+   "term": "",
+   "closes": "2026-10-23T23:59",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091586-2026",
+   "title": "Grounds Maintenance",
+   "buyer": "Broadacres Housing Association",
+   "area": "North East",
+   "place": "Northallerton",
+   "value": "£1.5m",
+   "term": "",
+   "closes": "2026-10-26T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090830-2026",
+   "title": "Electrical Maintenance and Repair across The Sheffield College estate",
+   "buyer": "The Sheffield College",
+   "area": "Yorkshire and the Humber",
+   "place": "Sheffield",
+   "value": "£166,000",
+   "term": "",
+   "closes": "2026-10-26T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090072-2026",
+   "title": "BCU-ITT-64207 - Bryn Y Neuadd Hospital Extension and Reconfiguration Works",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£732,000",
+   "term": "",
+   "closes": "2026-10-26T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
   },
   {
    "id": "089979-2026",
    "title": "Refurbishment of Autumn Day Centre",
    "buyer": "North Northamptonshire Council",
-   "area": "Northamptonshire",
+   "area": "East Midlands",
    "place": "Corby",
    "value": "£228,000",
    "term": "Jan – Nov 2027",
@@ -140,30 +2852,476 @@
    "call": "bid",
    "why": "A design-complete refurbishment of a dementia day centre at a size a local builder can run.",
    "route": "Full tender",
-   "portal": "ProContract"
+   "portal": "ProContract",
+   "county": "Northamptonshire"
   },
   {
-   "id": "092527-2026",
-   "title": "Resurfacing of Blatherwick's Yard car park",
-   "buyer": "Gedling Borough Council",
-   "area": "Nottinghamshire",
-   "place": "Arnold",
-   "value": "£144,000",
-   "term": "Dec 2026 – Mar 2027",
-   "closes": "2026-10-29T12:00",
+   "id": "092901-2026",
+   "title": "External Planned Works for Social Housing 2027-29",
+   "buyer": "The District Council of Folkestone and Hythe",
+   "area": "South East",
+   "place": "Folkestone",
+   "value": "£1.3m",
+   "term": "",
+   "closes": "2026-10-26T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094735-2026",
+   "title": "New Grounds Maintenance Contract - Old Basing & Lychpit Parish Council",
+   "buyer": "Old Basing & Lychpit Parish Council",
+   "area": "South East",
+   "place": "Old Basing",
+   "value": "£531,000",
+   "term": "",
+   "closes": "2026-10-26T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093660-2026",
+   "title": "Contract for Groundworks at Felindre Phase 1",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£90,000",
+   "term": "",
+   "closes": "2026-10-27T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092084-2026",
+   "title": "SuDS2601 - St Ives Crescent SuDS",
+   "buyer": "North East Lincolnshire Borough Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Grimsby",
+   "value": "£750,000",
+   "term": "",
+   "closes": "2026-10-27T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
    "trades": [
     "Surfacing & groundworks"
    ],
+   "sme": true
+  },
+  {
+   "id": "091842-2026",
+   "title": "Tender for Localised Building Improvements At Hillside Intermediate Care Centre Pentwyn Ave, Herefor",
+   "buyer": "Herefordshire Council",
+   "area": "West Midlands",
+   "place": "Hereford",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-27T12:00",
    "call": "bid",
-   "why": "Reserved for small firms and charities, so big contractors can't bid against you.",
-   "route": "Quotation",
-   "portal": "In-Tend (Gedling)"
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090425-2026",
+   "title": "Provision for Lee Valley VeloPark Rooflights Refurbishment",
+   "buyer": "Lee Valley Regional Park Authority",
+   "area": "London",
+   "place": "Enfield",
+   "value": "£130,000",
+   "term": "",
+   "closes": "2026-10-27T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "087085-2026",
+   "title": "Repairs and Voids Contractor Framework",
+   "buyer": "Livv Housing Group",
+   "area": "North West",
+   "place": "Prescot",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-27T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093297-2026",
+   "title": "Replacement UPVC windows and doors programme 2027-29",
+   "buyer": "The District Council of Folkestone and Hythe",
+   "area": "South East",
+   "place": "Folkestone",
+   "value": "£4m",
+   "term": "",
+   "closes": "2026-10-27T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093830-2026",
+   "title": "715862501-Provision of a Maritime Interdiction Operations (MIOps) Training Facility",
+   "buyer": "Ministry of Defence",
+   "area": "South East",
+   "place": "Portsmouth",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-10-27T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093377-2026",
+   "title": "DCWW 2113 - Low Value Small Works",
+   "buyer": "Dwr Cymru Cyfyngedig",
+   "area": "Wales",
+   "place": "Cardiff",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-27T17:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089395-2026",
+   "title": "Pitched & Flat Roof Recovering at 26-28 Old Market Street, Bristol, BS2 0HB",
+   "buyer": "LIVEWEST HOMES LIMITED",
+   "area": "South West",
+   "place": "Exeter",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-10-27T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089956-2026",
+   "title": "Completion Works at Parkhead Crescent Newry",
+   "buyer": "Alpha Housing (NI) Ltd",
+   "area": "Northern Ireland",
+   "place": "Belfast",
+   "value": "£350,000",
+   "term": "",
+   "closes": "2026-10-27T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094776-2026",
+   "title": "3068 Bonington Gallery Vertical Lifting Platform",
+   "buyer": "Nottingham Trent University",
+   "area": "East Midlands",
+   "place": "Nottingham",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094300-2026",
+   "title": "Statutory Servicing, Reactive and Remedial Works Framework",
+   "buyer": "Gloucestershire County Council-",
+   "area": "South West",
+   "place": "Gloucester",
+   "value": "£9m",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091905-2026",
+   "title": "Roofing Repairs and Replacements (741-AHL)",
+   "buyer": "NSAH (ALLIANCE HOMES) LIMITED",
+   "area": "South West",
+   "place": "Portishead",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091385-2026",
+   "title": "BCU-ITT-64247 - SBCU Boiler Replacement -YG",
+   "buyer": "Betsi Cadwaladr University Health Board",
+   "area": "Wales",
+   "place": "Bangor",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090887-2026",
+   "title": "Cyclical Decoration; 2027 - 2034",
+   "buyer": "Gentoo Group",
+   "area": "North East",
+   "place": "Sunderland",
+   "value": "£8.5m",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "085475-2026",
+   "title": "Highway Grass Verge and Hedge Cutting, Rights of Way - Seasonal Vegetation cuts, Suds and Watercours",
+   "buyer": "Bedford Borough Council",
+   "area": "East of England",
+   "place": "Bedford",
+   "value": "£1.8m",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Grounds & landscaping"
+   ],
+   "sme": false
+  },
+  {
+   "id": "084550-2026",
+   "title": "BBC 0926 - The Refurbishment of John Warner Sports Centre, Hoddesdon, Hertfordshire",
+   "buyer": "Broxbourne Borough Council",
+   "area": "East of England",
+   "place": "Cheshunt",
+   "value": "£3.5m",
+   "term": "",
+   "closes": "2026-10-28T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "088018-2026",
+   "title": "Thanet Bus Shelter Replacement Project",
+   "buyer": "Thanet Bus Shelter Replacement Project",
+   "area": "South East",
+   "place": "Margate",
+   "value": "£1.5m",
+   "term": "",
+   "closes": "2026-10-28T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094721-2026",
+   "title": "ScM East Hall Boiler Replacement",
+   "buyer": "Science Museum Group",
+   "area": "London",
+   "place": "London",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-10-28T16:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091235-2026",
+   "title": "Framework for the Supply, Installation and Decommissioning of Bus Shelters",
+   "buyer": "Angus Council",
+   "area": "Scotland",
+   "place": "Forfar",
+   "value": "£5.9m",
+   "term": "",
+   "closes": "2026-10-28T17:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090521-2026",
+   "title": "Grounds Maintenance Contract",
+   "buyer": "Totnes Town Council",
+   "area": "South West",
+   "place": "Totnes",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-28T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094333-2026",
+   "title": "Multi Use Games Areas and Outdoor Gyms",
+   "buyer": "Westminster City Council",
+   "area": "London",
+   "place": "London",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093479-2026",
+   "title": "North Street Toilet Refurbishment",
+   "buyer": "Wellington Town Council",
+   "area": "South West",
+   "place": "Wellington",
+   "value": "£42,000",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
   },
   {
    "id": "092659-2026",
    "title": "Equine classroom redevelopment, Brooksby College",
    "buyer": "Loughborough College",
-   "area": "Leicestershire",
+   "area": "East Midlands",
    "place": "Brooksby, Melton",
    "value": "£360,000",
    "term": "Jun – Aug 2027",
@@ -174,13 +3332,363 @@
    "call": "check",
    "why": "Fits builders with education or occupied-site experience of a few hundred thousand pounds.",
    "route": "Full tender",
-   "portal": "Delta eSourcing"
+   "portal": "Delta eSourcing",
+   "county": "Leicestershire"
+  },
+  {
+   "id": "092656-2026",
+   "title": "Survey & Maintenance of Fire Dampers at The University of Huddersfield",
+   "buyer": "University of Huddersfield",
+   "area": "Yorkshire and the Humber",
+   "place": "Huddersfield",
+   "value": "£100,000",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092527-2026",
+   "title": "Resurfacing of Blatherwick's Yard car park",
+   "buyer": "Gedling Borough Council",
+   "area": "East Midlands",
+   "place": "Arnold",
+   "value": "£144,000",
+   "term": "Dec 2026 – Mar 2027",
+   "closes": "2026-10-29T12:00",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "call": "bid",
+   "why": "Reserved for small firms and charities, so big contractors can't bid against you.",
+   "route": "Quotation",
+   "portal": "In-Tend (Gedling)",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "092370-2026",
+   "title": "Supply & Installation of Windows & Doors (QLTA)",
+   "buyer": "VIVID Housing Ltd",
+   "area": "South East",
+   "place": "Portsmouth",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092039-2026",
+   "title": "St Edmunds College Mechanical and Electrical Services",
+   "buyer": "ST EDMUND'S COLLEGE CAMBRIDGE",
+   "area": "East of England",
+   "place": "Cambridge",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091952-2026",
+   "title": "St Edmunds College Water Hygiene Services",
+   "buyer": "ST EDMUND'S COLLEGE CAMBRIDGE",
+   "area": "East of England",
+   "place": "Cambridge",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091933-2026",
+   "title": "Linstone Housing Landscape Maintenance Contract 2026-2029",
+   "buyer": "Linstone Housing",
+   "area": "Scotland",
+   "place": "Linwood",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-10-29T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092797-2026",
+   "title": "Parkstone House Fire Compartmentation",
+   "buyer": "University Hospitals Dorset NHS Foundation Trust",
+   "area": "South West",
+   "place": "Poole",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-10-29T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091655-2026",
+   "title": "Hopestead Flooring - Supply and install",
+   "buyer": "Flagship Housing Limited",
+   "area": "East of England",
+   "place": "Norwich",
+   "value": "£1.1m",
+   "term": "",
+   "closes": "2026-10-29T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094155-2026",
+   "title": "ITT - Planned Preventative Maintenance and Reactive Repairs Services at Shrewsbury Flaxmill Maltings",
+   "buyer": "Historic England",
+   "area": "South West",
+   "place": "Swindon",
+   "value": "£349,000",
+   "term": "",
+   "closes": "2026-10-30T09:30",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091075-2026",
+   "title": "Scaffolding Hire and Inspections",
+   "buyer": "Falkirk Council",
+   "area": "Scotland",
+   "place": "Larbert",
+   "value": "£4.2m",
+   "term": "",
+   "closes": "2026-10-30T11:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094775-2026",
+   "title": "Refurbishment of The Cedars, North Walsham and Reconstruction of the associated Boundary Wall",
+   "buyer": "North Norfolk District Council",
+   "area": "East of England",
+   "place": "Cromer",
+   "value": "£150,000",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093903-2026",
+   "title": "Demolition of former Beales store (Mansfield Connect)",
+   "buyer": "Mansfield District Council",
+   "area": "East Midlands",
+   "place": "Mansfield",
+   "value": "£900,000",
+   "term": "Jan – Jun 2027",
+   "closes": "2026-10-30T12:00",
+   "trades": [
+    "Demolition"
+   ],
+   "call": "skip",
+   "why": "Licensed demolition contractors only. Watch for the new-build contract that follows.",
+   "route": "Full tender",
+   "portal": "Source East Midlands",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "093533-2026",
+   "title": "Hendre Ladus, Ystradgynlais, Powys, SA9 1SE, Design, Supply and Installation of ASHP Heating System",
+   "buyer": "Powys County Council",
+   "area": "Wales",
+   "place": "Llandrindod Wells",
+   "value": "£220,000",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Electrical & renewables"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093081-2026",
+   "title": "LPC1: Peatland Restoration and Grazing Infrastructure",
+   "buyer": "Neath Port Talbot County Borough Council",
+   "area": "Wales",
+   "place": "Port Talbot",
+   "value": "£174,000",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092558-2026",
+   "title": "Inspection, Maintenance & Repair of Education PE (PESSPA), Outdoor Play & Fitness-Suite Equipment",
+   "buyer": "North Lanarkshire Council",
+   "area": "Scotland",
+   "place": "Motherwell",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092375-2026",
+   "title": "Raparee Cliff Protection Works Phase 1",
+   "buyer": "North Devon District Council",
+   "area": "South West",
+   "place": "Barnstaple",
+   "value": "£174,000",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092119-2026",
+   "title": "TEC Partnership - Ventilation, Air Handling Unit (AHU) and LEV Refurbishment works",
+   "buyer": "TEC Partnership",
+   "area": "Yorkshire and the Humber",
+   "place": "Grimsby",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092108-2026",
+   "title": "TEC Partnership - Boiler & Hot Water Generation Replacement Scheme Bridlington",
+   "buyer": "TEC Partnership",
+   "area": "Yorkshire and the Humber",
+   "place": "Grimsby",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092085-2026",
+   "title": "DN Colleges Group - North Lindsey College - ITT for Global House Reclad and Refurbishment Project",
+   "buyer": "DN Colleges Group",
+   "area": "Yorkshire and the Humber",
+   "place": "Doncaster",
+   "value": "£3.5m",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Demolition"
+   ],
+   "sme": true
   },
   {
    "id": "091861-2026",
    "title": "Servicing and repairs of renewable installations in council homes",
    "buyer": "Hinckley & Bosworth Borough Council",
-   "area": "Leicestershire",
+   "area": "East Midlands",
    "place": "Hinckley & Bosworth",
    "value": "£264,000",
    "term": "Jan 2027 – Mar 2030",
@@ -192,30 +3700,32 @@
    "call": "check",
    "why": "Heat pumps, MVHR, air conditioning and solar PV. Fits MCS or F-Gas firms with social housing experience.",
    "route": "Full tender",
-   "portal": "EastMidsTenders"
+   "portal": "EastMidsTenders",
+   "county": "Leicestershire"
   },
   {
-   "id": "093903-2026",
-   "title": "Demolition of former Beales store (Mansfield Connect)",
-   "buyer": "Mansfield District Council",
-   "area": "Nottinghamshire",
-   "place": "Mansfield",
-   "value": "£900,000",
-   "term": "Jan – Jun 2027",
+   "id": "090207-2026",
+   "title": "NSDC-1722 Property Safety and Compliance Check Service and Maintenance Contract for Newark and Sherw",
+   "buyer": "Newark And Sherwood District Council",
+   "area": "East Midlands",
+   "place": "Newark",
+   "value": "£7.4m",
+   "term": "",
    "closes": "2026-10-30T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
    "trades": [
-    "Demolition"
+    "Maintenance & repairs"
    ],
-   "call": "skip",
-   "why": "Licensed demolition contractors only. Watch for the new-build contract that follows.",
-   "route": "Full tender",
-   "portal": "Source East Midlands"
+   "sme": true
   },
   {
    "id": "088505-2026",
    "title": "Grounds maintenance operated plant framework",
    "buyer": "Nottingham City Council",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Nottingham",
    "value": "£480,000",
    "term": "Dec 2026 – Dec 2030",
@@ -227,13 +3737,123 @@
    "call": "check",
    "why": "For land contractors with their own tractors and flail kit. A framework, so work isn't guaranteed.",
    "route": "Framework",
-   "portal": "EastMidsTenders"
+   "portal": "EastMidsTenders",
+   "county": "Nottinghamshire"
+  },
+  {
+   "id": "087917-2026",
+   "title": "NSDC-1705 Property Safety and Compliance Check Service and Maintenance Contract for Newark and Sherw",
+   "buyer": "Newark And Sherwood District Council",
+   "area": "East Midlands",
+   "place": "Newark",
+   "value": "£7.4m",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "086671-2026",
+   "title": "FHQ Archive Upgrade, Extension & Relocation of Waste Storage",
+   "buyer": "The Police & Crime Commissioner of North Wales",
+   "area": "Wales",
+   "place": "Colwyn Bay",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-10-30T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093972-2026",
+   "title": "SA242 Penallta Road Bridge Strengthening",
+   "buyer": "Caerphilly County Borough Council",
+   "area": "Wales",
+   "place": "Hengoed",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-10-30T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093452-2026",
+   "title": "Changing Places Facilities",
+   "buyer": "Castle Point Borough Council",
+   "area": "East of England",
+   "place": "Benfleet",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-30T15:30",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092203-2026",
+   "title": "Ridgewood Village Hall Car Park",
+   "buyer": "Uckfield Town Council",
+   "area": "South East",
+   "place": "Uckfield",
+   "value": "£60,000",
+   "term": "",
+   "closes": "2026-10-30T23:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "084953-2026",
+   "title": "Request for Quotation: Street Skate Park Tarmac Path Replacement",
+   "buyer": "Street Parish Council",
+   "area": "South West",
+   "place": "Street",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-30T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
   },
   {
    "id": "089081-2026",
    "title": "Grounds maintenance contract",
    "buyer": "Stanwick Parish Council",
-   "area": "Northamptonshire",
+   "area": "East Midlands",
    "place": "Stanwick",
    "value": "£120,000",
    "term": "Mar 2027 – Feb 2030, +1 yr",
@@ -244,13 +3864,692 @@
    "call": "bid",
    "why": "Three years of regular work, submitted by email with no portal to register on.",
    "route": "Quotation",
-   "portal": "Email to the parish clerk"
+   "portal": "Email to the parish clerk",
+   "county": "Northamptonshire"
+  },
+  {
+   "id": "094711-2026",
+   "title": "ONGO Homes - Grounds Maintenance Services (Grass Cutting and Associated Grounds Maintenance Works)",
+   "buyer": "Ongo Homes",
+   "area": "Yorkshire and the Humber",
+   "place": "Scunthorpe",
+   "value": "£2.2m",
+   "term": "",
+   "closes": "2026-11-01T07:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090444-2026",
+   "title": "The design, repair and reinstatement of Pennylands Footbridge, Winchcombe",
+   "buyer": "Tewkesbury Borough Council",
+   "area": "South West",
+   "place": "Tewkesbury",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-11-02T09:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094784-2026",
+   "title": "Apollo Mission Simulator Fit Out Main Contractor",
+   "buyer": "Science Museum Group",
+   "area": "London",
+   "place": "London",
+   "value": "£700,000",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094435-2026",
+   "title": "Design and installation of Public Toilet Block at Rendlesham",
+   "buyer": "Forestry Commission",
+   "area": "East of England",
+   "place": "Bristol",
+   "value": "£130,000",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093917-2026",
+   "title": "Sheen Lane Centre & Teddington Pool PSDS Refurbishments",
+   "buyer": "London Borough of Richmond upon Thames",
+   "area": "London",
+   "place": "Richmond",
+   "value": "£5.6m",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093842-2026",
+   "title": "Domestic Build Works (Disability Adaptations)",
+   "buyer": "Cheshire East Council",
+   "area": "North West",
+   "place": "Crewe",
+   "value": "£4m",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093372-2026",
+   "title": "Bolton Urban Cricket Centre",
+   "buyer": "Bolton Metropolitan Borough Council",
+   "area": "North West",
+   "place": "Bolton",
+   "value": "£1.5m",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093332-2026",
+   "title": "Stotfold Cemetery - Toilet and Storage",
+   "buyer": "Stotfold Town Council",
+   "area": "East of England",
+   "place": "Stotfold",
+   "value": "£168,000",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093052-2026",
+   "title": "Canvey Lake Dredging",
+   "buyer": "Castle Point Borough Council",
+   "area": "East of England",
+   "place": "Benfleet",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087724-2026",
+   "title": "Refurbishment of Leigh Market Hall",
+   "buyer": "Wigan Council",
+   "area": "North West",
+   "place": "Wigan",
+   "value": "£4m",
+   "term": "",
+   "closes": "2026-11-02T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094011-2026",
+   "title": "Provision of School-Based Nursery Works, Berry Hill Preschool, Broadlea Primary School, Isle of Wigh",
+   "buyer": "Isle of Wight Council",
+   "area": "South East",
+   "place": "Newport",
+   "value": "£148,000",
+   "term": "",
+   "closes": "2026-11-02T14:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092154-2026",
+   "title": "Leadenhall Market - External Cyclical Works - Phase 2",
+   "buyer": "The Mayor and Commonalty and Citizens of the City of Lo",
+   "area": "London",
+   "place": "City of London",
+   "value": "£750,000",
+   "term": "",
+   "closes": "2026-11-02T14:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093395-2026",
+   "title": "Grounds Maintenance at WMFRA Sites 2026 - 2030",
+   "buyer": "West Midlands Fire and Rescue Authority",
+   "area": "West Midlands",
+   "place": "Birmingham",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-02T18:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094716-2026",
+   "title": "Contract for the Execution of Ynystawe Skatepark, Swansea",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£315,000",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094648-2026",
+   "title": "NAB - Gas & Heating System Installs",
+   "buyer": "NUNEATON AND BEDWORTH COMMUNITY ENTERPRISES LIMITED",
+   "area": "West Midlands",
+   "place": "Nuneaton",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094427-2026",
+   "title": "Canton Depot Flooring Works",
+   "buyer": "Transport for Wales Rail Limited (Utility Buyer)",
+   "area": "Wales",
+   "place": "Pontypridd",
+   "value": "£333,000",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093434-2026",
+   "title": "QEHKL240 Fire Compartmentation Works",
+   "buyer": "The Queen Elizabeth Hospital King's Lynn NHS Foundation",
+   "area": "East of England",
+   "place": "Kings Lynn",
+   "value": "£60,000",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092433-2026",
+   "title": "Fire Risk Assessment Works Closed Framework 2026 – 2029 (Housing and Non-Housing)",
+   "buyer": "Leeds City Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Leeds",
+   "value": "£1.4m",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090641-2026",
+   "title": "ITT for Works to Install Dignity Rooms at Five Fire Stations",
+   "buyer": "West Midlands Fire and Rescue Authority",
+   "area": "West Midlands",
+   "place": "Birmingham",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090249-2026",
+   "title": "Cowleaze Block Roof Replacement",
+   "buyer": "GREENSQUAREACCORD LIMITED",
+   "area": "South East",
+   "place": "Birmingham",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094317-2026",
+   "title": "Grass Cutting Contract",
+   "buyer": "Kemble & Ewen Parish Council",
+   "area": "South West",
+   "place": "Kemble",
+   "value": "£30,000",
+   "term": "",
+   "closes": "2026-11-03T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094746-2026",
+   "title": "Carriageway Micro Asphalt and Pre-Patching 2027",
+   "buyer": "Wigan Council",
+   "area": "North West",
+   "place": "Wigan",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094657-2026",
+   "title": "Footway Slurry Seal 2027",
+   "buyer": "Wigan Council",
+   "area": "North West",
+   "place": "Wigan",
+   "value": "£1m",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094516-2026",
+   "title": "NCC1867 Framework for the Hire of Operated Plant",
+   "buyer": "Northumberland County Council",
+   "area": "North East",
+   "place": "Morpeth",
+   "value": "£12m",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094161-2026",
+   "title": "Framework Agreement for the Supply, Installation, Repairs and Maintenance of Tarmacadam and other Su",
+   "buyer": "Staffordshire County Council",
+   "area": "West Midlands",
+   "place": "Stafford",
+   "value": "£7m",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093645-2026",
+   "title": "Lift Maintenance Richmond and Wandsworth Councils (Housing and Operational Buildings)",
+   "buyer": "London Borough of Richmond upon Thames",
+   "area": "London",
+   "place": "Richmond",
+   "value": "£18.9m",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093466-2026",
+   "title": "DC1 Solar Wall Principal Contractor",
+   "buyer": "Natural History Museum",
+   "area": "London",
+   "place": "London",
+   "value": "£950,000",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "090818-2026",
+   "title": "Abertay Housing Association - Landscape Maintenance 2027 - 2030",
+   "buyer": "Abertay Housing Association",
+   "area": "Scotland",
+   "place": "Dundee",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090847-2026",
+   "title": "Refurbishment of Ground Floor Toilets & Cloakroom at Cornerstone Arts Centre, Didcot",
+   "buyer": "South Oxfordshire District Council",
+   "area": "South East",
+   "place": "Abingdon",
+   "value": "£74,000",
+   "term": "",
+   "closes": "2026-11-04T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "087723-2026",
+   "title": "Grass Cutting Contract",
+   "buyer": "Dalston Parish Council",
+   "area": "North West",
+   "place": "Dalston, Carlisle",
+   "value": "£30,000",
+   "term": "",
+   "closes": "2026-11-05T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094689-2026",
+   "title": "The Core Refurbishment",
+   "buyer": "Newcastle City Council",
+   "area": "North East",
+   "place": "Newcastle Upon Tyne",
+   "value": "£7m",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Electrical & renewables"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094380-2026",
+   "title": "Framework for Electrical Installation and Maintenance, Including PAT and Fixed Wire Testing",
+   "buyer": "Mid and West Wales Fire and Rescue Authority",
+   "area": "Wales",
+   "place": "Carmarthen",
+   "value": "£600,000",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094316-2026",
+   "title": "MW2515 Harrowden Court Fire Works Phase 1",
+   "buyer": "Hastoe Housing Association",
+   "area": "East of England",
+   "place": "Dorchester",
+   "value": "£50,000",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094045-2026",
+   "title": "Servicing & Response Maintenance of Boilers & Miscellaneous Gas Equipment",
+   "buyer": "Borough of Telford & Wrekin",
+   "area": "West Midlands",
+   "place": "Telford, Shropshire",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093909-2026",
+   "title": "Responsive Repairs & Maintenance and Void Property Works for Graphite Living",
+   "buyer": "Karbon Homes",
+   "area": "North East",
+   "place": "Newcastle upon Tyne",
+   "value": "£5m",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093039-2026",
+   "title": "Contractors Services",
+   "buyer": "Karbon Homes",
+   "area": "Yorkshire and the Humber",
+   "place": "Newcastle upon Tyne",
+   "value": "£14.1m",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "089825-2026",
+   "title": "HAR6096 Bradwell Street Garages Development - New Housing Development Scheme",
+   "buyer": "Tower Hamlets",
+   "area": "London",
+   "place": "London",
+   "value": "£4.2m",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
   },
   {
    "id": "089143-2026",
    "title": "Installing and maintaining the Matlock Bath Illuminations",
    "buyer": "Derbyshire Dales District Council",
-   "area": "Derbyshire",
+   "area": "East Midlands",
    "place": "Matlock Bath",
    "value": "£244,000",
    "term": "2027–2029 seasons, +2",
@@ -261,14 +4560,745 @@
    "call": "bid",
    "why": "Three seasons of repeat work for a local electrical contractor.",
    "route": "Full tender",
-   "portal": "ProContract"
+   "portal": "ProContract",
+   "county": "Derbyshire"
+  },
+  {
+   "id": "086602-2026",
+   "title": "Columbine Community Centre - Roof Renewal Works, Walton On The Naze",
+   "buyer": "Frinton & Walton Town Council",
+   "area": "East of England",
+   "place": "Frinton On Sea",
+   "value": "£200,000",
+   "term": "",
+   "closes": "2026-11-06T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094051-2026",
+   "title": "MW2520 - Bathroom Replacement Programme (East)",
+   "buyer": "Hastoe HA",
+   "area": "East of England",
+   "place": "Kingston upon Thames",
+   "value": "£650,000",
+   "term": "",
+   "closes": "2026-11-06T15:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094047-2026",
+   "title": "MW2519 - Kitchen Replacement Programme (East)",
+   "buyer": "Hastoe HA",
+   "area": "East of England",
+   "place": "Kingston upon Thames",
+   "value": "£805,000",
+   "term": "",
+   "closes": "2026-11-06T15:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092666-2026",
+   "title": "Bus Shelters, RTPI and Associated Services Y26014",
+   "buyer": "Kent County Council (t/a Procurement Services)",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-06T17:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093285-2026",
+   "title": "Jigsaw Homes Group - Window and door replacement program 2027-2030",
+   "buyer": "Jigsaw Homes Group",
+   "area": "North West",
+   "place": "Ashton-under-Lyne",
+   "value": "£10.8m",
+   "term": "",
+   "closes": "2026-11-06T19:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092671-2026",
+   "title": "Maidstone Road Car Park Resurfacing",
+   "buyer": "Lenham Parish Council",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-06T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092669-2026",
+   "title": "Lenham Cemetery Road Surfacing Project",
+   "buyer": "Lenham Parish Council",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-06T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093937-2026",
+   "title": "Kirklees College - Minor Works",
+   "buyer": "Kirklees College",
+   "area": "Yorkshire and the Humber",
+   "place": "Huddersfield",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-11-09T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093770-2026",
+   "title": "Communal Entrance Doors Qualifying Long-Term Agreement",
+   "buyer": "VIVID Housing Ltd",
+   "area": "South East",
+   "place": "Portsmouth",
+   "value": "£5m",
+   "term": "",
+   "closes": "2026-11-09T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093935-2026",
+   "title": "Resurfacing of Church Car Park - Church Street, Audley",
+   "buyer": "Audley Rural Parish Council",
+   "area": "West Midlands",
+   "place": "Audley",
+   "value": "£90,000",
+   "term": "",
+   "closes": "2026-11-09T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094857-2026",
+   "title": "Boiler & Mechanical Specialist Remedials, Minor Works and New Installations",
+   "buyer": "KENT COMMUNITY HEALTH NHS FOUNDATION TRUST",
+   "area": "South East",
+   "place": "Ashford",
+   "value": "£250,000",
+   "term": "",
+   "closes": "2026-11-10T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094864-2026",
+   "title": "Kingsway Tunnel - Asbestos Insulating Board (AIB) 'Dado' Panels Removal",
+   "buyer": "Merseytravel",
+   "area": "North West",
+   "place": "Liverpool",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-11T11:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Demolition"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094695-2026",
+   "title": "PRO0663 - Grounds Maintenance Services Yorkshire",
+   "buyer": "Your Housing Group",
+   "area": "Yorkshire and the Humber",
+   "place": "Warrington",
+   "value": "£667,000",
+   "term": "",
+   "closes": "2026-11-11T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092535-2026",
+   "title": "Grounds Maintenance Services",
+   "buyer": "North West Ambulance Service NHS Trust",
+   "area": "North West",
+   "place": "Bolton",
+   "value": "£500,000",
+   "term": "",
+   "closes": "2026-11-11T15:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093084-2026",
+   "title": "Contract for the Execution of WWP works at Waunarlwydd Phase 2",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£2.9m",
+   "term": "",
+   "closes": "2026-11-12T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094602-2026",
+   "title": "ITT for Flitcham Chimney Removal and Associated Electrical Works",
+   "buyer": "Diocese of Norwich Education and Academies Trust",
+   "area": "East of England",
+   "place": "Norwich",
+   "value": "£25,000",
+   "term": "",
+   "closes": "2026-11-12T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093232-2026",
+   "title": "Provision of General Maintenance Services for The Sheffield College",
+   "buyer": "The Sheffield College",
+   "area": "Yorkshire and the Humber",
+   "place": "Sheffield",
+   "value": "£250,000",
+   "term": "",
+   "closes": "2026-11-13T11:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094669-2026",
+   "title": "Care and Support Investment Programme(CSIP) Refurbishment Works at 2 Arlington Road",
+   "buyer": "The Riverside Group Limited",
+   "area": "London",
+   "place": "Speke, Liverpool",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-13T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094012-2026",
+   "title": "MRI – PET Scanner Chiller Replacement",
+   "buyer": "Manchester University NHS Foundation Trust",
+   "area": "North West",
+   "place": "Trafford",
+   "value": "£20,000",
+   "term": "",
+   "closes": "2026-11-13T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093236-2026",
+   "title": "ISO11 Fumigation Lobby and Dedicated Air Handling Unit (AHU) - Retender",
+   "buyer": "THE PIRBRIGHT INSTITUTE",
+   "area": "South East",
+   "place": "Woking",
+   "value": "£152,000",
+   "term": "",
+   "closes": "2026-11-13T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "093210-2026",
+   "title": "Capital Playground Scheme - Herne Bay",
+   "buyer": "Canterbury City Council",
+   "area": "South East",
+   "place": "Canterbury",
+   "value": "£225,000",
+   "term": "",
+   "closes": "2026-11-13T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094756-2026",
+   "title": "Interim Capital Programme",
+   "buyer": "Sandwell Metropolitan Borough Council",
+   "area": "West Midlands",
+   "place": "Oldbury",
+   "value": "£16m",
+   "term": "",
+   "closes": "2026-11-13T15:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092532-2026",
+   "title": "Passive Fire Protection Remedial Repairs at Abbey House, Abingdon",
+   "buyer": "Vale of White Horse District Council",
+   "area": "South East",
+   "place": "Abingdon",
+   "value": "£220,000",
+   "term": "",
+   "closes": "2026-11-13T17:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094348-2026",
+   "title": "Supply and instal doors to Hexton Barn, SG5 3HX",
+   "buyer": "Natural England",
+   "area": "East of England",
+   "place": "London",
+   "value": "£18,000",
+   "term": "",
+   "closes": "2026-11-13T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092850-2026",
+   "title": "HBC 0926 Aberford Skatepark",
+   "buyer": "Hertsmere Borough Council",
+   "area": "East of England",
+   "place": "Borehamwood",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-11-16T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092466-2026",
+   "title": "Home Group Responsive, Voids and DAPA Works – Dumfries and Galloway Scotland",
+   "buyer": "Home Group Scotland",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£2m",
+   "term": "",
+   "closes": "2026-11-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false
+  },
+  {
+   "id": "094251-2026",
+   "title": "Contract for the Execution of Fire Safety Works",
+   "buyer": "City & County of Swansea",
+   "area": "Wales",
+   "place": "Swansea",
+   "value": "£1.4m",
+   "term": "",
+   "closes": "2026-11-17T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "091912-2026",
+   "title": "Repairs & Maintenance Framework",
+   "buyer": "Burnley Borough Council",
+   "area": "North West",
+   "place": "Burnley",
+   "value": "£3.8m",
+   "term": "",
+   "closes": "2026-11-17T17:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Roofing & cladding"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094763-2026",
+   "title": "0661 Boars Head Footbridge Superstructure Renewal Works Contract 2026",
+   "buyer": "Wigan Council",
+   "area": "North West",
+   "place": "Wigan",
+   "value": "£975,000",
+   "term": "",
+   "closes": "2026-11-20T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091636-2026",
+   "title": "Construction of a concrete wheeled sports facility at The Carrs Park, Wilmslow, SK9 4AA",
+   "buyer": "Cheshire East Council",
+   "area": "North West",
+   "place": "Crewe",
+   "value": "£180,000",
+   "term": "",
+   "closes": "2026-11-20T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094313-2026",
+   "title": "Design Supply and install Junior Play Area - Kynaston Rd",
+   "buyer": "Shrewsbury Town Council",
+   "area": "West Midlands",
+   "place": "Shrewsbury",
+   "value": "£85,000",
+   "term": "",
+   "closes": "2026-11-20T13:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Surfacing & groundworks"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093338-2026",
+   "title": "HAR6126 Rushmead Construction",
+   "buyer": "Tower Hamlets",
+   "area": "London",
+   "place": "London",
+   "value": "£6.7m",
+   "term": "",
+   "closes": "2026-11-27T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094470-2026",
+   "title": "CPU 7328 Development for Social Housing of former United Reform Church, Clifton",
+   "buyer": "Nottingham City Council",
+   "area": "East Midlands",
+   "place": "Nottingham",
+   "value": "£4.6m",
+   "term": "",
+   "closes": "2026-12-02T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "094464-2026",
+   "title": "Stone Walling at Milton Road Cemetery in Weston-super-Mare",
+   "buyer": "Weston-super-Mare Town Council",
+   "area": "South West",
+   "place": "Weston-super-Mare",
+   "value": "£75,000",
+   "term": "",
+   "closes": "2026-12-18T12:00",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "093581-2026",
+   "title": "Play Ground Refurbishment x 2",
+   "buyer": "Ingoldmells Parish Council",
+   "area": "East of England",
+   "place": "Ingoldmells",
+   "value": "£120,000",
+   "term": "",
+   "closes": "2026-12-31T23:59",
+   "call": "bid",
+   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": true
+  },
+  {
+   "id": "092424-2026",
+   "title": "Design and construct a pump BMX Track and new community sports equipment",
+   "buyer": "Drayton Bassett Parish Council",
+   "area": "West Midlands",
+   "place": "Hopwas",
+   "value": "£84,000",
+   "term": "",
+   "closes": "2027-01-18T23:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "084788-2026",
+   "title": "UK DTE Projects (various upcoming)",
+   "buyer": "Ministry of Defence",
+   "area": "UK-wide",
+   "place": "Various",
+   "value": "",
+   "term": "",
+   "closes": "2027-03-08T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false
+  },
+  {
+   "id": "091292-2026",
+   "title": "L26041-T-MS - Civils Flexible Framework",
+   "buyer": "London Luton Airport Operations Limited",
+   "area": "East of England",
+   "place": "Luton",
+   "value": "",
+   "term": "",
+   "closes": "2031-09-27T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false
+  },
+  {
+   "id": "090084-2026",
+   "title": "Mains replacement & Associated works",
+   "buyer": "CADENT GAS LIMITED",
+   "area": "West Midlands",
+   "place": "Coventry",
+   "value": "",
+   "term": "",
+   "closes": "2032-08-31T23:59",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Heating & plumbing"
+   ],
+   "sme": false
+  },
+  {
+   "id": "092425-2026",
+   "title": "PRO005124 – Works – Dynamic Market – Building, Operations, Labour & Trade Services",
+   "buyer": "United Utilities Water Limited",
+   "area": "North West",
+   "place": "Warrington",
+   "value": "",
+   "term": "",
+   "closes": "2034-12-13T23:59",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Roofing & cladding"
+   ],
+   "sme": true
   }
  ],
  "projects": [
   {
    "ref": "24/01329/PFUL3",
    "title": "Former Central Library converted to student halls and 2 shops",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Nottingham city centre",
    "trades": [
     "Building & refurbishment",
@@ -277,12 +5307,13 @@
    ],
    "approved": "2026-09-16",
    "contact": "WA Architecture, West Bridgford",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=SHSH87LYIKY00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=SHSH87LYIKY00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/00394/PFUL3",
    "title": "Extension to the Boots D105 building",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Boots Campus, Thane Road",
    "trades": [
     "Building & refurbishment",
@@ -291,24 +5322,26 @@
    ],
    "approved": "2026-09-30",
    "contact": "Planning and Design Group (UK) Ltd, Sherwood Park",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TBQQ3YLYGKV00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TBQQ3YLYGKV00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01266/PFUL3",
    "title": "Cladding replacement on penthouse apartments",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Nottingham city centre",
    "trades": [
     "Roofing & cladding"
    ],
    "approved": "2026-09-30",
    "contact": "Maber Associates, Lace Market",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIJ0CWLYL4S00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIJ0CWLYL4S00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01065/PFUL3",
    "title": "Church: 8 heat pumps, 51 solar panels and new windows",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Clifton",
    "trades": [
     "Heating & plumbing",
@@ -317,24 +5350,26 @@
    ],
    "approved": "2026-10-05",
    "contact": "Mark Goodwill-Hodgson Ltd, West Bridgford",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TH1AWRLYGIP00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TH1AWRLYGIP00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01119/PFUL3",
    "title": "External wall insulation on several terraced homes",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Lenton & Radford",
    "trades": [
     "Building & refurbishment"
    ],
    "approved": "2026-10-05",
    "contact": "Insight Surveyors Ltd, Coventry",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=THFZQVLYHU300&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=THFZQVLYHU300&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01252/PFUL3",
    "title": "Battery energy storage system at a school",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Firbeck Road, NG8",
    "trades": [
     "Electrical & renewables",
@@ -342,12 +5377,13 @@
    ],
    "approved": "2026-10-05",
    "contact": "Luke Strange Architecture Ltd",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIGJFELYKQ700&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TIGJFELYKQ700&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01221/PFUL3",
    "title": "Car dealership refurbishment and car park layout",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Mansfield Road, NG5",
    "trades": [
     "Building & refurbishment",
@@ -356,12 +5392,13 @@
    ],
    "approved": "2026-09-22",
    "contact": "Scaramanga Design Ltd",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TI7TJCLYK9G00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TI7TJCLYK9G00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01001/PFUL3",
    "title": "Care home conversion: 5 extra bedrooms",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Waverley Street, NG7",
    "trades": [
     "Building & refurbishment",
@@ -369,12 +5406,13 @@
    ],
    "approved": "2026-09-16",
    "contact": "Swish Architecture Ltd, West Bridgford",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TGI5ZMLYMPG00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TGI5ZMLYMPG00&activeTab=summary",
+   "county": "Nottinghamshire"
   },
   {
    "ref": "26/01352/PFUL3",
    "title": "Temporary X-ray unit at City Hospital",
-   "area": "Nottinghamshire",
+   "area": "East Midlands",
    "place": "Hucknall Road, NG5",
    "trades": [
     "Surfacing & groundworks",
@@ -382,7 +5420,8 @@
    ],
    "approved": "2026-10-05",
    "contact": "Gaskell Building Surveyor, Nottingham",
-   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TJ0WV2LYMOS00&activeTab=summary"
+   "url": "https://publicaccess.nottinghamcity.gov.uk/online-applications/applicationDetails.do?keyVal=TJ0WV2LYMOS00&activeTab=summary",
+   "county": "Nottinghamshire"
   }
  ]
 }
