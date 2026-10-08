@@ -12,9 +12,9 @@ OUT = os.path.join(ROOT, 'downloads', 'contract-ladder-bid-profile.pdf')
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 pdfmetrics.registerFont(TTFont('Sans', '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'))
 pdfmetrics.registerFont(TTFont('SansB', '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'))
-pdfmetrics.registerFont(TTFont('Cond', '/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Bold.ttf'))
+pdfmetrics.registerFont(TTFont('Cond', os.path.join(ROOT, 'tools', 'fonts', 'BarlowCondensed-ExtraBold.ttf')))
 
-INK, MUTED, LINE, ACCENT, DEEP, FILL = HexColor('#151a18'), HexColor('#5b655f'), HexColor('#c9cfc8'), HexColor('#e8a600'), HexColor('#1c2421'), HexColor('#f4f6f2')
+INK, MUTED, LINE, ACCENT, DEEP, FILL = HexColor('#151a18'), HexColor('#5b655f'), HexColor('#c9ccc5'), HexColor('#e8a600'), HexColor('#151a18'), HexColor('#f4f6f2')
 W, H = A4
 M = 42
 CW = W - 2 * M
@@ -33,15 +33,18 @@ class Form:
         if self.page: self.footer(); self.c.showPage()
         self.page += 1
         c = self.c
-        c.setFillColor(DEEP); c.rect(0, H - 40, W, 40, stroke=0, fill=1)
-        # ladder mark
-        x0, y0 = M, H - 32
-        c.setFillColor(white); c.rect(x0, y0, 3, 24, stroke=0, fill=1); c.rect(x0 + 13, y0, 3, 24, stroke=0, fill=1)
-        c.setFillColor(ACCENT); c.rect(x0, y0 + 18, 16, 3, stroke=0, fill=1)
-        c.setFillColor(white); c.rect(x0, y0 + 10, 16, 3, stroke=0, fill=1); c.rect(x0, y0 + 2, 16, 3, stroke=0, fill=1)
-        c.setFont('Cond', 13); c.drawString(M + 26, H - 25, 'CONTRACT LADDER')
-        c.setFont('Sans', 8.5); c.setFillColor(HexColor('#b9c2bc')); c.drawRightString(W - M, H - 25, 'Your bid profile')
-        self.y = H - 66
+        c.setFillColor(DEEP); c.rect(0, H - 44, W, 44, stroke=0, fill=1)
+        # logo: amber tile, three dark bars stepping up to the right (48-unit grid), name stacked beside it
+        t = 28; u = t / 48.0; x0, y0 = M, H - 34
+        c.setFillColor(ACCENT); c.roundRect(x0, y0, t, t, 3 * u, stroke=0, fill=1)
+        c.setFillColor(INK)
+        for bx, by in ((8, 31), (14, 20.5), (20, 10)):
+            c.rect(x0 + bx * u, y0 + (48 - by - 7) * u, 21 * u, 7 * u, stroke=0, fill=1)
+        fs = t * 0.56; tx = x0 + t + t * 0.2
+        c.setFillColor(white); c.setFont('Cond', fs)
+        c.drawString(tx, y0 + t - fs * 0.78, 'CONTRACT'); c.drawString(tx, y0 + t - fs * 0.78 - fs * 0.86, 'LADDER')
+        c.setFont('Sans', 8.5); c.setFillColor(HexColor('#b9c2bc')); c.drawRightString(W - M, H - 26, 'Your bid profile')
+        self.y = H - 70
 
     def footer(self):
         c = self.c
