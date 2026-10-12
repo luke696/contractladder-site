@@ -13,7 +13,7 @@ summary.json keys (all strings unless noted; only use facts from the notice or t
   want            [paragraph, ...]   what the buyer wants
   score           [paragraph, ...]   how they'll score it
   missing         [bullet, ...]      what the firm might be missing (3-5)
-  offer           "Fixed £595 + VAT for this quotation. Turned round in 3 working days. You check it and press submit."
+  offer           "Fixed £395 + VAT for this quotation. Turned round in 3 working days. You check it and press submit."
   source          "Find a Tender notice 2026/S 000-092527, published 30 Sep 2026."
 """
 import os, sys, json
