@@ -32,6 +32,8 @@ while url and pages<400:
                status=tn.get('status'),date=rel.get('date'))
         k=rel.get('ocid')
         if k not in slim or (x['date'] or '')>(slim[k]['date'] or ''): slim[k]=x
+    ds=[r.get('date') or '' for r in pk.get('releases',[])]
+    print('page', pages, len(ds), 'releases', min(ds) if ds else '', max(ds) if ds else '', file=sys.stderr)
     url=(pk.get('links') or {}).get('next')
     time.sleep(0.3)
 slim={k:x for k,x in slim.items() if (x.get('status') or '') not in ('cancelled','unsuccessful','complete','withdrawn')}
