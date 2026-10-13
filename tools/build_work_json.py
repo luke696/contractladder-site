@@ -118,6 +118,7 @@ def main(raw_path):
         nid = notice_id(x)
         try: end = datetime.fromisoformat(x['end'].replace('Z', '+00:00'))
         except Exception: continue
+        if end.tzinfo is None: end = end.replace(tzinfo=timezone.utc)
         if end <= now: continue
         v = x.get('v') or 0
         if v and v > 25_000_000: continue
