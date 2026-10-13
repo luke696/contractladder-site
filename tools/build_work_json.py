@@ -138,7 +138,8 @@ def main(raw_path):
         if nid not in out:
             try:
                 if datetime.fromisoformat(t['closes']).replace(tzinfo=timezone.utc) > now:
-                    t = dict(t); t['county'] = t.get('area', ''); t['area'] = 'East Midlands'
+                    t = dict(t)
+                    if t.get('area') not in REGIONS + ['UK-wide']: t['county'] = t.get('area', ''); t['area'] = 'East Midlands'
                     t['url'] = 'https://www.find-tender.service.gov.uk/Notice/' + nid; out[nid] = t
             except Exception: pass
     tenders = sorted(out.values(), key=lambda t: t['closes'])

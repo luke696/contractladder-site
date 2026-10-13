@@ -1,0 +1,39 @@
+# Refreshes data/work.json (the open-tenders board) from Find a Tender every weekday morning,
+# before the daily outreach run. Only data/work.json changes; nothing else on the site is touched.
+name: Refresh work board
+
+on:
+  schedule:
+    - cron: '15 5 * * 1-5'   # 05:15 UTC, Mon-Fri
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-work-board
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pull open tenders from Find a Tender
+        run: python3 tools/pull_fts.py "$RUNNER_TEMP/raw_tenders.json"
+      - name: Rebuild data/work.json
+        run: |
+          python3 tools/build_work_json.py "$RUNNER_TEMP/raw_tenders.json"
+          python3 -c "import json; d=json.load(open('data/work.json')); assert len(d['tenders']) >= 50, len(d['tenders'])"
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/work.json; then echo "No change"; exit 0; fi
+          git config user.name "contractladder-bot"
+          git config user.email "luke@contractladder.co.uk"
+          git add data/work.json
+          git commit -m "Work board: refresh open tenders from Find a Tender ($(date -u +%Y-%m-%d))"
+          git push
