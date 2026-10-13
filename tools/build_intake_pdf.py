@@ -179,7 +179,7 @@ f.checks('acc', ['CHAS', 'SafeContractor', 'Constructionline Silver', 'Construct
                  'LOLER / SAFed (lifts)', 'NFDC (demolition)', 'Licensed asbestos', 'Considerate Constructors'])
 f.box('acc_other', 'Anything else, and expiry dates', h=36)
 
-f.section('5', 'Policies and safety record', 'Tick what you already have. Missing ones can be written for you as part of a Bid Library.')
+f.section('5', 'Policies and safety record', 'Tick what you already have. Missing ones can be written for you as part of your bid.')
 f.checks('pol', ['Health and safety policy', 'RAMS', 'Quality policy', 'Environmental policy', 'Equality and diversity',
                  'Modern slavery statement', 'Data protection (GDPR)', 'Safeguarding', 'Business continuity', 'Anti-bribery'])
 f.row([('riddor_3yrs', 'RIDDOR incidents, last 3 years', 'a number, even 0'), ('hse_notices', 'HSE notices in 3 years?', 'yes / no')])
