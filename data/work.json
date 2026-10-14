@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "areas": [
   "North East",
   "North West",
@@ -28,102 +28,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "089611-2026",
-   "title": "Removal of Existing Pedestrian Bridge at Clare Glen Including all Necessary Enabling Works",
-   "buyer": "Armagh City, Banbridge and Craigavon Borough Council",
-   "area": "Northern Ireland",
-   "place": "Craigavon",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-13T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089611-2026"
-  },
-  {
-   "id": "087427-2026",
-   "title": "NDC0114-26 - Tarka Leisure Centre Footpath",
-   "buyer": "North Devon District Council",
-   "area": "South West",
-   "place": "Barnstaple",
-   "value": "£16,000",
-   "term": "",
-   "closes": "2026-10-13T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087427-2026"
-  },
-  {
-   "id": "087306-2026",
-   "title": "Replacement Flooring at Eastry Court, Aylesham",
-   "buyer": "Dover District Council",
-   "area": "South East",
-   "place": "Dover",
-   "value": "£35,000",
-   "term": "",
-   "closes": "2026-10-13T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087306-2026"
-  },
-  {
-   "id": "087210-2026",
-   "title": "Contract for the Execution of Environmental Facilities West Cross Phase 3",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£965,000",
-   "term": "",
-   "closes": "2026-10-13T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087210-2026"
-  },
-  {
-   "id": "086213-2026",
-   "title": "Mechanical & Electrical Works Partnering Framework",
-   "buyer": "Lancashire County Council",
-   "area": "North West",
-   "place": "Preston",
-   "value": "£12m",
-   "term": "",
-   "closes": "2026-10-13T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Electrical & renewables"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086213-2026"
-  },
   {
    "id": "094461-2026",
    "title": "Contract for Tudno and Heol Emrys Re-Roofing and Associated Works",
@@ -314,7 +218,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087456-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/087456-2026",
+   "county": "Scotland"
   },
   {
    "id": "087147-2026",
@@ -333,7 +238,8 @@
     "Electrical & renewables"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087147-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/087147-2026",
+   "county": "Scotland"
   },
   {
    "id": "088248-2026",
@@ -567,7 +473,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/082806-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/082806-2026",
+   "county": "Scotland"
   },
   {
    "id": "088737-2026",
@@ -627,7 +534,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087476-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/087476-2026",
+   "county": "Scotland"
   },
   {
    "id": "083977-2026",
@@ -646,7 +554,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/083977-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/083977-2026",
+   "county": "South West"
   },
   {
    "id": "093018-2026",
@@ -1090,7 +999,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088528-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/088528-2026",
+   "county": "Scotland"
   },
   {
    "id": "088460-2026",
@@ -1109,7 +1019,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088460-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/088460-2026",
+   "county": "Scotland"
   },
   {
    "id": "094555-2026",
@@ -1538,7 +1449,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089322-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/089322-2026",
+   "county": "Scotland"
   },
   {
    "id": "094598-2026",
@@ -1750,7 +1662,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089780-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/089780-2026",
+   "county": "Scotland"
   },
   {
    "id": "089024-2026",
@@ -1769,7 +1682,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089024-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/089024-2026",
+   "county": "Scotland"
   },
   {
    "id": "085876-2026",
@@ -2002,7 +1916,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095302-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/095302-2026",
+   "county": "Scotland"
   },
   {
    "id": "086567-2026",
@@ -2021,7 +1936,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086567-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/086567-2026",
+   "county": "Scotland"
   },
   {
    "id": "088689-2026",
@@ -2560,7 +2476,8 @@
     "Lifts"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092369-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/092369-2026",
+   "county": "Scotland"
   },
   {
    "id": "086761-2026",
@@ -2579,7 +2496,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086761-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/086761-2026",
+   "county": "Scotland"
   },
   {
    "id": "091586-2026",
@@ -2716,7 +2634,8 @@
     "Surfacing & groundworks"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090951-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/090951-2026",
+   "county": "Scotland"
   },
   {
    "id": "093660-2026",
@@ -3396,7 +3315,8 @@
     "Roofing & cladding"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091073-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/091073-2026",
+   "county": "Scotland"
   },
   {
    "id": "092622-2026",
@@ -3416,7 +3336,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092622-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/092622-2026",
+   "county": "Scotland"
   },
   {
    "id": "092558-2026",
@@ -3456,7 +3377,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091309-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/091309-2026",
+   "county": "South East"
   },
   {
    "id": "090374-2026",
@@ -3476,7 +3398,8 @@
     "Electrical & renewables"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090374-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/090374-2026",
+   "county": "Scotland"
   },
   {
    "id": "089323-2026",
@@ -3495,7 +3418,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089323-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/089323-2026",
+   "county": "Scotland"
   },
   {
    "id": "094775-2026",
@@ -3902,7 +3826,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093513-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/093513-2026",
+   "county": "Scotland"
   },
   {
    "id": "094784-2026",
@@ -4462,7 +4387,8 @@
     "Demolition"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086589-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/086589-2026",
+   "county": "Scotland"
   },
   {
    "id": "094689-2026",
@@ -4771,7 +4697,8 @@
     "Demolition"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095491-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/095491-2026",
+   "county": "Scotland"
   },
   {
    "id": "094996-2026",
@@ -4791,7 +4718,8 @@
     "Heating & plumbing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094996-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/094996-2026",
+   "county": "Scotland"
   },
   {
    "id": "093937-2026",
@@ -4848,7 +4776,8 @@
     "Demolition"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095921-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/095921-2026",
+   "county": "Scotland"
   },
   {
    "id": "093935-2026",
@@ -4965,7 +4894,8 @@
     "Surfacing & groundworks"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096362-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/096362-2026",
+   "county": "Scotland"
   },
   {
    "id": "095013-2026",
@@ -4985,7 +4915,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095013-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/095013-2026",
+   "county": "Scotland"
   },
   {
    "id": "093084-2026",
@@ -5198,7 +5129,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096183-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/096183-2026",
+   "county": "Scotland"
   },
   {
    "id": "092466-2026",
