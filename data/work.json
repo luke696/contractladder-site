@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "areas": [
   "North East",
   "North West",
@@ -28,179 +28,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "094461-2026",
-   "title": "Contract for Tudno and Heol Emrys Re-Roofing and Associated Works",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£550,000",
-   "term": "",
-   "closes": "2026-10-14T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094461-2026"
-  },
-  {
-   "id": "092964-2026",
-   "title": "BHA26006 – Void Works Tan Y Castell",
-   "buyer": "Barcud Cyfyngedig",
-   "area": "Wales",
-   "place": "Ceredigion",
-   "value": "£80,000",
-   "term": "",
-   "closes": "2026-10-14T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092964-2026"
-  },
-  {
-   "id": "091055-2026",
-   "title": "Faith Centre Solar PV and Fall Arrest System Installation",
-   "buyer": "University of Salford",
-   "area": "North West",
-   "place": "Salford",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-14T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091055-2026"
-  },
-  {
-   "id": "090868-2026",
-   "title": "Contract for the Design, Supply, Erection and Dismantling of Scaffolding at Transforming Homes",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£40,000",
-   "term": "",
-   "closes": "2026-10-14T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090868-2026"
-  },
-  {
-   "id": "087387-2026",
-   "title": "NRW/21219 St Andrews MSCP - Structural Repairs",
-   "buyer": "Norwich City Council",
-   "area": "East of England",
-   "place": "Norwich",
-   "value": "£600,000",
-   "term": "",
-   "closes": "2026-10-14T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087387-2026"
-  },
-  {
-   "id": "091399-2026",
-   "title": "D2 Dehumidification (L&A and Radiation Stores)",
-   "buyer": "Science Museum Group",
-   "area": "London",
-   "place": "London",
-   "value": "£500,000",
-   "term": "",
-   "closes": "2026-10-14T16:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding",
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091399-2026"
-  },
-  {
-   "id": "090052-2026",
-   "title": "4-6 Short Street Repair Works",
-   "buyer": "Cambridge City Council",
-   "area": "East of England",
-   "place": "Cambridge",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-14T17:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090052-2026"
-  },
-  {
-   "id": "087849-2026",
-   "title": "Void Works - Major Projects",
-   "buyer": "Dover District Council",
-   "area": "South East",
-   "place": "Dover",
-   "value": "£160,000",
-   "term": "",
-   "closes": "2026-10-14T23:59",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087849-2026"
-  },
-  {
-   "id": "087837-2026",
-   "title": "Sunny Corner Window and Door Replacement",
-   "buyer": "Dover District Council",
-   "area": "South East",
-   "place": "Dover",
-   "value": "£120,000",
-   "term": "",
-   "closes": "2026-10-14T23:59",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087837-2026"
-  },
   {
    "id": "087456-2026",
    "title": "Framework Agreement for the Maintenance and Repair of Navigation and Communication Equipment",
@@ -4193,6 +4020,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094317-2026"
   },
   {
+   "id": "096971-2026",
+   "title": "Shorepower Civils Works",
+   "buyer": "Caledonian Maritime Assets Ltd (Utility)",
+   "area": "Scotland",
+   "place": "Port Glasgow",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-04T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/096971-2026"
+  },
+  {
    "id": "090818-2026",
    "title": "Abertay Housing Association - Landscape Maintenance 2027 - 2030",
    "buyer": "Abertay Housing Association",
@@ -5269,6 +5115,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094313-2026"
   },
   {
+   "id": "097177-2026",
+   "title": "Service, Maintenance and Reactive Repair of Sprinkler, Gas Suppression, Dry Riser and Fire Hydrants to various commercial premises 2027 - 20",
+   "buyer": "East Renfrewshire Council",
+   "area": "Scotland",
+   "place": "Giffnock",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-11-23T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/097177-2026"
+  },
+  {
    "id": "093338-2026",
    "title": "HAR6126 Rushmead Construction",
    "buyer": "Tower Hamlets",
@@ -5286,6 +5151,26 @@
    ],
    "sme": true,
    "url": "https://www.find-tender.service.gov.uk/Notice/093338-2026"
+  },
+  {
+   "id": "096987-2026",
+   "title": "Colne Town Council - Grounds Maintenance",
+   "buyer": "Colne Town Council",
+   "area": "North West",
+   "place": "Colne, Lancashire",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-27T17:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026"
   },
   {
    "id": "094470-2026",
