@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "areas": [
   "North East",
   "North West",
@@ -28,358 +28,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "088528-2026",
-   "title": "Refit of MRV Alba na Mara",
-   "buyer": "Scottish Government",
-   "area": "Scotland",
-   "place": "Edinburgh",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T11:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088528-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "088460-2026",
-   "title": "Traction Motor Maintenance – Class 318 and 320",
-   "buyer": "ScotRail Trains Limited",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T11:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088460-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094555-2026",
-   "title": "Luton Centre for Mental Health – Expansion of Section 136 Unit at Jade Ward",
-   "buyer": "East London NHS Foundation Trust",
-   "area": "East of England",
-   "place": "London",
-   "value": "£525,000",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "county": "East of England",
-   "url": "https://www.find-tender.service.gov.uk/Notice/094555-2026"
-  },
-  {
-   "id": "091625-2026",
-   "title": "Replacement passenger lift, Antenna Building",
-   "buyer": "Nottingham Trent University",
-   "area": "East Midlands",
-   "place": "Nottingham city centre",
-   "value": "£150,000",
-   "term": "2027",
-   "closes": "2026-10-19T12:00",
-   "trades": [
-    "Lifts"
-   ],
-   "call": "bid",
-   "why": "A single lift replacement at a size a regional lift firm can win.",
-   "route": "Full tender",
-   "portal": "Find a Tender notice",
-   "county": "Nottinghamshire",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091625-2026"
-  },
-  {
-   "id": "091098-2026",
-   "title": "TWBC Property Term Contract 2027 - Lots 3A, 3B, 3C & 4 (Mechanical, HVAC, Water Hygiene & Lift Maint",
-   "buyer": "Tunbridge Wells Borough Council",
-   "area": "South East",
-   "place": "Tunbridge Wells",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts",
-    "Heating & plumbing"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091098-2026"
-  },
-  {
-   "id": "089372-2026",
-   "title": "T0224 Lift works at Kings Court 2, Kidderminster HC and Robertson Centre",
-   "buyer": "Herefordshire and Worcestershire Health and Care NHS Tr",
-   "area": "West Midlands",
-   "place": "Worcester",
-   "value": "£395,000",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089372-2026"
-  },
-  {
-   "id": "089371-2026",
-   "title": "Teddington Allotments Reclamation Works at Shacklegate Lane Cemetery",
-   "buyer": "London Borough of Richmond upon Thames",
-   "area": "London",
-   "place": "Richmond",
-   "value": "£228,000",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089371-2026"
-  },
-  {
-   "id": "089328-2026",
-   "title": "Delivery, Management and Maintenance of Public & Private EV Infrastructure",
-   "buyer": "PLACES FOR PEOPLE GROUP LIMITED",
-   "area": "UK-wide",
-   "place": "London",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Electrical & renewables"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089328-2026"
-  },
-  {
-   "id": "088360-2026",
-   "title": "BCU-ITT-64089 - North Wales Medical School - West (YG)",
-   "buyer": "Betsi Cadwaladr University Health Board",
-   "area": "Wales",
-   "place": "Bangor",
-   "value": "£2m",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088360-2026"
-  },
-  {
-   "id": "086431-2026",
-   "title": "Drummond Community Centre Refurbishment",
-   "buyer": "Hedge End Town Council",
-   "area": "South East",
-   "place": "Southampton",
-   "value": "£120,000",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086431-2026"
-  },
-  {
-   "id": "084876-2026",
-   "title": "Yate Washdown Canopy",
-   "buyer": "Avon Fire Authority",
-   "area": "South West",
-   "place": "Portishead",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/084876-2026"
-  },
-  {
-   "id": "090702-2026",
-   "title": "British Museum Round Reading Room Roof Oculus Works",
-   "buyer": "British Museum",
-   "area": "London",
-   "place": "London",
-   "value": "£9m",
-   "term": "",
-   "closes": "2026-10-19T13:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090702-2026"
-  },
-  {
-   "id": "086850-2026",
-   "title": "Commercial Boilers Installations Framework Agreement 2026 - 2030",
-   "buyer": "The Riverside Group Limited",
-   "area": "North West",
-   "place": "Speke, Liverpool",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-19T13:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086850-2026"
-  },
-  {
-   "id": "090730-2026",
-   "title": "Water Management - Legionella",
-   "buyer": "Northern Lighthouse Board",
-   "area": "Scotland",
-   "place": "Edinburgh",
-   "value": "£124,000",
-   "term": "",
-   "closes": "2026-10-19T14:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090730-2026"
-  },
-  {
-   "id": "089310-2026",
-   "title": "Chestnut Walk, Hungerford, Refurbishment Project",
-   "buyer": "West Berkshire Council",
-   "area": "South East",
-   "place": "Newbury",
-   "value": "£1.5m",
-   "term": "",
-   "closes": "2026-10-19T15:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Demolition"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089310-2026"
-  },
-  {
-   "id": "086578-2026",
-   "title": "Joinery Contractors Framework",
-   "buyer": "NHS Lanarkshire",
-   "area": "Scotland",
-   "place": "Bothwell",
-   "value": "£4.3m",
-   "term": "",
-   "closes": "2026-10-19T17:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "county": "Scotland",
-   "url": "https://www.find-tender.service.gov.uk/Notice/086578-2026"
-  },
-  {
-   "id": "088694-2026",
-   "title": "Air Conditioning Service and Maintenance",
-   "buyer": "VICO HOMES LIMITED",
-   "area": "Yorkshire and the Humber",
-   "place": "Castleford",
-   "value": "£267,000",
-   "term": "",
-   "closes": "2026-10-19T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088694-2026"
-  },
-  {
-   "id": "092050-2026",
-   "title": "Contract for Garden Clearances",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£45,000",
-   "term": "",
-   "closes": "2026-10-20T00:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks",
-    "Demolition"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092050-2026"
-  },
   {
    "id": "090000-2026",
    "title": "Prospere Learning Trust Grounds Maintenance",
@@ -1684,6 +1332,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094735-2026"
   },
   {
+   "id": "098407-2026",
+   "title": "Oakham Town Centre Flower Displays",
+   "buyer": "Oakham Town Council",
+   "area": "North East",
+   "place": "Oakham",
+   "value": "",
+   "term": "",
+   "closes": "2026-10-27T00:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098407-2026"
+  },
+  {
    "id": "090951-2026",
    "title": "Minor Archaeological Services Call-Off Contract",
    "buyer": "Historic Environment Scotland",
@@ -2892,7 +2559,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098122-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098122-2026",
+   "county": "Scotland"
   },
   {
    "id": "093513-2026",
@@ -4235,7 +3903,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026",
+   "county": "Scotland"
   },
   {
    "id": "097723-2026",
@@ -4255,7 +3924,47 @@
     "Grounds & landscaping"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097723-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/097723-2026",
+   "county": "Scotland"
+  },
+  {
+   "id": "098313-2026",
+   "title": "Gas Boiler Services",
+   "buyer": "Maidstone and Tunbridge Wells NHS Trust",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098313-2026"
+  },
+  {
+   "id": "098285-2026",
+   "title": "Boiler chemical and Softener Services",
+   "buyer": "Maidstone and Tunbridge Wells NHS Trust",
+   "area": "South East",
+   "place": "Maidstone",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing",
+    "Surfacing & groundworks"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098285-2026"
   },
   {
    "id": "097650-2026",
