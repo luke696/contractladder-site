@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "areas": [
   "North East",
   "North West",
@@ -28,104 +28,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "090000-2026",
-   "title": "Prospere Learning Trust Grounds Maintenance",
-   "buyer": "Prospere Learning Trust",
-   "area": "North West",
-   "place": "Manchester",
-   "value": "£350,000",
-   "term": "",
-   "closes": "2026-10-20T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090000-2026"
-  },
-  {
-   "id": "089837-2026",
-   "title": "Longforth Farm Allotments",
-   "buyer": "Wellington Town Council",
-   "area": "South West",
-   "place": "Wellington",
-   "value": "£63,000",
-   "term": "",
-   "closes": "2026-10-20T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089837-2026"
-  },
-  {
-   "id": "089533-2026",
-   "title": "THE PROVISION OF RIVER PARK PERIMETER PATH",
-   "buyer": "Winchester City Council",
-   "area": "South East",
-   "place": "Winchester",
-   "value": "£153,000",
-   "term": "",
-   "closes": "2026-10-20T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089533-2026"
-  },
-  {
-   "id": "086696-2026",
-   "title": "QEHKL239 Roof Re-covering Works",
-   "buyer": "The Queen Elizabeth Hospital King's Lynn NHS Foundation",
-   "area": "East of England",
-   "place": "Kings Lynn",
-   "value": "£6.5m",
-   "term": "",
-   "closes": "2026-10-20T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086696-2026"
-  },
-  {
-   "id": "087383-2026",
-   "title": "Repairs and resurfacing of car park and road",
-   "buyer": "Broughton Parish Council",
-   "area": "South West",
-   "place": "Thruxton",
-   "value": "£100,000",
-   "term": "",
-   "closes": "2026-10-20T23:59",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087383-2026"
-  },
   {
    "id": "089322-2026",
    "title": "Framework Agreement for Design, Supply & Installation of Kitchens (Lot 1) and Bathrooms (Lot 2) & Associated Works 2026 to 2030",
@@ -1348,7 +1250,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098407-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098407-2026",
+   "county": "North East"
   },
   {
    "id": "090951-2026",
@@ -2794,6 +2697,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/093395-2026"
   },
   {
+   "id": "099090-2026",
+   "title": "Refit of MRV Alba na Mara",
+   "buyer": "Scottish Government",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-03T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/099090-2026"
+  },
+  {
    "id": "094716-2026",
    "title": "Contract for the Execution of Ynystawe Skatepark, Swansea",
    "buyer": "City & County of Swansea",
@@ -3944,7 +3866,8 @@
     "Heating & plumbing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098313-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098313-2026",
+   "county": "South East"
   },
   {
    "id": "098285-2026",
@@ -3964,7 +3887,8 @@
     "Surfacing & groundworks"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098285-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098285-2026",
+   "county": "South East"
   },
   {
    "id": "097650-2026",
@@ -4105,6 +4029,45 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/091912-2026"
   },
   {
+   "id": "098934-2026",
+   "title": "Three Year Contract for Gutter Cleaning and Roof Inspection Services",
+   "buyer": "Reidvale Housing Association",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£250,000",
+   "term": "",
+   "closes": "2026-11-19T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098934-2026"
+  },
+  {
+   "id": "098835-2026",
+   "title": "Three Year Electrical Inspection Contract, Various Addresses, North Glasgow",
+   "buyer": "Cadder Housing Association",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-20T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098835-2026"
+  },
+  {
    "id": "094763-2026",
    "title": "0661 Boars Head Footbridge Superstructure Renewal Works Contract 2026",
    "buyer": "Wigan Council",
@@ -4163,6 +4126,26 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094313-2026"
   },
   {
+   "id": "099191-2026",
+   "title": "EDC/2026/4397 Lift Refurbishment Milngavie Enterprise Centre",
+   "buyer": "East Dunbartonshire Council",
+   "area": "Scotland",
+   "place": "Kirkintilloch",
+   "value": "",
+   "term": "",
+   "closes": "2026-11-23T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Lifts",
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026"
+  },
+  {
    "id": "097177-2026",
    "title": "Service, Maintenance and Reactive Repair of Sprinkler, Gas Suppression, Dry Riser and Fire Hydrants to various commercial premises 2027 - 20",
    "buyer": "East Renfrewshire Council",
@@ -4181,6 +4164,26 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/097177-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "099130-2026",
+   "title": "Subcontracting Framework for Works and Associated Services",
+   "buyer": "Tayside Contracts",
+   "area": "Scotland",
+   "place": "Dundee",
+   "value": "£17.2m",
+   "term": "",
+   "closes": "2026-11-26T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Fencing"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026"
   },
   {
    "id": "093338-2026",
@@ -4221,6 +4224,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026",
    "county": "North West"
+  },
+  {
+   "id": "098828-2026",
+   "title": "IT0043 Flooding Term Commission 2027-2031",
+   "buyer": "Falkirk Council",
+   "area": "Scotland",
+   "place": "Larbert",
+   "value": "£1.4m",
+   "term": "",
+   "closes": "2026-11-30T16:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/098828-2026"
   },
   {
    "id": "094470-2026",
