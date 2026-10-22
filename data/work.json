@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "areas": [
   "North East",
   "North West",
@@ -28,219 +28,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "089322-2026",
-   "title": "Framework Agreement for Design, Supply & Installation of Kitchens (Lot 1) and Bathrooms (Lot 2) & Associated Works 2026 to 2030",
-   "buyer": "Loreburn Housing Association",
-   "area": "Scotland",
-   "place": "Dumfries",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-21T11:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089322-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094598-2026",
-   "title": "West Area Footway Improvements",
-   "buyer": "Hull City Council",
-   "area": "Yorkshire and the Humber",
-   "place": "Hull",
-   "value": "£180,000",
-   "term": "",
-   "closes": "2026-10-21T11:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094598-2026"
-  },
-  {
-   "id": "092018-2026",
-   "title": "Antenatal Ward Relocation to Block 14 (SFT-BT-C464875)",
-   "buyer": "Somerset NHS Foundation Trust",
-   "area": "South West",
-   "place": "Taunton",
-   "value": "£1.2m",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092018-2026"
-  },
-  {
-   "id": "091393-2026",
-   "title": "Statutory Servicing, Reactive and Remedial Works",
-   "buyer": "Gloucestershire County Council",
-   "area": "South West",
-   "place": "Gloucester",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts",
-    "Electrical & renewables"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091393-2026"
-  },
-  {
-   "id": "090620-2026",
-   "title": "Framework Agreement for the Execution of General Building Works (Housing) - Lots 1 & 2",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£11.4m",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090620-2026"
-  },
-  {
-   "id": "090039-2026",
-   "title": "Carriageway Resurfacing Works 2026/27 - Bulk Tender 4",
-   "buyer": "Wigan Council",
-   "area": "North West",
-   "place": "Wigan",
-   "value": "£572,000",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090039-2026"
-  },
-  {
-   "id": "089993-2026",
-   "title": "Fire Alarm and Portable Extinguisher Maintenance",
-   "buyer": "South Yorkshire Fire and Rescue Authority",
-   "area": "Yorkshire and the Humber",
-   "place": "Sheffield",
-   "value": "£100,000",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089993-2026"
-  },
-  {
-   "id": "089646-2026",
-   "title": "Supply and Erection of Access Equipment (Scaffold & Mobile Towers) (H817)",
-   "buyer": "Dudley Metropolitan Borough Council",
-   "area": "West Midlands",
-   "place": "Dudley",
-   "value": "£1.6m",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089646-2026"
-  },
-  {
-   "id": "089365-2026",
-   "title": "Provision of Servicing and Maintenance of Chiller (HVAC) and AC units to Kingston University",
-   "buyer": "Kingston University Higher Education Corporation",
-   "area": "London",
-   "place": "Kingston upon Thames",
-   "value": "£500,000",
-   "term": "",
-   "closes": "2026-10-21T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089365-2026"
-  },
-  {
-   "id": "085469-2026",
-   "title": "S2007 - Floating Wetland Habitats",
-   "buyer": "Salford City Council",
-   "area": "North West",
-   "place": "Manchester",
-   "value": "£180,000",
-   "term": "",
-   "closes": "2026-10-21T14:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/085469-2026"
-  },
-  {
-   "id": "092524-2026",
-   "title": "RHA_294_Appointment of Main Contractor_4 Social Housing Units_Bushmills",
-   "buyer": "Rural Housing Association",
-   "area": "Northern Ireland",
-   "place": "Omagh",
-   "value": "£950,000",
-   "term": "",
-   "closes": "2026-10-21T15:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092524-2026"
-  },
   {
    "id": "089780-2026",
    "title": "Professional Estate Management Services Framework",
@@ -2713,7 +2500,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099090-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/099090-2026",
+   "county": "Scotland"
   },
   {
    "id": "094716-2026",
@@ -4046,7 +3834,27 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098934-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098934-2026",
+   "county": "Scotland"
+  },
+  {
+   "id": "099724-2026",
+   "title": "Wood Green Central Multi-Disciplinary Team",
+   "buyer": "London Borough of Haringey",
+   "area": "London",
+   "place": "London",
+   "value": "£1.5m",
+   "term": "",
+   "closes": "2026-11-20T00:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/099724-2026"
   },
   {
    "id": "098835-2026",
@@ -4065,7 +3873,8 @@
     "Electrical & renewables"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098835-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098835-2026",
+   "county": "Scotland"
   },
   {
    "id": "094763-2026",
@@ -4143,7 +3952,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026",
+   "county": "Scotland"
   },
   {
    "id": "097177-2026",
@@ -4183,7 +3993,8 @@
     "Fencing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026",
+   "county": "Scotland"
   },
   {
    "id": "093338-2026",
@@ -4242,7 +4053,8 @@
     "Surfacing & groundworks"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098828-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/098828-2026",
+   "county": "Scotland"
   },
   {
    "id": "094470-2026",
