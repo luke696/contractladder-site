@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "areas": [
   "North East",
   "North West",
@@ -11,8 +11,7 @@
   "South East",
   "South West",
   "Wales",
-  "Scotland",
-  "Northern Ireland"
+  "Scotland"
  ],
  "trades": [
   "Building & refurbishment",
@@ -28,220 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "090951-2026",
-   "title": "Minor Archaeological Services Call-Off Contract",
-   "buyer": "Historic Environment Scotland",
-   "area": "Scotland",
-   "place": "Edinburgh",
-   "value": "£480,000",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090951-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "093660-2026",
-   "title": "Contract for Groundworks at Felindre Phase 1",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£90,000",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks",
-    "Demolition"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093660-2026"
-  },
-  {
-   "id": "092084-2026",
-   "title": "SuDS2601 - St Ives Crescent SuDS",
-   "buyer": "North East Lincolnshire Borough Council",
-   "area": "Yorkshire and the Humber",
-   "place": "Grimsby",
-   "value": "£750,000",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092084-2026"
-  },
-  {
-   "id": "091842-2026",
-   "title": "Tender for Localised Building Improvements At Hillside Intermediate Care Centre Pentwyn Ave, Herefor",
-   "buyer": "Herefordshire Council",
-   "area": "West Midlands",
-   "place": "Hereford",
-   "value": "£100,000",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091842-2026"
-  },
-  {
-   "id": "090425-2026",
-   "title": "Provision for Lee Valley VeloPark Rooflights Refurbishment",
-   "buyer": "Lee Valley Regional Park Authority",
-   "area": "London",
-   "place": "Enfield",
-   "value": "£130,000",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding",
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090425-2026"
-  },
-  {
-   "id": "087085-2026",
-   "title": "Repairs and Voids Contractor Framework",
-   "buyer": "Livv Housing Group",
-   "area": "North West",
-   "place": "Prescot",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-27T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Heating & plumbing"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087085-2026"
-  },
-  {
-   "id": "093297-2026",
-   "title": "Replacement UPVC windows and doors programme 2027-29",
-   "buyer": "The District Council of Folkestone and Hythe",
-   "area": "South East",
-   "place": "Folkestone",
-   "value": "£4m",
-   "term": "",
-   "closes": "2026-10-27T13:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093297-2026"
-  },
-  {
-   "id": "093830-2026",
-   "title": "715862501-Provision of a Maritime Interdiction Operations (MIOps) Training Facility",
-   "buyer": "Ministry of Defence",
-   "area": "South East",
-   "place": "Portsmouth",
-   "value": "£1.2m",
-   "term": "",
-   "closes": "2026-10-27T15:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093830-2026"
-  },
-  {
-   "id": "093377-2026",
-   "title": "DCWW 2113 - Low Value Small Works",
-   "buyer": "Dwr Cymru Cyfyngedig",
-   "area": "Wales",
-   "place": "Cardiff",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-27T17:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Heating & plumbing"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093377-2026"
-  },
-  {
-   "id": "089395-2026",
-   "title": "Pitched & Flat Roof Recovering at 26-28 Old Market Street, Bristol, BS2 0HB",
-   "buyer": "LIVEWEST HOMES LIMITED",
-   "area": "South West",
-   "place": "Exeter",
-   "value": "£200,000",
-   "term": "",
-   "closes": "2026-10-27T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089395-2026"
-  },
-  {
-   "id": "089956-2026",
-   "title": "Completion Works at Parkhead Crescent Newry",
-   "buyer": "Alpha Housing (NI) Ltd",
-   "area": "Northern Ireland",
-   "place": "Belfast",
-   "value": "£350,000",
-   "term": "",
-   "closes": "2026-10-27T23:59",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089956-2026"
-  },
   {
    "id": "094776-2026",
    "title": "3068 Bonington Gallery Vertical Lifting Platform",
@@ -2940,7 +2725,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/100985-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/100985-2026",
+   "county": "Yorkshire and the Humber"
   },
   {
    "id": "099191-2026",
@@ -3086,6 +2872,44 @@
    "county": "Scotland"
   },
   {
+   "id": "101613-2026",
+   "title": "Subcontractors and Specialist Contractors for Building Services - UPVC Windows and Doors",
+   "buyer": "West Dunbartonshire Council",
+   "area": "Scotland",
+   "place": "Dumbarton",
+   "value": "",
+   "term": "",
+   "closes": "2026-12-01T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/101613-2026"
+  },
+  {
+   "id": "101747-2026",
+   "title": "SPS-02361 Substance Screening & Related Services",
+   "buyer": "Scottish Prison Service",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "",
+   "term": "",
+   "closes": "2026-12-01T14:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/101747-2026"
+  },
+  {
    "id": "094470-2026",
    "title": "CPU 7328 Development for Social Housing of former United Reform Church, Clifton",
    "buyer": "Nottingham City Council",
@@ -3122,7 +2946,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101028-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/101028-2026",
+   "county": "Scotland"
   },
   {
    "id": "094464-2026",
