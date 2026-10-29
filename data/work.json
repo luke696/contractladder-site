@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "areas": [
   "North East",
   "North West",
@@ -27,222 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "094776-2026",
-   "title": "3068 Bonington Gallery Vertical Lifting Platform",
-   "buyer": "Nottingham Trent University",
-   "area": "East Midlands",
-   "place": "Nottingham",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094776-2026"
-  },
-  {
-   "id": "094300-2026",
-   "title": "Statutory Servicing, Reactive and Remedial Works Framework",
-   "buyer": "Gloucestershire County Council-",
-   "area": "South West",
-   "place": "Gloucester",
-   "value": "£9m",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Electrical & renewables"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094300-2026"
-  },
-  {
-   "id": "091905-2026",
-   "title": "Roofing Repairs and Replacements (741-AHL)",
-   "buyer": "NSAH (ALLIANCE HOMES) LIMITED",
-   "area": "South West",
-   "place": "Portishead",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091905-2026"
-  },
-  {
-   "id": "091385-2026",
-   "title": "BCU-ITT-64247 - SBCU Boiler Replacement -YG",
-   "buyer": "Betsi Cadwaladr University Health Board",
-   "area": "Wales",
-   "place": "Bangor",
-   "value": "£200,000",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091385-2026"
-  },
-  {
-   "id": "090887-2026",
-   "title": "Cyclical Decoration; 2027 - 2034",
-   "buyer": "Gentoo Group",
-   "area": "North East",
-   "place": "Sunderland",
-   "value": "£8.5m",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090887-2026"
-  },
-  {
-   "id": "085475-2026",
-   "title": "Highway Grass Verge and Hedge Cutting, Rights of Way - Seasonal Vegetation cuts, Suds and Watercours",
-   "buyer": "Bedford Borough Council",
-   "area": "East of England",
-   "place": "Bedford",
-   "value": "£1.8m",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks",
-    "Grounds & landscaping"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/085475-2026"
-  },
-  {
-   "id": "084550-2026",
-   "title": "BBC 0926 - The Refurbishment of John Warner Sports Centre, Hoddesdon, Hertfordshire",
-   "buyer": "Broxbourne Borough Council",
-   "area": "East of England",
-   "place": "Cheshunt",
-   "value": "£3.5m",
-   "term": "",
-   "closes": "2026-10-28T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/084550-2026"
-  },
-  {
-   "id": "088018-2026",
-   "title": "Thanet Bus Shelter Replacement Project",
-   "buyer": "Thanet Bus Shelter Replacement Project",
-   "area": "South East",
-   "place": "Margate",
-   "value": "£1.5m",
-   "term": "",
-   "closes": "2026-10-28T14:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/088018-2026"
-  },
-  {
-   "id": "094721-2026",
-   "title": "ScM East Hall Boiler Replacement",
-   "buyer": "Science Museum Group",
-   "area": "London",
-   "place": "London",
-   "value": "£200,000",
-   "term": "",
-   "closes": "2026-10-28T16:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094721-2026"
-  },
-  {
-   "id": "091235-2026",
-   "title": "Framework for the Supply, Installation and Decommissioning of Bus Shelters",
-   "buyer": "Angus Council",
-   "area": "Scotland",
-   "place": "Forfar",
-   "value": "£5.9m",
-   "term": "",
-   "closes": "2026-10-28T17:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "county": "Scotland",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091235-2026"
-  },
-  {
-   "id": "090521-2026",
-   "title": "Grounds Maintenance Contract",
-   "buyer": "Totnes Town Council",
-   "area": "South West",
-   "place": "Totnes",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-28T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090521-2026"
-  },
   {
    "id": "091933-2026",
    "title": "Linstone Housing Landscape Maintenance Contract 2026-2029",
@@ -2770,6 +2554,26 @@
    "county": "Scotland"
   },
   {
+   "id": "101852-2026",
+   "title": "Mobility Installation, Repairs and Maintenance",
+   "buyer": "London Borough of Southwark",
+   "area": "London",
+   "place": "London",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-11-25T00:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Electrical & renewables"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026"
+  },
+  {
    "id": "099130-2026",
    "title": "Subcontracting Framework for Works and Associated Services",
    "buyer": "Tayside Contracts",
@@ -2789,6 +2593,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "101826-2026",
+   "title": "Measured Term Contract for Service, Maintenance and Repairs of Swimming & Spa Pools and Plant",
+   "buyer": "North Ayrshire Council",
+   "area": "Scotland",
+   "place": "Irvine",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-11-27T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/101826-2026"
   },
   {
    "id": "100326-2026",
@@ -2888,7 +2711,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101613-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/101613-2026",
+   "county": "Scotland"
   },
   {
    "id": "101747-2026",
@@ -2907,7 +2731,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101747-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/101747-2026",
+   "county": "Scotland"
   },
   {
    "id": "094470-2026",
