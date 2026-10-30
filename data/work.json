@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "areas": [
   "North East",
   "North West",
@@ -27,218 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "091933-2026",
-   "title": "Linstone Housing Landscape Maintenance Contract 2026-2029",
-   "buyer": "Linstone Housing",
-   "area": "Scotland",
-   "place": "Linwood",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "county": "Scotland",
-   "url": "https://www.find-tender.service.gov.uk/Notice/091933-2026"
-  },
-  {
-   "id": "094333-2026",
-   "title": "Multi Use Games Areas and Outdoor Gyms",
-   "buyer": "Westminster City Council",
-   "area": "London",
-   "place": "London",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094333-2026"
-  },
-  {
-   "id": "093479-2026",
-   "title": "North Street Toilet Refurbishment",
-   "buyer": "Wellington Town Council",
-   "area": "South West",
-   "place": "Wellington",
-   "value": "£42,000",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093479-2026"
-  },
-  {
-   "id": "092659-2026",
-   "title": "Equine classroom redevelopment, Brooksby College",
-   "buyer": "Loughborough College",
-   "area": "East Midlands",
-   "place": "Brooksby, Melton",
-   "value": "£360,000",
-   "term": "Jun – Aug 2027",
-   "closes": "2026-10-29T12:00",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "call": "check",
-   "why": "Fits builders with education or occupied-site experience of a few hundred thousand pounds.",
-   "route": "Full tender",
-   "portal": "Delta eSourcing",
-   "county": "Leicestershire",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092659-2026"
-  },
-  {
-   "id": "092656-2026",
-   "title": "Survey & Maintenance of Fire Dampers at The University of Huddersfield",
-   "buyer": "University of Huddersfield",
-   "area": "Yorkshire and the Humber",
-   "place": "Huddersfield",
-   "value": "£100,000",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092656-2026"
-  },
-  {
-   "id": "092527-2026",
-   "title": "Resurfacing of Blatherwick's Yard car park",
-   "buyer": "Gedling Borough Council",
-   "area": "East Midlands",
-   "place": "Arnold",
-   "value": "£144,000",
-   "term": "Dec 2026 – Mar 2027",
-   "closes": "2026-10-29T12:00",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "call": "bid",
-   "why": "Reserved for small firms and charities, so big contractors can't bid against you.",
-   "route": "Quotation",
-   "portal": "In-Tend (Gedling)",
-   "county": "Nottinghamshire",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092527-2026"
-  },
-  {
-   "id": "092370-2026",
-   "title": "Supply & Installation of Windows & Doors (QLTA)",
-   "buyer": "VIVID Housing Ltd",
-   "area": "South East",
-   "place": "Portsmouth",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092370-2026"
-  },
-  {
-   "id": "092039-2026",
-   "title": "St Edmunds College Mechanical and Electrical Services",
-   "buyer": "ST EDMUND'S COLLEGE CAMBRIDGE",
-   "area": "East of England",
-   "place": "Cambridge",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Electrical & renewables"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092039-2026"
-  },
-  {
-   "id": "091952-2026",
-   "title": "St Edmunds College Water Hygiene Services",
-   "buyer": "ST EDMUND'S COLLEGE CAMBRIDGE",
-   "area": "East of England",
-   "place": "Cambridge",
-   "value": "",
-   "term": "",
-   "closes": "2026-10-29T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091952-2026"
-  },
-  {
-   "id": "092797-2026",
-   "title": "Parkstone House Fire Compartmentation",
-   "buyer": "University Hospitals Dorset NHS Foundation Trust",
-   "area": "South West",
-   "place": "Poole",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-10-29T14:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092797-2026"
-  },
-  {
-   "id": "091655-2026",
-   "title": "Hopestead Flooring - Supply and install",
-   "buyer": "Flagship Housing Limited",
-   "area": "East of England",
-   "place": "Norwich",
-   "value": "£1.1m",
-   "term": "",
-   "closes": "2026-10-29T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091655-2026"
-  },
   {
    "id": "094155-2026",
    "title": "ITT - Planned Preventative Maintenance and Reactive Repairs Services at Shrewsbury Flaxmill Maltings",
@@ -2571,7 +2359,8 @@
     "Electrical & renewables"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026",
+   "county": "London"
   },
   {
    "id": "099130-2026",
@@ -2611,7 +2400,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101826-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/101826-2026",
+   "county": "Scotland"
   },
   {
    "id": "100326-2026",
@@ -2673,6 +2463,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/096987-2026",
    "county": "North West"
+  },
+  {
+   "id": "102564-2026",
+   "title": "PROC-26-3457 Supply and Delivery of Modular Rapid Assembly Training Venues",
+   "buyer": "Scottish Police Authority",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£500,000",
+   "term": "",
+   "closes": "2026-11-30T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/102564-2026"
   },
   {
    "id": "098828-2026",
