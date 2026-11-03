@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "areas": [
   "North East",
   "North West",
@@ -27,276 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "090444-2026",
-   "title": "The design, repair and reinstatement of Pennylands Footbridge, Winchcombe",
-   "buyer": "Tewkesbury Borough Council",
-   "area": "South West",
-   "place": "Tewkesbury",
-   "value": "£200,000",
-   "term": "",
-   "closes": "2026-11-02T09:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090444-2026"
-  },
-  {
-   "id": "098122-2026",
-   "title": "Estimation of cumulative spatial restrictions to commercial fishing in Scottish waters",
-   "buyer": "Scottish Government",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098122-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "093513-2026",
-   "title": "Supply, Delivery and Installation of Office Furniture",
-   "buyer": "Scottish Police Authority",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "£6m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093513-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094784-2026",
-   "title": "Apollo Mission Simulator Fit Out Main Contractor",
-   "buyer": "Science Museum Group",
-   "area": "London",
-   "place": "London",
-   "value": "£700,000",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094784-2026"
-  },
-  {
-   "id": "094435-2026",
-   "title": "Design and installation of Public Toilet Block at Rendlesham",
-   "buyer": "Forestry Commission",
-   "area": "East of England",
-   "place": "Bristol",
-   "value": "£130,000",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094435-2026"
-  },
-  {
-   "id": "093917-2026",
-   "title": "Sheen Lane Centre & Teddington Pool PSDS Refurbishments",
-   "buyer": "London Borough of Richmond upon Thames",
-   "area": "London",
-   "place": "Richmond",
-   "value": "£5.6m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093917-2026"
-  },
-  {
-   "id": "093842-2026",
-   "title": "Domestic Build Works (Disability Adaptations)",
-   "buyer": "Cheshire East Council",
-   "area": "North West",
-   "place": "Crewe",
-   "value": "£4m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093842-2026"
-  },
-  {
-   "id": "093372-2026",
-   "title": "Bolton Urban Cricket Centre",
-   "buyer": "Bolton Metropolitan Borough Council",
-   "area": "North West",
-   "place": "Bolton",
-   "value": "£1.5m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093372-2026"
-  },
-  {
-   "id": "093332-2026",
-   "title": "Stotfold Cemetery - Toilet and Storage",
-   "buyer": "Stotfold Town Council",
-   "area": "East of England",
-   "place": "Stotfold",
-   "value": "£168,000",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093332-2026"
-  },
-  {
-   "id": "093052-2026",
-   "title": "Canvey Lake Dredging",
-   "buyer": "Castle Point Borough Council",
-   "area": "East of England",
-   "place": "Benfleet",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Demolition"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093052-2026"
-  },
-  {
-   "id": "087724-2026",
-   "title": "Refurbishment of Leigh Market Hall",
-   "buyer": "Wigan Council",
-   "area": "North West",
-   "place": "Wigan",
-   "value": "£4m",
-   "term": "",
-   "closes": "2026-11-02T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087724-2026"
-  },
-  {
-   "id": "094011-2026",
-   "title": "Provision of School-Based Nursery Works, Berry Hill Preschool, Broadlea Primary School, Isle of Wigh",
-   "buyer": "Isle of Wight Council",
-   "area": "South East",
-   "place": "Newport",
-   "value": "£148,000",
-   "term": "",
-   "closes": "2026-11-02T14:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094011-2026"
-  },
-  {
-   "id": "092154-2026",
-   "title": "Leadenhall Market - External Cyclical Works - Phase 2",
-   "buyer": "The Mayor and Commonalty and Citizens of the City of Lo",
-   "area": "London",
-   "place": "City of London",
-   "value": "£750,000",
-   "term": "",
-   "closes": "2026-11-02T14:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092154-2026"
-  },
-  {
-   "id": "093395-2026",
-   "title": "Grounds Maintenance at WMFRA Sites 2026 - 2030",
-   "buyer": "West Midlands Fire and Rescue Authority",
-   "area": "West Midlands",
-   "place": "Birmingham",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-02T18:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093395-2026"
-  },
   {
    "id": "099090-2026",
    "title": "Refit of MRV Alba na Mara",
@@ -1869,7 +1599,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/103016-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/103016-2026",
+   "county": "London"
   },
   {
    "id": "101826-2026",
@@ -1993,6 +1724,26 @@
    "county": "Scotland"
   },
   {
+   "id": "103802-2026",
+   "title": "Garden Landscaping",
+   "buyer": "Billericay Town Council",
+   "area": "East of England",
+   "place": "Billericay",
+   "value": "£30,000",
+   "term": "",
+   "closes": "2026-11-30T17:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Surfacing & groundworks"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/103802-2026"
+  },
+  {
    "id": "101613-2026",
    "title": "Subcontractors and Specialist Contractors for Building Services - UPVC Windows and Doors",
    "buyer": "West Dunbartonshire Council",
@@ -2033,6 +1784,26 @@
    "county": "Scotland"
   },
   {
+   "id": "103759-2026",
+   "title": "Creation of a new mountain bike trail at Balloch Castle Country Park",
+   "buyer": "West Dunbartonshire Council",
+   "area": "Scotland",
+   "place": "Dumbarton",
+   "value": "£434,000",
+   "term": "",
+   "closes": "2026-12-02T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Demolition"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026"
+  },
+  {
    "id": "094470-2026",
    "title": "CPU 7328 Development for Social Housing of former United Reform Church, Clifton",
    "buyer": "Nottingham City Council",
@@ -2071,6 +1842,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/101028-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "103686-2026",
+   "title": "Pre-Construction, Contract Administration and Post Contract Duties in Connection with the the Construction of a New Municipal Cemetery in Br",
+   "buyer": "Brandon Town Council",
+   "area": "North East",
+   "place": "Brandon 1",
+   "value": "£28,000",
+   "term": "",
+   "closes": "2026-12-14T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026"
   },
   {
    "id": "094464-2026",
