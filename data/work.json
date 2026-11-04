@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "areas": [
   "North East",
   "North West",
@@ -27,178 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "099090-2026",
-   "title": "Refit of MRV Alba na Mara",
-   "buyer": "Scottish Government",
-   "area": "Scotland",
-   "place": "Edinburgh",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099090-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094716-2026",
-   "title": "Contract for the Execution of Ynystawe Skatepark, Swansea",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£315,000",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094716-2026"
-  },
-  {
-   "id": "094648-2026",
-   "title": "NAB - Gas & Heating System Installs",
-   "buyer": "NUNEATON AND BEDWORTH COMMUNITY ENTERPRISES LIMITED",
-   "area": "West Midlands",
-   "place": "Nuneaton",
-   "value": "£600,000",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094648-2026"
-  },
-  {
-   "id": "094427-2026",
-   "title": "Canton Depot Flooring Works",
-   "buyer": "Transport for Wales Rail Limited (Utility Buyer)",
-   "area": "Wales",
-   "place": "Pontypridd",
-   "value": "£333,000",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094427-2026"
-  },
-  {
-   "id": "093434-2026",
-   "title": "QEHKL240 Fire Compartmentation Works",
-   "buyer": "The Queen Elizabeth Hospital King's Lynn NHS Foundation",
-   "area": "East of England",
-   "place": "Kings Lynn",
-   "value": "£60,000",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093434-2026"
-  },
-  {
-   "id": "092433-2026",
-   "title": "Fire Risk Assessment Works Closed Framework 2026 – 2029 (Housing and Non-Housing)",
-   "buyer": "Leeds City Council",
-   "area": "Yorkshire and the Humber",
-   "place": "Leeds",
-   "value": "£1.4m",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092433-2026"
-  },
-  {
-   "id": "090641-2026",
-   "title": "ITT for Works to Install Dignity Rooms at Five Fire Stations",
-   "buyer": "West Midlands Fire and Rescue Authority",
-   "area": "West Midlands",
-   "place": "Birmingham",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090641-2026"
-  },
-  {
-   "id": "090249-2026",
-   "title": "Cowleaze Block Roof Replacement",
-   "buyer": "GREENSQUAREACCORD LIMITED",
-   "area": "South East",
-   "place": "Birmingham",
-   "value": "£300,000",
-   "term": "",
-   "closes": "2026-11-03T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090249-2026"
-  },
-  {
-   "id": "094317-2026",
-   "title": "Grass Cutting Contract",
-   "buyer": "Kemble & Ewen Parish Council",
-   "area": "South West",
-   "place": "Kemble",
-   "value": "£30,000",
-   "term": "",
-   "closes": "2026-11-03T15:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094317-2026"
-  },
   {
    "id": "096971-2026",
    "title": "Shorepower Civils Works",
@@ -1741,7 +1569,8 @@
     "Surfacing & groundworks"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/103802-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/103802-2026",
+   "county": "East of England"
   },
   {
    "id": "101613-2026",
@@ -1801,7 +1630,8 @@
     "Demolition"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026",
+   "county": "Scotland"
   },
   {
    "id": "094470-2026",
@@ -1844,6 +1674,25 @@
    "county": "Scotland"
   },
   {
+   "id": "104142-2026",
+   "title": "Pitch & athletics facilities repairs & maintenance in non-domestic properties (measured term contract 2027)",
+   "buyer": "East Renfrewshire Council",
+   "area": "Scotland",
+   "place": "Giffnock",
+   "value": "£400,000",
+   "term": "",
+   "closes": "2026-12-09T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/104142-2026"
+  },
+  {
    "id": "103686-2026",
    "title": "Pre-Construction, Contract Administration and Post Contract Duties in Connection with the the Construction of a New Municipal Cemetery in Br",
    "buyer": "Brandon Town Council",
@@ -1860,7 +1709,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
+   "county": "North East"
   },
   {
    "id": "094464-2026",
@@ -1880,6 +1730,25 @@
    ],
    "sme": true,
    "url": "https://www.find-tender.service.gov.uk/Notice/094464-2026"
+  },
+  {
+   "id": "104024-2026",
+   "title": "Ground Maintenance",
+   "buyer": "Stoke Golding Parish Council",
+   "area": "North East",
+   "place": "Stoke Golding",
+   "value": "£90,000",
+   "term": "",
+   "closes": "2026-12-31T23:59",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/104024-2026"
   },
   {
    "id": "093581-2026",
