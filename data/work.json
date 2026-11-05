@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "areas": [
   "North East",
   "North West",
@@ -27,184 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "096971-2026",
-   "title": "Shorepower Civils Works",
-   "buyer": "Caledonian Maritime Assets Ltd (Utility)",
-   "area": "Scotland",
-   "place": "Port Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096971-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "090818-2026",
-   "title": "Abertay Housing Association - Landscape Maintenance 2027 - 2030",
-   "buyer": "Abertay Housing Association",
-   "area": "Scotland",
-   "place": "Dundee",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "county": "Scotland",
-   "url": "https://www.find-tender.service.gov.uk/Notice/090818-2026"
-  },
-  {
-   "id": "094746-2026",
-   "title": "Carriageway Micro Asphalt and Pre-Patching 2027",
-   "buyer": "Wigan Council",
-   "area": "North West",
-   "place": "Wigan",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094746-2026"
-  },
-  {
-   "id": "094657-2026",
-   "title": "Footway Slurry Seal 2027",
-   "buyer": "Wigan Council",
-   "area": "North West",
-   "place": "Wigan",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094657-2026"
-  },
-  {
-   "id": "094516-2026",
-   "title": "NCC1867 Framework for the Hire of Operated Plant",
-   "buyer": "Northumberland County Council",
-   "area": "North East",
-   "place": "Morpeth",
-   "value": "£12m",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094516-2026"
-  },
-  {
-   "id": "094161-2026",
-   "title": "Framework Agreement for the Supply, Installation, Repairs and Maintenance of Tarmacadam and other Su",
-   "buyer": "Staffordshire County Council",
-   "area": "West Midlands",
-   "place": "Stafford",
-   "value": "£7m",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094161-2026"
-  },
-  {
-   "id": "093645-2026",
-   "title": "Lift Maintenance Richmond and Wandsworth Councils (Housing and Operational Buildings)",
-   "buyer": "London Borough of Richmond upon Thames",
-   "area": "London",
-   "place": "Richmond",
-   "value": "£18.9m",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093645-2026"
-  },
-  {
-   "id": "093466-2026",
-   "title": "DC1 Solar Wall Principal Contractor",
-   "buyer": "Natural History Museum",
-   "area": "London",
-   "place": "London",
-   "value": "£950,000",
-   "term": "",
-   "closes": "2026-11-04T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables",
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093466-2026"
-  },
-  {
-   "id": "090847-2026",
-   "title": "Refurbishment of Ground Floor Toilets & Cloakroom at Cornerstone Arts Centre, Didcot",
-   "buyer": "South Oxfordshire District Council",
-   "area": "South East",
-   "place": "Abingdon",
-   "value": "£74,000",
-   "term": "",
-   "closes": "2026-11-04T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/090847-2026"
-  },
   {
    "id": "087723-2026",
    "title": "Grass Cutting Contract",
@@ -1653,6 +1475,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094470-2026"
   },
   {
+   "id": "104835-2026",
+   "title": "Multi-Supplier Framework Agreement for Management Systems Audit Services, Services Relating to Dispute/Claims Advice and Cost Estimation and",
+   "buyer": "Transport Scotland",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£14.4m",
+   "term": "",
+   "closes": "2026-12-04T17:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/104835-2026"
+  },
+  {
    "id": "101028-2026",
    "title": "Calvay Housing Association - Landscape Maintenance 2027 - 2030",
    "buyer": "Calvay Housing Association",
@@ -1690,7 +1531,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/104142-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/104142-2026",
+   "county": "Scotland"
   },
   {
    "id": "103686-2026",
@@ -1748,7 +1590,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/104024-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/104024-2026",
+   "county": "North East"
   },
   {
    "id": "093581-2026",
