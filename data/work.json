@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "areas": [
   "North East",
   "North West",
@@ -27,25 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "087723-2026",
-   "title": "Grass Cutting Contract",
-   "buyer": "Dalston Parish Council",
-   "area": "North West",
-   "place": "Dalston, Carlisle",
-   "value": "£30,000",
-   "term": "",
-   "closes": "2026-11-05T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/087723-2026"
-  },
   {
    "id": "086589-2026",
    "title": "Peatland ACTION FW02 Field Ecologists Framework",
@@ -1475,6 +1456,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094470-2026"
   },
   {
+   "id": "105076-2026",
+   "title": "Crane Provision Framework",
+   "buyer": "KBS Maritime Ltd",
+   "area": "South East",
+   "place": "Portsmouth",
+   "value": "",
+   "term": "",
+   "closes": "2026-12-03T15:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/105076-2026"
+  },
+  {
    "id": "104835-2026",
    "title": "Multi-Supplier Framework Agreement for Management Systems Audit Services, Services Relating to Dispute/Claims Advice and Cost Estimation and",
    "buyer": "Transport Scotland",
@@ -1491,7 +1491,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/104835-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/104835-2026",
+   "county": "Scotland"
   },
   {
    "id": "101028-2026",
