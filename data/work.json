@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-09",
  "areas": [
   "North East",
   "North West",
@@ -27,396 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "086589-2026",
-   "title": "Peatland ACTION FW02 Field Ecologists Framework",
-   "buyer": "Scottish Natural Heritage",
-   "area": "Scotland",
-   "place": "Inverness",
-   "value": "£450,000",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Demolition"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086589-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094689-2026",
-   "title": "The Core Refurbishment",
-   "buyer": "Newcastle City Council",
-   "area": "North East",
-   "place": "Newcastle Upon Tyne",
-   "value": "£7m",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Electrical & renewables"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094689-2026"
-  },
-  {
-   "id": "094380-2026",
-   "title": "Framework for Electrical Installation and Maintenance, Including PAT and Fixed Wire Testing",
-   "buyer": "Mid and West Wales Fire and Rescue Authority",
-   "area": "Wales",
-   "place": "Carmarthen",
-   "value": "£600,000",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094380-2026"
-  },
-  {
-   "id": "094316-2026",
-   "title": "MW2515 Harrowden Court Fire Works Phase 1",
-   "buyer": "Hastoe Housing Association",
-   "area": "East of England",
-   "place": "Dorchester",
-   "value": "£50,000",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094316-2026"
-  },
-  {
-   "id": "094045-2026",
-   "title": "Servicing & Response Maintenance of Boilers & Miscellaneous Gas Equipment",
-   "buyer": "Borough of Telford & Wrekin",
-   "area": "West Midlands",
-   "place": "Telford, Shropshire",
-   "value": "£2m",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094045-2026"
-  },
-  {
-   "id": "093909-2026",
-   "title": "Responsive Repairs & Maintenance and Void Property Works for Graphite Living",
-   "buyer": "Karbon Homes",
-   "area": "North East",
-   "place": "Newcastle upon Tyne",
-   "value": "£5m",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093909-2026"
-  },
-  {
-   "id": "093039-2026",
-   "title": "Contractors Services",
-   "buyer": "Karbon Homes",
-   "area": "Yorkshire and the Humber",
-   "place": "Newcastle upon Tyne",
-   "value": "£14.1m",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables",
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093039-2026"
-  },
-  {
-   "id": "089825-2026",
-   "title": "HAR6096 Bradwell Street Garages Development - New Housing Development Scheme",
-   "buyer": "Tower Hamlets",
-   "area": "London",
-   "place": "London",
-   "value": "£4.2m",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/089825-2026"
-  },
-  {
-   "id": "089143-2026",
-   "title": "Installing and maintaining the Matlock Bath Illuminations",
-   "buyer": "Derbyshire Dales District Council",
-   "area": "East Midlands",
-   "place": "Matlock Bath",
-   "value": "£244,000",
-   "term": "2027–2029 seasons, +2",
-   "closes": "2026-11-06T12:00",
-   "trades": [
-    "Electrical & renewables"
-   ],
-   "call": "bid",
-   "why": "Three seasons of repeat work for a local electrical contractor.",
-   "route": "Full tender",
-   "portal": "ProContract",
-   "county": "Derbyshire",
-   "url": "https://www.find-tender.service.gov.uk/Notice/089143-2026"
-  },
-  {
-   "id": "086602-2026",
-   "title": "Columbine Community Centre - Roof Renewal Works, Walton On The Naze",
-   "buyer": "Frinton & Walton Town Council",
-   "area": "East of England",
-   "place": "Frinton On Sea",
-   "value": "£200,000",
-   "term": "",
-   "closes": "2026-11-06T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/086602-2026"
-  },
-  {
-   "id": "094051-2026",
-   "title": "MW2520 - Bathroom Replacement Programme (East)",
-   "buyer": "Hastoe HA",
-   "area": "East of England",
-   "place": "Kingston upon Thames",
-   "value": "£650,000",
-   "term": "",
-   "closes": "2026-11-06T15:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094051-2026"
-  },
-  {
-   "id": "094047-2026",
-   "title": "MW2519 - Kitchen Replacement Programme (East)",
-   "buyer": "Hastoe HA",
-   "area": "East of England",
-   "place": "Kingston upon Thames",
-   "value": "£805,000",
-   "term": "",
-   "closes": "2026-11-06T15:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094047-2026"
-  },
-  {
-   "id": "092666-2026",
-   "title": "Bus Shelters, RTPI and Associated Services Y26014",
-   "buyer": "Kent County Council (t/a Procurement Services)",
-   "area": "South East",
-   "place": "Maidstone",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-06T17:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092666-2026"
-  },
-  {
-   "id": "093285-2026",
-   "title": "Jigsaw Homes Group - Window and door replacement program 2027-2030",
-   "buyer": "Jigsaw Homes Group",
-   "area": "North West",
-   "place": "Ashton-under-Lyne",
-   "value": "£10.8m",
-   "term": "",
-   "closes": "2026-11-06T19:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093285-2026"
-  },
-  {
-   "id": "092671-2026",
-   "title": "Maidstone Road Car Park Resurfacing",
-   "buyer": "Lenham Parish Council",
-   "area": "South East",
-   "place": "Maidstone",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-06T23:59",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092671-2026"
-  },
-  {
-   "id": "092669-2026",
-   "title": "Lenham Cemetery Road Surfacing Project",
-   "buyer": "Lenham Parish Council",
-   "area": "South East",
-   "place": "Maidstone",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-06T23:59",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092669-2026"
-  },
-  {
-   "id": "095491-2026",
-   "title": "Angus Rural Mobility Hub - Enabling Infrastructure Works",
-   "buyer": "Angus Council",
-   "area": "Scotland",
-   "place": "Forfar",
-   "value": "£4.7m",
-   "term": "",
-   "closes": "2026-11-09T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Demolition"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095491-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094996-2026",
-   "title": "Gardeen HA Gas Maintenance 2027",
-   "buyer": "Gardeen Housing Association Ltd",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-09T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094996-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "093937-2026",
-   "title": "Kirklees College - Minor Works",
-   "buyer": "Kirklees College",
-   "area": "Yorkshire and the Humber",
-   "place": "Huddersfield",
-   "value": "£2m",
-   "term": "",
-   "closes": "2026-11-09T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Demolition"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093937-2026"
-  },
-  {
-   "id": "093770-2026",
-   "title": "Communal Entrance Doors Qualifying Long-Term Agreement",
-   "buyer": "VIVID Housing Ltd",
-   "area": "South East",
-   "place": "Portsmouth",
-   "value": "£5m",
-   "term": "",
-   "closes": "2026-11-09T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093770-2026"
-  },
   {
    "id": "095921-2026",
    "title": "Southside Housing Association - Asbestos Management Surveys",
@@ -1472,7 +1082,27 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/105076-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/105076-2026",
+   "county": "South East"
+  },
+  {
+   "id": "105665-2026",
+   "title": "Neighbourhood Plan Consultancy Services",
+   "buyer": "Thrapston Town Council",
+   "area": "North East",
+   "place": "Thrapston",
+   "value": "£40,000",
+   "term": "",
+   "closes": "2026-12-04T17:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/105665-2026"
   },
   {
    "id": "104835-2026",
@@ -1495,6 +1125,25 @@
    "county": "Scotland"
   },
   {
+   "id": "105516-2026",
+   "title": "Temporary Traffic Management Services",
+   "buyer": "Falkirk Council",
+   "area": "Scotland",
+   "place": "Larbert",
+   "value": "£3.1m",
+   "term": "",
+   "closes": "2026-12-07T11:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Electrical & renewables"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/105516-2026"
+  },
+  {
    "id": "101028-2026",
    "title": "Calvay Housing Association - Landscape Maintenance 2027 - 2030",
    "buyer": "Calvay Housing Association",
@@ -1514,6 +1163,26 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/101028-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "106031-2026",
+   "title": "Provision of Grounds Maintenance and Winter Gritting Services",
+   "buyer": "New College Lanarkshire",
+   "area": "Scotland",
+   "place": "Motherwell",
+   "value": "£240,000",
+   "term": "",
+   "closes": "2026-12-09T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/106031-2026"
   },
   {
    "id": "104142-2026",
@@ -1554,6 +1223,26 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
    "county": "North East"
+  },
+  {
+   "id": "105634-2026",
+   "title": "Chilton Grove",
+   "buyer": "London Borough of Southwark",
+   "area": "London",
+   "place": "London",
+   "value": "£4m",
+   "term": "",
+   "closes": "2026-12-18T00:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment",
+    "Roofing & cladding"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/105634-2026"
   },
   {
    "id": "094464-2026",
@@ -1612,6 +1301,25 @@
    ],
    "sme": true,
    "url": "https://www.find-tender.service.gov.uk/Notice/093581-2026"
+  },
+  {
+   "id": "105515-2026",
+   "title": "Provision of Roofing Services",
+   "buyer": "UHI North,West and Hebrides",
+   "area": "Scotland",
+   "place": "Thurso",
+   "value": "£240,000",
+   "term": "",
+   "closes": "2027-01-11T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/105515-2026"
   },
   {
    "id": "092424-2026",
