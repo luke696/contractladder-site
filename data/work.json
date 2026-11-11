@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "areas": [
   "North East",
   "North West",
@@ -27,45 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "094864-2026",
-   "title": "Kingsway Tunnel - Asbestos Insulating Board (AIB) 'Dado' Panels Removal",
-   "buyer": "Merseytravel",
-   "area": "North West",
-   "place": "Liverpool",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-11T11:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Demolition"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094864-2026"
-  },
-  {
-   "id": "094695-2026",
-   "title": "PRO0663 - Grounds Maintenance Services Yorkshire",
-   "buyer": "Your Housing Group",
-   "area": "Yorkshire and the Humber",
-   "place": "Warrington",
-   "value": "£667,000",
-   "term": "",
-   "closes": "2026-11-11T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094695-2026"
-  },
   {
    "id": "092535-2026",
    "title": "Grounds Maintenance Services",
@@ -1150,6 +1111,46 @@
    "county": "Scotland"
   },
   {
+   "id": "106971-2026",
+   "title": "Clyde Valley Group - Contract for Roof Repairs and Minor Works",
+   "buyer": "Clyde Valley Housing Association Limited",
+   "area": "Scotland",
+   "place": "Motherwell",
+   "value": "£375,000",
+   "term": "",
+   "closes": "2026-12-11T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Roofing & cladding",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/106971-2026"
+  },
+  {
+   "id": "106832-2026",
+   "title": "EDC/2026/4497 Framework Agreement for Drainage Civil Engineering Works",
+   "buyer": "East Dunbartonshire Council",
+   "area": "Scotland",
+   "place": "Kirkintilloch",
+   "value": "£3.6m",
+   "term": "",
+   "closes": "2026-12-11T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Surfacing & groundworks",
+    "Demolition"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/106832-2026"
+  },
+  {
    "id": "106517-2026",
    "title": "Grounds Maintenance Services: 2027-2031",
    "buyer": "Orkney Islands Council",
@@ -1167,7 +1168,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/106517-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/106517-2026",
+   "county": "Scotland"
   },
   {
    "id": "103686-2026",
