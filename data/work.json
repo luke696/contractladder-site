@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "areas": [
   "North East",
   "North West",
@@ -27,88 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "092535-2026",
-   "title": "Grounds Maintenance Services",
-   "buyer": "North West Ambulance Service NHS Trust",
-   "area": "North West",
-   "place": "Bolton",
-   "value": "£500,000",
-   "term": "",
-   "closes": "2026-11-11T15:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092535-2026"
-  },
-  {
-   "id": "096362-2026",
-   "title": "EDC/2026/4456 Framework for Traffic Signal Equipment Maintenance, Supply & Associated Works",
-   "buyer": "East Dunbartonshire Council",
-   "area": "Scotland",
-   "place": "Kirkintilloch",
-   "value": "£2.3m",
-   "term": "",
-   "closes": "2026-11-12T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096362-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "095013-2026",
-   "title": "Servicing, Maintenance and Repair of HVAC systems in non-domestic properties MTC 2027-2029",
-   "buyer": "East Renfrewshire Council",
-   "area": "Scotland",
-   "place": "Giffnock",
-   "value": "£1.2m",
-   "term": "",
-   "closes": "2026-11-12T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/095013-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "093084-2026",
-   "title": "Contract for the Execution of WWP works at Waunarlwydd Phase 2",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£2.9m",
-   "term": "",
-   "closes": "2026-11-12T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables",
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093084-2026"
-  },
   {
    "id": "094602-2026",
    "title": "ITT for Flitcham Chimney Removal and Associated Electrical Works",
@@ -1128,7 +1046,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/106971-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/106971-2026",
+   "county": "Scotland"
   },
   {
    "id": "106832-2026",
@@ -1148,7 +1067,8 @@
     "Demolition"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/106832-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/106832-2026",
+   "county": "Scotland"
   },
   {
    "id": "106517-2026",
@@ -1190,6 +1110,65 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
    "county": "North East"
+  },
+  {
+   "id": "107545-2026",
+   "title": "NHSDG Estates & Property - Term Joinery Contractor",
+   "buyer": "Dumfries and Galloway Health Board",
+   "area": "Scotland",
+   "place": "Dumfries",
+   "value": "£180,000",
+   "term": "",
+   "closes": "2026-12-17T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/107545-2026"
+  },
+  {
+   "id": "107409-2026",
+   "title": "NHSDG Estates & Property Grounds Maintenance",
+   "buyer": "Dumfries and Galloway Health Board",
+   "area": "Scotland",
+   "place": "Dumfries",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-12-17T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/107409-2026"
+  },
+  {
+   "id": "107400-2026",
+   "title": "NHSDG Estates & Property Grounds Maintenance",
+   "buyer": "Dumfries and Galloway Health Board",
+   "area": "Scotland",
+   "place": "Dumfries",
+   "value": "£300,000",
+   "term": "",
+   "closes": "2026-12-17T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/107400-2026"
   },
   {
    "id": "105634-2026",
