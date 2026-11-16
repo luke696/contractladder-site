@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-16",
  "areas": [
   "North East",
   "North West",
@@ -27,225 +27,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "094756-2026",
-   "title": "Interim Capital Programme",
-   "buyer": "Sandwell Metropolitan Borough Council",
-   "area": "West Midlands",
-   "place": "Oldbury",
-   "value": "£16m",
-   "term": "",
-   "closes": "2026-11-13T15:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094756-2026"
-  },
-  {
-   "id": "092532-2026",
-   "title": "Passive Fire Protection Remedial Repairs at Abbey House, Abingdon",
-   "buyer": "Vale of White Horse District Council",
-   "area": "South East",
-   "place": "Abingdon",
-   "value": "£220,000",
-   "term": "",
-   "closes": "2026-11-13T17:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092532-2026"
-  },
-  {
-   "id": "094348-2026",
-   "title": "Supply and instal doors to Hexton Barn, SG5 3HX",
-   "buyer": "Natural England",
-   "area": "East of England",
-   "place": "London",
-   "value": "£18,000",
-   "term": "",
-   "closes": "2026-11-13T23:59",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094348-2026"
-  },
-  {
-   "id": "097721-2026",
-   "title": "Molendinar+Reidvale HAs Landscape Maintenance Framework 2027",
-   "buyer": "Molendinar Park Housing Association Limited",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-16T10:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "097723-2026",
-   "title": "Ground Maintenance Services",
-   "buyer": "Falkirk Council",
-   "area": "Scotland",
-   "place": "Larbert",
-   "value": "£1.5m",
-   "term": "",
-   "closes": "2026-11-16T11:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Grounds & landscaping"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097723-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "098313-2026",
-   "title": "Gas Boiler Services",
-   "buyer": "Maidstone and Tunbridge Wells NHS Trust",
-   "area": "South East",
-   "place": "Maidstone",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098313-2026",
-   "county": "South East"
-  },
-  {
-   "id": "098285-2026",
-   "title": "Boiler chemical and Softener Services",
-   "buyer": "Maidstone and Tunbridge Wells NHS Trust",
-   "area": "South East",
-   "place": "Maidstone",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Surfacing & groundworks"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098285-2026",
-   "county": "South East"
-  },
-  {
-   "id": "097650-2026",
-   "title": "PKC13471 CDT Equipment and LEV Extraction Systems – Servicing, Planned, Preventative and Reactive Maintenance",
-   "buyer": "Perth & Kinross Council",
-   "area": "Scotland",
-   "place": "Perth",
-   "value": "£1m",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097650-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "096183-2026",
-   "title": "Servicing & Maintenance of Fire Suppression Systems Framework Agreement",
-   "buyer": "South Ayrshire Council",
-   "area": "Scotland",
-   "place": "Ayr",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/096183-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "092466-2026",
-   "title": "Home Group Responsive, Voids and DAPA Works – Dumfries and Galloway Scotland",
-   "buyer": "Home Group Scotland",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "£2m",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "county": "Scotland",
-   "url": "https://www.find-tender.service.gov.uk/Notice/092466-2026"
-  },
-  {
-   "id": "092850-2026",
-   "title": "HBC 0926 Aberford Skatepark",
-   "buyer": "Hertsmere Borough Council",
-   "area": "East of England",
-   "place": "Borehamwood",
-   "value": "£300,000",
-   "term": "",
-   "closes": "2026-11-16T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/092850-2026"
-  },
   {
    "id": "097310-2026",
    "title": "Water Hygiene Services",
@@ -991,7 +772,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/107950-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/107950-2026",
+   "county": "Scotland"
   },
   {
    "id": "103686-2026",
@@ -1012,6 +794,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
    "county": "North East"
+  },
+  {
+   "id": "108199-2026",
+   "title": "Glasgow Business Growth Framework - Phase 4",
+   "buyer": "Glasgow City Council",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£3.8m",
+   "term": "",
+   "closes": "2026-12-15T12:00",
+   "call": "check",
+   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
+   "route": "Framework",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/108199-2026"
   },
   {
    "id": "107545-2026",
@@ -1153,6 +954,26 @@
    ],
    "sme": true,
    "url": "https://www.find-tender.service.gov.uk/Notice/093581-2026"
+  },
+  {
+   "id": "108016-2026",
+   "title": "Warden Call Equipment, Smoke Alarms and Automatic Doors - Maintenance, Repairs and Digital Upgrade",
+   "buyer": "Trust Housing Association Ltd",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "£5.5m",
+   "term": "",
+   "closes": "2027-01-08T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/108016-2026"
   },
   {
    "id": "105515-2026",
