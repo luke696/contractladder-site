@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "areas": [
   "North East",
   "North West",
@@ -10,7 +10,6 @@
   "London",
   "South East",
   "South West",
-  "Wales",
   "Scotland"
  ],
  "trades": [
@@ -27,45 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "097310-2026",
-   "title": "Water Hygiene Services",
-   "buyer": "Caledonian Sleeper Limited",
-   "area": "Scotland",
-   "place": "Inverness",
-   "value": "£680,000",
-   "term": "",
-   "closes": "2026-11-16T16:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097310-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094251-2026",
-   "title": "Contract for the Execution of Fire Safety Works",
-   "buyer": "City & County of Swansea",
-   "area": "Wales",
-   "place": "Swansea",
-   "value": "£1.4m",
-   "term": "",
-   "closes": "2026-11-17T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094251-2026"
-  },
   {
    "id": "091912-2026",
    "title": "Repairs & Maintenance Framework",
@@ -812,7 +772,47 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/108199-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/108199-2026",
+   "county": "Scotland"
+  },
+  {
+   "id": "108677-2026",
+   "title": "Landscape Maintenance and Common Close Cleaning Services Contract 2027-2029",
+   "buyer": "Southside Housing Association Ltd",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£1.2m",
+   "term": "",
+   "closes": "2026-12-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026"
+  },
+  {
+   "id": "108639-2026",
+   "title": "Ionad Eilean nan Òige - Phase 3",
+   "buyer": "Comann Eachdraidh Eirisgeidh",
+   "area": "Scotland",
+   "place": "Outer Hebrides",
+   "value": "£3m",
+   "term": "",
+   "closes": "2026-12-16T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/108639-2026"
   },
   {
    "id": "107545-2026",
@@ -973,7 +973,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/108016-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/108016-2026",
+   "county": "Scotland"
   },
   {
    "id": "105515-2026",
