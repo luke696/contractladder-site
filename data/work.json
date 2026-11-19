@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-19",
  "areas": [
   "North East",
   "North West",
@@ -26,47 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "091912-2026",
-   "title": "Repairs & Maintenance Framework",
-   "buyer": "Burnley Borough Council",
-   "area": "North West",
-   "place": "Burnley",
-   "value": "£3.8m",
-   "term": "",
-   "closes": "2026-11-17T17:00",
-   "call": "check",
-   "why": "A framework or approved list. Getting on it is the hard part; after that, work is called off for years.",
-   "route": "Framework",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Roofing & cladding"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091912-2026"
-  },
-  {
-   "id": "098934-2026",
-   "title": "Three Year Contract for Gutter Cleaning and Roof Inspection Services",
-   "buyer": "Reidvale Housing Association",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "£250,000",
-   "term": "",
-   "closes": "2026-11-19T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Roofing & cladding",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098934-2026",
-   "county": "Scotland"
-  },
   {
    "id": "099724-2026",
    "title": "Wood Green Central Multi-Disciplinary Team",
@@ -612,6 +571,25 @@
    "county": "Scotland"
   },
   {
+   "id": "109313-2026",
+   "title": "Hanging Basket Watering Services",
+   "buyer": "Barnsley Metropolitan Borough Council",
+   "area": "Yorkshire and the Humber",
+   "place": "Barnsley, South Yorkshire",
+   "value": "",
+   "term": "",
+   "closes": "2026-12-09T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/109313-2026"
+  },
+  {
    "id": "106031-2026",
    "title": "Provision of Grounds Maintenance and Winter Gritting Services",
    "buyer": "New College Lanarkshire",
@@ -793,7 +771,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/108677-2026",
+   "county": "Scotland"
   },
   {
    "id": "108639-2026",
@@ -812,7 +791,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/108639-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/108639-2026",
+   "county": "Scotland"
   },
   {
    "id": "107545-2026",
@@ -917,6 +897,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094464-2026"
   },
   {
+   "id": "109202-2026",
+   "title": "FTS058 Reception Services - An Lochran, Inverness",
+   "buyer": "Highlands and Islands Enterprise",
+   "area": "Scotland",
+   "place": "Inverness",
+   "value": "£415,000",
+   "term": "",
+   "closes": "2026-12-22T12:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/109202-2026"
+  },
+  {
    "id": "104024-2026",
    "title": "Ground Maintenance",
    "buyer": "Stoke Golding Parish Council",
@@ -954,6 +953,25 @@
    ],
    "sme": true,
    "url": "https://www.find-tender.service.gov.uk/Notice/093581-2026"
+  },
+  {
+   "id": "109733-2026",
+   "title": "PKC14238  Central Heating Upgrade Phase 6",
+   "buyer": "Perth & Kinross Council",
+   "area": "Scotland",
+   "place": "Perth",
+   "value": "£4.7m",
+   "term": "",
+   "closes": "2027-01-07T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/109733-2026"
   },
   {
    "id": "108016-2026",
