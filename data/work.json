@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "areas": [
   "North East",
   "North West",
@@ -26,104 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "099724-2026",
-   "title": "Wood Green Central Multi-Disciplinary Team",
-   "buyer": "London Borough of Haringey",
-   "area": "London",
-   "place": "London",
-   "value": "£1.5m",
-   "term": "",
-   "closes": "2026-11-20T00:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099724-2026",
-   "county": "London"
-  },
-  {
-   "id": "098835-2026",
-   "title": "Three Year Electrical Inspection Contract, Various Addresses, North Glasgow",
-   "buyer": "Cadder Housing Association",
-   "area": "Scotland",
-   "place": "Glasgow",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-20T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Electrical & renewables"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/098835-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "094763-2026",
-   "title": "0661 Boars Head Footbridge Superstructure Renewal Works Contract 2026",
-   "buyer": "Wigan Council",
-   "area": "North West",
-   "place": "Wigan",
-   "value": "£975,000",
-   "term": "",
-   "closes": "2026-11-20T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094763-2026"
-  },
-  {
-   "id": "091636-2026",
-   "title": "Construction of a concrete wheeled sports facility at The Carrs Park, Wilmslow, SK9 4AA",
-   "buyer": "Cheshire East Council",
-   "area": "North West",
-   "place": "Crewe",
-   "value": "£180,000",
-   "term": "",
-   "closes": "2026-11-20T12:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/091636-2026"
-  },
-  {
-   "id": "094313-2026",
-   "title": "Design Supply and install Junior Play Area - Kynaston Rd",
-   "buyer": "Shrewsbury Town Council",
-   "area": "West Midlands",
-   "place": "Shrewsbury",
-   "value": "£85,000",
-   "term": "",
-   "closes": "2026-11-20T13:00",
-   "call": "bid",
-   "why": "Marked by the buyer as suitable for small firms. A realistic one to go for.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Grounds & landscaping",
-    "Surfacing & groundworks"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/094313-2026"
-  },
   {
    "id": "100985-2026",
    "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
@@ -587,7 +489,8 @@
     "Grounds & landscaping"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/109313-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/109313-2026",
+   "county": "Yorkshire and the Humber"
   },
   {
    "id": "106031-2026",
@@ -878,6 +781,26 @@
    "county": "London"
   },
   {
+   "id": "110101-2026",
+   "title": "Hard Facilities Management",
+   "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "",
+   "term": "",
+   "closes": "2026-12-18T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs",
+    "Electrical & renewables"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/110101-2026"
+  },
+  {
    "id": "094464-2026",
    "title": "Stone Walling at Milton Road Cemetery in Weston-super-Mare",
    "buyer": "Weston-super-Mare Town Council",
@@ -897,6 +820,25 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/094464-2026"
   },
   {
+   "id": "109975-2026",
+   "title": "Ionad Eilean nan Òige - Phase 3",
+   "buyer": "Comann Eachdraidh Eirisgeidh",
+   "area": "Scotland",
+   "place": "Outer Hebrides",
+   "value": "£3m",
+   "term": "",
+   "closes": "2026-12-21T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/109975-2026"
+  },
+  {
    "id": "109202-2026",
    "title": "FTS058 Reception Services - An Lochran, Inverness",
    "buyer": "Highlands and Islands Enterprise",
@@ -913,7 +855,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/109202-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/109202-2026",
+   "county": "Scotland"
   },
   {
    "id": "104024-2026",
@@ -955,6 +898,44 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/093581-2026"
   },
   {
+   "id": "110082-2026",
+   "title": "PKC14238  Central Heating Upgrade Phase 6",
+   "buyer": "Perth & Kinross Council",
+   "area": "Scotland",
+   "place": "Perth",
+   "value": "£4.7m",
+   "term": "",
+   "closes": "2027-01-07T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/110082-2026"
+  },
+  {
+   "id": "109938-2026",
+   "title": "PKC14238  Central Heating Upgrade Phase 6",
+   "buyer": "Perth & Kinross Council",
+   "area": "Scotland",
+   "place": "Perth",
+   "value": "£4.7m",
+   "term": "",
+   "closes": "2027-01-07T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Heating & plumbing"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/109938-2026"
+  },
+  {
    "id": "109733-2026",
    "title": "PKC14238  Central Heating Upgrade Phase 6",
    "buyer": "Perth & Kinross Council",
@@ -971,7 +952,8 @@
     "Heating & plumbing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/109733-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/109733-2026",
+   "county": "Scotland"
   },
   {
    "id": "108016-2026",
