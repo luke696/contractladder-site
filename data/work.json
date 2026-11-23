@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "areas": [
   "North East",
   "North West",
@@ -26,67 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "100985-2026",
-   "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
-   "buyer": "NATIONAL COAL MINING MUSEUM FOR ENGLAND",
-   "area": "Yorkshire and the Humber",
-   "place": "Wakefield",
-   "value": "£250,000",
-   "term": "",
-   "closes": "2026-11-23T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/100985-2026",
-   "county": "Yorkshire and the Humber"
-  },
-  {
-   "id": "099191-2026",
-   "title": "EDC/2026/4397 Lift Refurbishment Milngavie Enterprise Centre",
-   "buyer": "East Dunbartonshire Council",
-   "area": "Scotland",
-   "place": "Kirkintilloch",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-23T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Lifts",
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "097177-2026",
-   "title": "Service, Maintenance and Reactive Repair of Sprinkler, Gas Suppression, Dry Riser and Fire Hydrants to various commercial premises 2027 - 20",
-   "buyer": "East Renfrewshire Council",
-   "area": "Scotland",
-   "place": "Giffnock",
-   "value": "£400,000",
-   "term": "",
-   "closes": "2026-11-23T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/097177-2026",
-   "county": "Scotland"
-  },
   {
    "id": "101852-2026",
    "title": "Mobility Installation, Repairs and Maintenance",
@@ -798,7 +737,8 @@
     "Electrical & renewables"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/110101-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/110101-2026",
+   "county": "Scotland"
   },
   {
    "id": "094464-2026",
@@ -836,7 +776,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/109975-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/109975-2026",
+   "county": "Scotland"
   },
   {
    "id": "109202-2026",
@@ -914,7 +855,8 @@
     "Heating & plumbing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/110082-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/110082-2026",
+   "county": "Scotland"
   },
   {
    "id": "109938-2026",
@@ -933,7 +875,8 @@
     "Heating & plumbing"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/109938-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/109938-2026",
+   "county": "Scotland"
   },
   {
    "id": "109733-2026",
