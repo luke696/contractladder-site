@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "areas": [
   "North East",
   "North West",
@@ -957,6 +957,25 @@
    ],
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/092424-2026"
+  },
+  {
+   "id": "111282-2026",
+   "title": "Telemetry Engineering Support Services",
+   "buyer": "Scottish Water",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£13m",
+   "term": "",
+   "closes": "2027-01-20T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111282-2026"
   },
   {
    "id": "084788-2026",
