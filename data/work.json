@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "areas": [
   "North East",
   "North West",
@@ -26,27 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "101852-2026",
-   "title": "Mobility Installation, Repairs and Maintenance",
-   "buyer": "London Borough of Southwark",
-   "area": "London",
-   "place": "London",
-   "value": "£1.2m",
-   "term": "",
-   "closes": "2026-11-25T00:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs",
-    "Electrical & renewables"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026",
-   "county": "London"
-  },
   {
    "id": "099130-2026",
    "title": "Subcontracting Framework for Works and Associated Services",
@@ -839,6 +818,26 @@
    "url": "https://www.find-tender.service.gov.uk/Notice/093581-2026"
   },
   {
+   "id": "111330-2026",
+   "title": "Tree Planting and Maintenance",
+   "buyer": "University Of Edinburgh",
+   "area": "Scotland",
+   "place": "Edinburgh",
+   "value": "£2m",
+   "term": "",
+   "closes": "2027-01-05T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping",
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111330-2026"
+  },
+  {
    "id": "110082-2026",
    "title": "PKC14238  Central Heating Upgrade Phase 6",
    "buyer": "Perth & Kinross Council",
@@ -920,6 +919,44 @@
    "county": "Scotland"
   },
   {
+   "id": "111530-2026",
+   "title": "Managed Maintenance Service for Data Centres",
+   "buyer": "University of St Andrews",
+   "area": "Scotland",
+   "place": "Guardbridge",
+   "value": "",
+   "term": "",
+   "closes": "2027-01-11T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111530-2026"
+  },
+  {
+   "id": "111450-2026",
+   "title": "PROVISION OF DRY DOCKING FACILITIES FOR REFIT/MAINTENANCE AND ASSOCIATED SERVICES OF MARINE VESSELS",
+   "buyer": "Shetland Islands Council",
+   "area": "Scotland",
+   "place": "Lerwick, Shetland",
+   "value": "£6m",
+   "term": "",
+   "closes": "2027-01-11T12:00",
+   "call": "check",
+   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Maintenance & repairs"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111450-2026"
+  },
+  {
    "id": "105515-2026",
    "title": "Provision of Roofing Services",
    "buyer": "UHI North,West and Hebrides",
@@ -975,7 +1012,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111282-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111282-2026",
+   "county": "Scotland"
   },
   {
    "id": "084788-2026",
