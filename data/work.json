@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "areas": [
   "North East",
   "North West",
@@ -26,27 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "099130-2026",
-   "title": "Subcontracting Framework for Works and Associated Services",
-   "buyer": "Tayside Contracts",
-   "area": "Scotland",
-   "place": "Dundee",
-   "value": "£17.2m",
-   "term": "",
-   "closes": "2026-11-26T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment",
-    "Fencing"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026",
-   "county": "Scotland"
-  },
   {
    "id": "103016-2026",
    "title": "Great Hall Bridge Alexandra Palace",
@@ -835,7 +814,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111330-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111330-2026",
+   "county": "Scotland"
   },
   {
    "id": "110082-2026",
@@ -898,6 +878,25 @@
    "county": "Scotland"
   },
   {
+   "id": "111990-2026",
+   "title": "Island Sustainable Travel Masterplans",
+   "buyer": "Argyll and Bute Council",
+   "area": "Scotland",
+   "place": "Lochgilphead",
+   "value": "",
+   "term": "",
+   "closes": "2027-01-08T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111990-2026"
+  },
+  {
    "id": "108016-2026",
    "title": "Warden Call Equipment, Smoke Alarms and Automatic Doors - Maintenance, Repairs and Digital Upgrade",
    "buyer": "Trust Housing Association Ltd",
@@ -935,7 +934,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111530-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111530-2026",
+   "county": "Scotland"
   },
   {
    "id": "111450-2026",
@@ -954,7 +954,8 @@
     "Maintenance & repairs"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111450-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111450-2026",
+   "county": "Scotland"
   },
   {
    "id": "105515-2026",
@@ -975,6 +976,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/105515-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "111991-2026",
+   "title": "Landscaping Oversight",
+   "buyer": "Scottish Enterprise",
+   "area": "Scotland",
+   "place": "Glasgow",
+   "value": "£281,000",
+   "term": "",
+   "closes": "2027-01-13T11:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Grounds & landscaping"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/111991-2026"
   },
   {
    "id": "092424-2026",
