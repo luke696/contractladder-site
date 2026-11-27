@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "areas": [
   "North East",
   "North West",
@@ -26,86 +26,6 @@
   "Plant hire"
  ],
  "tenders": [
-  {
-   "id": "103016-2026",
-   "title": "Great Hall Bridge Alexandra Palace",
-   "buyer": "London Borough of Haringey",
-   "area": "London",
-   "place": "London",
-   "value": "£850,000",
-   "term": "",
-   "closes": "2026-11-27T00:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/103016-2026",
-   "county": "London"
-  },
-  {
-   "id": "101826-2026",
-   "title": "Measured Term Contract for Service, Maintenance and Repairs of Swimming & Spa Pools and Plant",
-   "buyer": "North Ayrshire Council",
-   "area": "Scotland",
-   "place": "Irvine",
-   "value": "£400,000",
-   "term": "",
-   "closes": "2026-11-27T12:00",
-   "call": "bid",
-   "why": "A single job at a size a small or medium firm can win.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/101826-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "100326-2026",
-   "title": "Commercial & Domestic Boilers maintenance Services",
-   "buyer": "University of Stirling",
-   "area": "Scotland",
-   "place": "Stirling",
-   "value": "",
-   "term": "",
-   "closes": "2026-11-27T12:00",
-   "call": "check",
-   "why": "Check the size, insurance levels and experience they ask for before deciding.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Heating & plumbing",
-    "Maintenance & repairs"
-   ],
-   "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/100326-2026",
-   "county": "Scotland"
-  },
-  {
-   "id": "093338-2026",
-   "title": "HAR6126 Rushmead Construction",
-   "buyer": "Tower Hamlets",
-   "area": "London",
-   "place": "London",
-   "value": "£6.7m",
-   "term": "",
-   "closes": "2026-11-27T12:00",
-   "call": "check",
-   "why": "A large contract. Usually needs strong turnover and track record; smaller firms do better on lots or as a named subcontractor.",
-   "route": "Tender",
-   "portal": "Find a Tender notice",
-   "trades": [
-    "Building & refurbishment"
-   ],
-   "sme": true,
-   "url": "https://www.find-tender.service.gov.uk/Notice/093338-2026"
-  },
   {
    "id": "096987-2026",
    "title": "Colne Town Council - Grounds Maintenance",
@@ -429,6 +349,25 @@
    "sme": false,
    "url": "https://www.find-tender.service.gov.uk/Notice/104142-2026",
    "county": "Scotland"
+  },
+  {
+   "id": "112512-2026",
+   "title": "High Road West, Phase 1A Employers Agent and Quantity Surveyor",
+   "buyer": "London Borough of Haringey",
+   "area": "London",
+   "place": "London",
+   "value": "£210,000",
+   "term": "",
+   "closes": "2026-12-11T00:00",
+   "call": "bid",
+   "why": "A single job at a size a small or medium firm can win.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/112512-2026"
   },
   {
    "id": "106971-2026",
@@ -894,7 +833,8 @@
     "Building & refurbishment"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111990-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111990-2026",
+   "county": "Scotland"
   },
   {
    "id": "108016-2026",
@@ -994,7 +934,27 @@
     "Grounds & landscaping"
    ],
    "sme": false,
-   "url": "https://www.find-tender.service.gov.uk/Notice/111991-2026"
+   "url": "https://www.find-tender.service.gov.uk/Notice/111991-2026",
+   "county": "Scotland"
+  },
+  {
+   "id": "112583-2026",
+   "title": "PS-26-185 - AIP Phase 2 - Construction of Centre of Excellence (PRJ0013527)",
+   "buyer": "East Ayrshire Council",
+   "area": "Scotland",
+   "place": "Kilmarnock",
+   "value": "",
+   "term": "",
+   "closes": "2027-01-14T12:00",
+   "call": "check",
+   "why": "Check the size, insurance levels and experience they ask for before deciding.",
+   "route": "Tender",
+   "portal": "Find a Tender notice",
+   "trades": [
+    "Building & refurbishment"
+   ],
+   "sme": false,
+   "url": "https://www.find-tender.service.gov.uk/Notice/112583-2026"
   },
   {
    "id": "092424-2026",
